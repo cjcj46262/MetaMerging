@@ -1,0 +1,25 @@
+2025-09-09 20:03:08,578 - root - INFO - ********** Run starts. **********
+2025-09-09 20:03:08,579 - root - INFO - configuration is Namespace(language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=200, device=device(type='cuda', index=0), dataset_names=['cola', 'sst2', 'mrpc', 'qqp', 'mnli', 'qnli', 'rte'], dataset_name='rte')
+2025-09-09 20:04:10,083 - root - INFO - metastep 0 finished, loss: 3.803248388426644
+2025-09-09 20:04:25,576 - root - INFO - metastep 1 finished, loss: 3.9684040205819264
+2025-09-09 20:04:40,961 - root - INFO - metastep 2 finished, loss: 3.882433533668518
+2025-09-09 20:04:56,619 - root - INFO - metastep 3 finished, loss: 3.8000233854566305
+2025-09-09 20:05:12,475 - root - INFO - metastep 4 finished, loss: 3.031775508608137
+2025-09-09 20:05:28,075 - root - INFO - metastep 5 finished, loss: 3.7733572636331827
+2025-09-09 20:05:43,657 - root - INFO - metastep 6 finished, loss: 3.3253084506307333
+2025-09-09 20:05:59,070 - root - INFO - metastep 7 finished, loss: 2.778158443314689
+2025-09-09 20:06:18,636 - root - INFO - metastep 8 finished, loss: 3.4498936448778426
+2025-09-09 20:06:34,081 - root - INFO - metastep 9 finished, loss: 3.7742456878934587
+2025-09-09 20:06:50,675 - root - INFO - metastep 10 finished, loss: 3.3398625339780534
+2025-09-09 20:07:06,252 - root - INFO - metastep 11 finished, loss: 3.0266517400741577
+2025-09-09 20:07:21,628 - root - INFO - metastep 12 finished, loss: 2.995277575084141
+2025-09-09 20:07:36,958 - root - INFO - metastep 13 finished, loss: 2.9415485007422313
+2025-09-09 20:07:52,353 - root - INFO - metastep 14 finished, loss: 2.9108929463795254
+2025-09-09 20:08:07,718 - root - INFO - metastep 15 finished, loss: 3.5267578363418575
+2025-09-09 20:08:27,406 - root - INFO - metastep 16 finished, loss: 2.755451261997223
+2025-09-09 20:08:43,742 - root - INFO - metastep 17 finished, loss: 3.0163628203528265
+2025-09-09 20:08:59,179 - root - INFO - metastep 18 finished, loss: 3.086791319506509
+2025-09-09 20:09:14,775 - root - INFO - metastep 19 finished, loss: 2.962702189173017
+2025-09-09 20:09:30,323 - root - INFO - metastep 20 finished, loss: 3.060027973992484
+2025-09-09 20:09:45,959 - root - INFO - metastep 21 finished, loss: 2.7434850590569635
+2025-09-09 20:10:01,436 - root - INFO - metastep 22 finished, loss: 3.1127612931387763

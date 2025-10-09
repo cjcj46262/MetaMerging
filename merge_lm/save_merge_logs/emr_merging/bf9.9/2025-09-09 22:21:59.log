@@ -1,0 +1,4 @@
+2025-09-09 22:21:59,752 - root - INFO - ********** Run starts. **********
+2025-09-09 22:21:59,753 - root - INFO - configuration is Namespace(seed=42, language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=2, device=device(type='cuda', index=0), dataset_names=['cola', 'sst2', 'mrpc', 'qqp', 'mnli', 'qnli', 'rte'], dataset_name='rte')
+2025-09-09 22:22:53,795 - root - INFO - metastep 0 finished, loss: 2.612595157963889
+2025-09-09 22:23:09,858 - root - INFO - metastep 1 finished, loss: 2.747698281492506

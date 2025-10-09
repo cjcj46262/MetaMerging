@@ -1,0 +1,13 @@
+2025-09-03 03:47:45,852 - root - INFO - ********** Run starts. **********
+2025-09-03 03:47:45,852 - root - INFO - configuration is Namespace(language_model_name='gpt2', batch_size=16, merging_method_name='emr_merging', gpu=3, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', device='cuda:3', dataset_names=['cola', 'sst2', 'mrpc', 'qqp', 'mnli', 'qnli', 'rte'], dataset_name='rte')
+2025-09-03 03:47:46,972 - datasets.load - WARNING - Using the latest cached version of the dataset since glue couldn't be found on the Hugging Face Hub
+2025-09-03 03:47:46,973 - datasets.packaged_modules.cache.cache - WARNING - Found the latest cached dataset configuration 'cola' at /HDDDATA/data_cj/cache/glue/cola/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c (last modified on Thu Jul 10 16:45:28 2025).
+2025-09-03 03:48:19,680 - root - INFO - acc on cola: 0.5503355860710144
+2025-09-03 03:48:20,854 - datasets.load - WARNING - Using the latest cached version of the dataset since glue couldn't be found on the Hugging Face Hub
+2025-09-03 03:48:20,855 - datasets.packaged_modules.cache.cache - WARNING - Found the latest cached dataset configuration 'sst2' at /HDDDATA/data_cj/cache/glue/sst2/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c (last modified on Thu Jul 10 16:46:13 2025).
+2025-09-03 03:48:48,756 - root - INFO - acc on sst2: 0.5252293348312378
+2025-09-03 03:48:49,772 - datasets.load - WARNING - Using the latest cached version of the dataset since glue couldn't be found on the Hugging Face Hub
+2025-09-03 03:48:49,774 - datasets.packaged_modules.cache.cache - WARNING - Found the latest cached dataset configuration 'mrpc' at /HDDDATA/data_cj/cache/glue/mrpc/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c (last modified on Thu Jul 10 16:46:40 2025).
+2025-09-03 03:49:04,731 - root - INFO - acc on mrpc: 0.5098039507865906
+2025-09-03 03:49:05,603 - datasets.load - WARNING - Using the latest cached version of the dataset since glue couldn't be found on the Hugging Face Hub
+2025-09-03 03:49:05,604 - datasets.packaged_modules.cache.cache - WARNING - Found the latest cached dataset configuration 'qqp' at /HDDDATA/data_cj/cache/glue/qqp/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c (last modified on Thu Jul 10 16:51:56 2025).

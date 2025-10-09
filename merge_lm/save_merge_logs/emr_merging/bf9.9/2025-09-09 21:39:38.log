@@ -1,0 +1,33 @@
+2025-09-09 21:39:38,916 - root - INFO - ********** Run starts. **********
+2025-09-09 21:39:38,916 - root - INFO - configuration is Namespace(language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=2, device=device(type='cuda', index=0), dataset_names=['cola', 'sst2', 'mrpc', 'qqp', 'mnli', 'qnli', 'rte'], dataset_name='rte')
+2025-09-09 21:40:28,769 - root - INFO - metastep 0 finished, loss: 2.410867929458618
+2025-09-09 21:40:44,283 - root - INFO - metastep 1 finished, loss: 1.954388780253274
+2025-09-09 21:40:53,181 - root - INFO - acc on cola: 0.6724137663841248
+2025-09-09 21:41:01,094 - root - INFO - acc on sst2: 0.5532646179199219
+2025-09-09 21:41:09,257 - root - INFO - acc on mrpc: 0.4852941036224365
+2025-09-09 21:43:17,305 - root - INFO - acc on qqp: 0.784868061542511
+2025-09-09 21:43:54,302 - root - INFO - acc on mnli: 0.6178564429283142
+2025-09-09 21:44:16,843 - root - INFO - acc on qnli: 0.6302397847175598
+2025-09-09 21:44:25,413 - root - INFO - acc on rte: 0.4444444477558136
+2025-09-09 21:44:40,549 - root - INFO - acc on cola: 0.6772030591964722
+2025-09-09 21:44:48,222 - root - INFO - acc on sst2: 0.5372279286384583
+2025-09-09 21:44:56,161 - root - INFO - acc on mrpc: 0.5465686321258545
+2025-09-09 21:47:05,395 - root - INFO - acc on qqp: 0.7868220210075378
+2025-09-09 21:47:42,383 - root - INFO - acc on mnli: 0.6198901534080505
+2025-09-09 21:48:03,581 - root - INFO - acc on qnli: 0.5993044376373291
+2025-09-09 21:48:14,236 - root - INFO - acc on rte: 0.458781361579895
+2025-09-09 21:48:14,276 - root - INFO - Final lambdas: tensor([[1.0000, 0.1483, 0.1482, 0.1506, 0.1527, 0.1488, 0.1487, 0.1486]],
+       device='cuda:2', grad_fn=<CatBackward0>)
+2025-09-09 21:48:14,277 - root - INFO - Final lambdas_raw: Parameter containing:
+tensor([[-1.8333, -1.8345, -1.8172, -1.8018, -1.8302, -1.8305, -1.8315]],
+       device='cuda:2', requires_grad=True)
+2025-09-09 21:48:14,279 - root - INFO - Final lambdas: tensor([[1.0000, 0.1483, 0.1482, 0.1506, 0.1527, 0.1488, 0.1487, 0.1486]],
+       device='cuda:0', grad_fn=<CatBackward0>)
+2025-09-09 21:48:14,280 - root - INFO - Final lambdas_raw: Parameter containing:
+tensor([[-1.8333, -1.8345, -1.8172, -1.8018, -1.8302, -1.8305, -1.8315]],
+       device='cuda:0', requires_grad=True)
+2025-09-09 21:48:14,284 - root - INFO - Final lambdas: tensor([[1.0000, 0.1483, 0.1482, 0.1506, 0.1527, 0.1488, 0.1487, 0.1486]],
+       device='cuda:1', grad_fn=<CatBackward0>)
+2025-09-09 21:48:14,286 - root - INFO - Final lambdas_raw: Parameter containing:
+tensor([[-1.8333, -1.8345, -1.8172, -1.8018, -1.8302, -1.8305, -1.8315]],
+       device='cuda:1', requires_grad=True)

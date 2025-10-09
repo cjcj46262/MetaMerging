@@ -1,0 +1,24 @@
+2025-09-09 19:32:07,319 - root - INFO - ********** Run starts. **********
+2025-09-09 19:32:07,319 - root - INFO - configuration is Namespace(language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=200, device=device(type='cuda', index=0), dataset_names=['cola', 'sst2', 'mrpc', 'qqp', 'mnli', 'qnli', 'rte'], dataset_name='rte')
+2025-09-09 19:32:18,505 - root - INFO - acc on cola: 0.6427202820777893
+2025-09-09 19:32:28,689 - root - INFO - acc on sst2: 0.6597937941551208
+2025-09-09 19:32:43,002 - root - INFO - acc on mrpc: 0.7426470518112183
+2025-09-09 19:34:48,495 - root - INFO - acc on qqp: 0.8231802582740784
+2025-09-09 19:35:26,150 - root - INFO - acc on mnli: 0.6218222379684448
+2025-09-09 19:35:49,183 - root - INFO - acc on qnli: 0.5943620800971985
+2025-09-09 19:35:55,607 - root - INFO - acc on rte: 0.458781361579895
+2025-09-09 19:35:55,645 - root - INFO - Final lambdas: tensor([[1.0000, 0.1492, 0.2290, 0.3594, 0.2915, 0.1787, 0.1501, 0.2313]],
+       device='cuda:2', grad_fn=<CatBackward0>)
+2025-09-09 19:35:55,646 - root - INFO - Final lambdas_raw: Parameter containing:
+tensor([[-1.8273, -1.3574, -0.8384, -1.0836, -1.6311, -1.8202, -1.3461]],
+       device='cuda:2', requires_grad=True)
+2025-09-09 19:35:55,647 - root - INFO - Final lambdas: tensor([[1.0000, 0.1492, 0.2290, 0.3594, 0.2915, 0.1787, 0.1501, 0.2313]],
+       device='cuda:0', grad_fn=<CatBackward0>)
+2025-09-09 19:35:55,648 - root - INFO - Final lambdas_raw: Parameter containing:
+tensor([[-1.8273, -1.3574, -0.8384, -1.0836, -1.6311, -1.8202, -1.3461]],
+       device='cuda:0', requires_grad=True)
+2025-09-09 19:35:55,667 - root - INFO - Final lambdas: tensor([[1.0000, 0.1492, 0.2290, 0.3594, 0.2915, 0.1787, 0.1501, 0.2313]],
+       device='cuda:1', grad_fn=<CatBackward0>)
+2025-09-09 19:35:55,668 - root - INFO - Final lambdas_raw: Parameter containing:
+tensor([[-1.8273, -1.3574, -0.8384, -1.0836, -1.6311, -1.8202, -1.3461]],
+       device='cuda:1', requires_grad=True)

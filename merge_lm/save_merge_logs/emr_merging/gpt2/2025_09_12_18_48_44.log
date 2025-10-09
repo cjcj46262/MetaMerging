@@ -1,0 +1,368 @@
+2025-09-12 18:48:44,557 - root - INFO - ********** Run starts. **********
+2025-09-12 18:48:44,557 - root - INFO - configuration is Namespace(seed=42, language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=300, inner_steps=10, metalr=0.01, adalr=0.01, final_epochs=1, device=device(type='cuda', index=0), dataset_names=['cola', 'sst2', 'mrpc', 'qqp', 'mnli', 'qnli', 'rte'], dataset_samples=[2000, 2000, 2000, 2000, 2000, 2000, 2000], dataset_name='rte')
+2025-09-12 18:49:41,471 - root - INFO - metastep 0 finished, loss: 2.9259327650070186
+2025-09-12 18:50:05,993 - root - INFO - metastep 1 finished, loss: 2.4846092547689165
+2025-09-12 18:50:27,617 - root - INFO - metastep 2 finished, loss: 2.444993155343192
+2025-09-12 18:50:48,998 - root - INFO - metastep 3 finished, loss: 2.7578645263399397
+2025-09-12 18:51:10,439 - root - INFO - metastep 4 finished, loss: 2.5534103768212453
+2025-09-12 18:51:31,909 - root - INFO - metastep 5 finished, loss: 2.7696270857538496
+2025-09-12 18:51:52,958 - root - INFO - metastep 6 finished, loss: 3.3255766630172734
+2025-09-12 18:52:13,938 - root - INFO - metastep 7 finished, loss: 3.313967108726502
+2025-09-12 18:52:35,127 - root - INFO - metastep 8 finished, loss: 2.8936176129749844
+2025-09-12 18:52:56,188 - root - INFO - metastep 9 finished, loss: 3.273573909487043
+2025-09-12 18:53:17,200 - root - INFO - metastep 10 finished, loss: 3.5345504922526225
+2025-09-12 18:53:38,120 - root - INFO - metastep 11 finished, loss: 3.1211595535278316
+2025-09-12 18:54:04,517 - root - INFO - metastep 12 finished, loss: 2.3570148519107277
+2025-09-12 18:54:25,388 - root - INFO - metastep 13 finished, loss: 2.5814688461167474
+2025-09-12 18:54:46,193 - root - INFO - metastep 14 finished, loss: 2.398186888013567
+2025-09-12 18:55:07,013 - root - INFO - metastep 15 finished, loss: 3.5961419088499884
+2025-09-12 18:55:28,018 - root - INFO - metastep 16 finished, loss: 2.4930461219378883
+2025-09-12 18:55:48,753 - root - INFO - metastep 17 finished, loss: 2.3124383347375055
+2025-09-12 18:56:09,545 - root - INFO - metastep 18 finished, loss: 2.3125991140093123
+2025-09-12 18:56:30,498 - root - INFO - metastep 19 finished, loss: 2.9798505902290344
+2025-09-12 18:56:51,726 - root - INFO - metastep 20 finished, loss: 2.9716208066259115
+2025-09-12 18:57:12,503 - root - INFO - metastep 21 finished, loss: 3.577113023826054
+2025-09-12 18:57:33,423 - root - INFO - metastep 22 finished, loss: 2.5737737332071577
+2025-09-12 18:57:54,164 - root - INFO - metastep 23 finished, loss: 2.798228434153965
+2025-09-12 18:58:15,075 - root - INFO - metastep 24 finished, loss: 2.601322897842952
+2025-09-12 18:58:42,304 - root - INFO - metastep 25 finished, loss: 3.1705856834139143
+2025-09-12 18:59:02,986 - root - INFO - metastep 26 finished, loss: 2.5050529156412398
+2025-09-12 18:59:23,697 - root - INFO - metastep 27 finished, loss: 2.6673834919929504
+2025-09-12 18:59:44,521 - root - INFO - metastep 28 finished, loss: 2.5979804652077814
+2025-09-12 19:00:05,271 - root - INFO - metastep 29 finished, loss: 2.829476705619267
+2025-09-12 19:00:26,192 - root - INFO - metastep 30 finished, loss: 3.323010674544743
+2025-09-12 19:00:47,012 - root - INFO - metastep 31 finished, loss: 3.406971386500768
+2025-09-12 19:01:07,791 - root - INFO - metastep 32 finished, loss: 2.801989070006779
+2025-09-12 19:01:28,680 - root - INFO - metastep 33 finished, loss: 2.9685843586921687
+2025-09-12 19:01:49,439 - root - INFO - metastep 34 finished, loss: 2.5592797739165167
+2025-09-12 19:02:10,264 - root - INFO - metastep 35 finished, loss: 2.935287032808576
+2025-09-12 19:02:31,048 - root - INFO - metastep 36 finished, loss: 2.3682950735092163
+2025-09-12 19:02:58,031 - root - INFO - metastep 37 finished, loss: 2.504681348800659
+2025-09-12 19:03:18,764 - root - INFO - metastep 38 finished, loss: 2.2962105614798407
+2025-09-12 19:03:39,552 - root - INFO - metastep 39 finished, loss: 2.089642311845507
+2025-09-12 19:04:00,205 - root - INFO - metastep 40 finished, loss: 3.1313098839351103
+2025-09-12 19:04:21,069 - root - INFO - metastep 41 finished, loss: 2.315832018852234
+2025-09-12 19:04:41,763 - root - INFO - metastep 42 finished, loss: 2.3488643510001044
+2025-09-12 19:05:02,591 - root - INFO - metastep 43 finished, loss: 2.9658273628779823
+2025-09-12 19:05:23,218 - root - INFO - metastep 44 finished, loss: 3.3903308340481346
+2025-09-12 19:05:44,049 - root - INFO - metastep 45 finished, loss: 3.075746629919325
+2025-09-12 19:06:04,742 - root - INFO - metastep 46 finished, loss: 2.7290249722344537
+2025-09-12 19:06:25,546 - root - INFO - metastep 47 finished, loss: 2.6371638008526395
+2025-09-12 19:06:46,227 - root - INFO - metastep 48 finished, loss: 3.118283442088536
+2025-09-12 19:07:06,962 - root - INFO - metastep 49 finished, loss: 2.900531121662685
+2025-09-12 19:07:34,180 - root - INFO - metastep 50 finished, loss: 2.949353073324476
+2025-09-12 19:07:54,996 - root - INFO - metastep 51 finished, loss: 2.618465747152056
+2025-09-12 19:08:15,780 - root - INFO - metastep 52 finished, loss: 2.8482332144464766
+2025-09-12 19:08:36,668 - root - INFO - metastep 53 finished, loss: 2.8919002158301215
+2025-09-12 19:08:57,599 - root - INFO - metastep 54 finished, loss: 3.097313455172947
+2025-09-12 19:09:18,474 - root - INFO - metastep 55 finished, loss: 3.0021171058927263
+2025-09-12 19:09:39,537 - root - INFO - metastep 56 finished, loss: 3.134520718029567
+2025-09-12 19:10:00,446 - root - INFO - metastep 57 finished, loss: 3.1498624256678993
+2025-09-12 19:10:21,335 - root - INFO - metastep 58 finished, loss: 2.0918810963630676
+2025-09-12 19:10:42,058 - root - INFO - metastep 59 finished, loss: 3.297819086483546
+2025-09-12 19:11:02,918 - root - INFO - metastep 60 finished, loss: 3.161161397184645
+2025-09-12 19:11:23,844 - root - INFO - metastep 61 finished, loss: 3.3204747523580274
+2025-09-12 19:11:50,541 - root - INFO - metastep 62 finished, loss: 2.1668441593647003
+2025-09-12 19:12:31,833 - root - INFO - metastep 63 finished, loss: 2.584363324301583
+2025-09-12 19:12:52,948 - root - INFO - metastep 64 finished, loss: 2.5832628182002475
+2025-09-12 19:13:13,657 - root - INFO - metastep 65 finished, loss: 2.8503057020051146
+2025-09-12 19:13:34,269 - root - INFO - metastep 66 finished, loss: 2.9349581088338583
+2025-09-12 19:13:55,031 - root - INFO - metastep 67 finished, loss: 2.4144352674484253
+2025-09-12 19:14:15,713 - root - INFO - metastep 68 finished, loss: 2.553875889096941
+2025-09-12 19:14:36,946 - root - INFO - metastep 69 finished, loss: 2.7069555861609325
+2025-09-12 19:14:57,813 - root - INFO - metastep 70 finished, loss: 3.147124426705497
+2025-09-12 19:15:18,496 - root - INFO - metastep 71 finished, loss: 3.762999594211579
+2025-09-12 19:15:39,414 - root - INFO - metastep 72 finished, loss: 2.8983251793043956
+2025-09-12 19:16:00,275 - root - INFO - metastep 73 finished, loss: 2.8003361225128174
+2025-09-12 19:16:20,934 - root - INFO - metastep 74 finished, loss: 3.1232757227761403
+2025-09-12 19:16:47,904 - root - INFO - metastep 75 finished, loss: 2.5819491488592963
+2025-09-12 19:17:08,722 - root - INFO - metastep 76 finished, loss: 2.6271477852548872
+2025-09-12 19:17:29,392 - root - INFO - metastep 77 finished, loss: 2.3060120429311484
+2025-09-12 19:17:50,324 - root - INFO - metastep 78 finished, loss: 2.6690385597092763
+2025-09-12 19:18:11,120 - root - INFO - metastep 79 finished, loss: 2.000310318810599
+2025-09-12 19:18:31,859 - root - INFO - metastep 80 finished, loss: 3.368616214820317
+2025-09-12 19:18:52,652 - root - INFO - metastep 81 finished, loss: 2.722483937229429
+2025-09-12 19:19:13,362 - root - INFO - metastep 82 finished, loss: 2.976466621671404
+2025-09-12 19:19:34,499 - root - INFO - metastep 83 finished, loss: 2.6670956526483813
+2025-09-12 19:19:55,437 - root - INFO - metastep 84 finished, loss: 3.0854646137782504
+2025-09-12 19:20:16,251 - root - INFO - metastep 85 finished, loss: 2.7806049329893927
+2025-09-12 19:20:37,178 - root - INFO - metastep 86 finished, loss: 2.6530254908970425
+2025-09-12 19:21:03,918 - root - INFO - metastep 87 finished, loss: 2.366295141833169
+2025-09-12 19:21:24,610 - root - INFO - metastep 88 finished, loss: 2.871980318001338
+2025-09-12 19:21:45,364 - root - INFO - metastep 89 finished, loss: 2.285611646515983
+2025-09-12 19:22:06,057 - root - INFO - metastep 90 finished, loss: 2.667939918381827
+2025-09-12 19:22:26,678 - root - INFO - metastep 91 finished, loss: 2.9009589041982378
+2025-09-12 19:22:47,476 - root - INFO - metastep 92 finished, loss: 2.6979353853634422
+2025-09-12 19:23:08,191 - root - INFO - metastep 93 finished, loss: 2.719752754483904
+2025-09-12 19:23:28,830 - root - INFO - metastep 94 finished, loss: 3.133489489555359
+2025-09-12 19:23:49,571 - root - INFO - metastep 95 finished, loss: 3.149760169642312
+2025-09-12 19:24:10,294 - root - INFO - metastep 96 finished, loss: 3.4862750555787767
+2025-09-12 19:24:31,028 - root - INFO - metastep 97 finished, loss: 2.4655690363475253
+2025-09-12 19:24:51,747 - root - INFO - metastep 98 finished, loss: 2.5034996271133423
+2025-09-12 19:25:12,413 - root - INFO - metastep 99 finished, loss: 2.3355923209871565
+2025-09-12 19:25:39,162 - root - INFO - metastep 100 finished, loss: 2.456389546394348
+2025-09-12 19:25:59,992 - root - INFO - metastep 101 finished, loss: 1.9261876429830278
+2025-09-12 19:26:20,679 - root - INFO - metastep 102 finished, loss: 2.2137997150421143
+2025-09-12 19:26:41,530 - root - INFO - metastep 103 finished, loss: 2.785431206226349
+2025-09-12 19:27:02,320 - root - INFO - metastep 104 finished, loss: 2.388731939452035
+2025-09-12 19:27:23,029 - root - INFO - metastep 105 finished, loss: 2.8178494998386934
+2025-09-12 19:27:43,870 - root - INFO - metastep 106 finished, loss: 3.4221535367625098
+2025-09-12 19:28:04,554 - root - INFO - metastep 107 finished, loss: 2.8329317229134694
+2025-09-12 19:28:25,286 - root - INFO - metastep 108 finished, loss: 2.5065332991736278
+2025-09-12 19:28:46,154 - root - INFO - metastep 109 finished, loss: 2.5830322929791043
+2025-09-12 19:29:06,940 - root - INFO - metastep 110 finished, loss: 2.5554606403623312
+2025-09-12 19:29:27,672 - root - INFO - metastep 111 finished, loss: 3.0581628680229183
+2025-09-12 19:29:54,578 - root - INFO - metastep 112 finished, loss: 2.9296464579445978
+2025-09-12 19:30:15,257 - root - INFO - metastep 113 finished, loss: 2.9150500893592834
+2025-09-12 19:30:36,018 - root - INFO - metastep 114 finished, loss: 2.3749942098345076
+2025-09-12 19:30:56,636 - root - INFO - metastep 115 finished, loss: 3.370681822299957
+2025-09-12 19:31:17,222 - root - INFO - metastep 116 finished, loss: 3.305465928145817
+2025-09-12 19:31:38,009 - root - INFO - metastep 117 finished, loss: 2.8050639246191293
+2025-09-12 19:31:58,683 - root - INFO - metastep 118 finished, loss: 3.060594081878662
+2025-09-12 19:32:19,313 - root - INFO - metastep 119 finished, loss: 2.4684760315077643
+2025-09-12 19:32:40,023 - root - INFO - metastep 120 finished, loss: 3.0695571473666594
+2025-09-12 19:33:00,663 - root - INFO - metastep 121 finished, loss: 2.6985268763133456
+2025-09-12 19:33:21,295 - root - INFO - metastep 122 finished, loss: 2.9221232788903375
+2025-09-12 19:33:42,016 - root - INFO - metastep 123 finished, loss: 3.299282874379839
+2025-09-12 19:34:02,689 - root - INFO - metastep 124 finished, loss: 3.2459307398114885
+2025-09-12 19:34:29,032 - root - INFO - metastep 125 finished, loss: 2.4582777661936626
+2025-09-12 19:35:11,753 - root - INFO - metastep 126 finished, loss: 2.629858033997672
+2025-09-12 19:35:32,556 - root - INFO - metastep 127 finished, loss: 3.0231081758226668
+2025-09-12 19:35:53,284 - root - INFO - metastep 128 finished, loss: 2.330533478941236
+2025-09-12 19:36:14,075 - root - INFO - metastep 129 finished, loss: 2.1009336880275185
+2025-09-12 19:36:34,692 - root - INFO - metastep 130 finished, loss: 3.591673374176025
+2025-09-12 19:36:55,472 - root - INFO - metastep 131 finished, loss: 2.480260048593794
+2025-09-12 19:37:16,095 - root - INFO - metastep 132 finished, loss: 2.9092239907809665
+2025-09-12 19:37:36,742 - root - INFO - metastep 133 finished, loss: 2.9312372888837546
+2025-09-12 19:37:57,479 - root - INFO - metastep 134 finished, loss: 2.9798414025987894
+2025-09-12 19:38:18,056 - root - INFO - metastep 135 finished, loss: 3.659917371613639
+2025-09-12 19:38:38,584 - root - INFO - metastep 136 finished, loss: 2.7372415704386577
+2025-09-12 19:39:05,139 - root - INFO - metastep 137 finished, loss: 2.9863991396767755
+2025-09-12 19:39:25,711 - root - INFO - metastep 138 finished, loss: 2.161277651786804
+2025-09-12 19:39:46,257 - root - INFO - metastep 139 finished, loss: 2.6940304807254245
+2025-09-12 19:40:06,941 - root - INFO - metastep 140 finished, loss: 2.429358286517007
+2025-09-12 19:40:27,431 - root - INFO - metastep 141 finished, loss: 3.120798247201102
+2025-09-12 19:40:48,073 - root - INFO - metastep 142 finished, loss: 2.1367159528391704
+2025-09-12 19:41:08,602 - root - INFO - metastep 143 finished, loss: 3.1524915524891446
+2025-09-12 19:41:29,103 - root - INFO - metastep 144 finished, loss: 2.218295906271253
+2025-09-12 19:41:49,716 - root - INFO - metastep 145 finished, loss: 3.599135782037463
+2025-09-12 19:42:10,221 - root - INFO - metastep 146 finished, loss: 2.6697454282215665
+2025-09-12 19:42:30,755 - root - INFO - metastep 147 finished, loss: 2.870386728218623
+2025-09-12 19:42:51,419 - root - INFO - metastep 148 finished, loss: 2.6313996400151933
+2025-09-12 19:43:11,970 - root - INFO - metastep 149 finished, loss: 2.6514621462140764
+2025-09-12 19:43:38,282 - root - INFO - metastep 150 finished, loss: 2.497632477964674
+2025-09-12 19:43:58,991 - root - INFO - metastep 151 finished, loss: 2.6777484331812182
+2025-09-12 19:44:19,579 - root - INFO - metastep 152 finished, loss: 2.3816144806998114
+2025-09-12 19:44:40,315 - root - INFO - metastep 153 finished, loss: 2.559408324105399
+2025-09-12 19:45:00,865 - root - INFO - metastep 154 finished, loss: 2.5871639081409996
+2025-09-12 19:45:21,414 - root - INFO - metastep 155 finished, loss: 3.1603561299187795
+2025-09-12 19:45:42,047 - root - INFO - metastep 156 finished, loss: 3.5072857907840183
+2025-09-12 19:46:02,775 - root - INFO - metastep 157 finished, loss: 3.298983028956822
+2025-09-12 19:46:23,338 - root - INFO - metastep 158 finished, loss: 2.5756123747144426
+2025-09-12 19:46:44,088 - root - INFO - metastep 159 finished, loss: 2.9452263201986035
+2025-09-12 19:47:04,707 - root - INFO - metastep 160 finished, loss: 3.327850324766976
+2025-09-12 19:47:25,253 - root - INFO - metastep 161 finished, loss: 2.3714283875056674
+2025-09-12 19:47:52,047 - root - INFO - metastep 162 finished, loss: 2.428924594606672
+2025-09-12 19:48:12,694 - root - INFO - metastep 163 finished, loss: 2.3538259778703963
+2025-09-12 19:48:33,368 - root - INFO - metastep 164 finished, loss: 1.890438778059823
+2025-09-12 19:48:54,150 - root - INFO - metastep 165 finished, loss: 2.5914038079125543
+2025-09-12 19:49:14,754 - root - INFO - metastep 166 finished, loss: 3.212448784283229
+2025-09-12 19:49:35,348 - root - INFO - metastep 167 finished, loss: 2.3457211341176714
+2025-09-12 19:49:56,179 - root - INFO - metastep 168 finished, loss: 3.261949743543352
+2025-09-12 19:50:16,903 - root - INFO - metastep 169 finished, loss: 2.5006396940776274
+2025-09-12 19:50:37,688 - root - INFO - metastep 170 finished, loss: 2.9763726081166952
+2025-09-12 19:50:58,307 - root - INFO - metastep 171 finished, loss: 2.9845529964991977
+2025-09-12 19:51:18,878 - root - INFO - metastep 172 finished, loss: 2.2825715797288075
+2025-09-12 19:51:39,630 - root - INFO - metastep 173 finished, loss: 2.7274438398224965
+2025-09-12 19:52:00,201 - root - INFO - metastep 174 finished, loss: 2.9902248552867343
+2025-09-12 19:52:26,849 - root - INFO - metastep 175 finished, loss: 2.5718902349472046
+2025-09-12 19:52:47,635 - root - INFO - metastep 176 finished, loss: 2.93562947000776
+2025-09-12 19:53:08,245 - root - INFO - metastep 177 finished, loss: 2.9484934551375255
+2025-09-12 19:53:28,922 - root - INFO - metastep 178 finished, loss: 3.1526451195989336
+2025-09-12 19:53:49,594 - root - INFO - metastep 179 finished, loss: 2.7050724029541016
+2025-09-12 19:54:10,481 - root - INFO - metastep 180 finished, loss: 3.3669431379863197
+2025-09-12 19:54:31,138 - root - INFO - metastep 181 finished, loss: 2.834372648171016
+2025-09-12 19:54:51,912 - root - INFO - metastep 182 finished, loss: 2.697218350001744
+2025-09-12 19:55:12,574 - root - INFO - metastep 183 finished, loss: 2.796733209065029
+2025-09-12 19:55:33,238 - root - INFO - metastep 184 finished, loss: 1.9764364532061987
+2025-09-12 19:55:54,017 - root - INFO - metastep 185 finished, loss: 3.547619708946773
+2025-09-12 19:56:14,664 - root - INFO - metastep 186 finished, loss: 3.0997705289295743
+2025-09-12 19:56:42,181 - root - INFO - metastep 187 finished, loss: 3.153880681310381
+2025-09-12 19:57:02,780 - root - INFO - metastep 188 finished, loss: 2.2633372374943326
+2025-09-12 19:57:46,240 - root - INFO - metastep 189 finished, loss: 2.4864746843065535
+2025-09-12 19:58:07,525 - root - INFO - metastep 190 finished, loss: 2.791774868965149
+2025-09-12 19:58:28,358 - root - INFO - metastep 191 finished, loss: 2.6691739559173584
+2025-09-12 19:58:49,089 - root - INFO - metastep 192 finished, loss: 2.484573670795986
+2025-09-12 19:59:09,831 - root - INFO - metastep 193 finished, loss: 3.018649084227426
+2025-09-12 19:59:30,544 - root - INFO - metastep 194 finished, loss: 2.385297179222107
+2025-09-12 19:59:51,264 - root - INFO - metastep 195 finished, loss: 3.20809052671705
+2025-09-12 20:00:12,041 - root - INFO - metastep 196 finished, loss: 3.1161240935325627
+2025-09-12 20:00:32,712 - root - INFO - metastep 197 finished, loss: 2.6998303021703447
+2025-09-12 20:00:53,420 - root - INFO - metastep 198 finished, loss: 2.956437604767935
+2025-09-12 20:01:14,075 - root - INFO - metastep 199 finished, loss: 2.798243658883231
+2025-09-12 20:01:40,685 - root - INFO - metastep 200 finished, loss: 3.1990692360060553
+2025-09-12 20:02:01,542 - root - INFO - metastep 201 finished, loss: 2.1769615582057407
+2025-09-12 20:02:22,207 - root - INFO - metastep 202 finished, loss: 2.6542404975209917
+2025-09-12 20:02:42,854 - root - INFO - metastep 203 finished, loss: 2.846061212675912
+2025-09-12 20:03:03,625 - root - INFO - metastep 204 finished, loss: 2.5108083401407515
+2025-09-12 20:03:24,293 - root - INFO - metastep 205 finished, loss: 2.71746187550681
+2025-09-12 20:03:44,890 - root - INFO - metastep 206 finished, loss: 3.07391140290669
+2025-09-12 20:04:05,704 - root - INFO - metastep 207 finished, loss: 2.4909105641501292
+2025-09-12 20:04:26,417 - root - INFO - metastep 208 finished, loss: 2.6888615829604015
+2025-09-12 20:04:47,132 - root - INFO - metastep 209 finished, loss: 2.5372023497309
+2025-09-12 20:05:07,897 - root - INFO - metastep 210 finished, loss: 3.936888311590467
+2025-09-12 20:05:28,513 - root - INFO - metastep 211 finished, loss: 2.508490008967263
+2025-09-12 20:05:55,134 - root - INFO - metastep 212 finished, loss: 2.7092805675097873
+2025-09-12 20:06:16,048 - root - INFO - metastep 213 finished, loss: 2.4431070429938178
+2025-09-12 20:06:36,869 - root - INFO - metastep 214 finished, loss: 3.0763442942074364
+2025-09-12 20:06:57,792 - root - INFO - metastep 215 finished, loss: 2.546404813017164
+2025-09-12 20:07:18,689 - root - INFO - metastep 216 finished, loss: 2.877968490123749
+2025-09-12 20:07:39,444 - root - INFO - metastep 217 finished, loss: 2.4459166782242914
+2025-09-12 20:08:00,285 - root - INFO - metastep 218 finished, loss: 2.8772001011031016
+2025-09-12 20:08:21,066 - root - INFO - metastep 219 finished, loss: 2.438703230449131
+2025-09-12 20:08:41,806 - root - INFO - metastep 220 finished, loss: 3.1724112289292474
+2025-09-12 20:09:02,620 - root - INFO - metastep 221 finished, loss: 2.8464968970843723
+2025-09-12 20:09:23,382 - root - INFO - metastep 222 finished, loss: 3.7987377260412485
+2025-09-12 20:09:44,238 - root - INFO - metastep 223 finished, loss: 2.648961288588388
+2025-09-12 20:10:05,185 - root - INFO - metastep 224 finished, loss: 2.4324012143271307
+2025-09-12 20:10:31,563 - root - INFO - metastep 225 finished, loss: 2.391397339957101
+2025-09-12 20:10:52,344 - root - INFO - metastep 226 finished, loss: 2.2782172730990817
+2025-09-12 20:11:13,024 - root - INFO - metastep 227 finished, loss: 2.509225768702371
+2025-09-12 20:11:33,688 - root - INFO - metastep 228 finished, loss: 2.4307577354567393
+2025-09-12 20:11:54,390 - root - INFO - metastep 229 finished, loss: 2.457194822175162
+2025-09-12 20:12:15,040 - root - INFO - metastep 230 finished, loss: 2.8316100580351695
+2025-09-12 20:12:35,828 - root - INFO - metastep 231 finished, loss: 3.263351321220398
+2025-09-12 20:12:56,845 - root - INFO - metastep 232 finished, loss: 2.459988789899009
+2025-09-12 20:13:17,455 - root - INFO - metastep 233 finished, loss: 2.578066668340138
+2025-09-12 20:13:38,029 - root - INFO - metastep 234 finished, loss: 2.7190755775996616
+2025-09-12 20:13:58,705 - root - INFO - metastep 235 finished, loss: 3.43216444339071
+2025-09-12 20:14:19,451 - root - INFO - metastep 236 finished, loss: 2.553944613252367
+2025-09-12 20:14:46,015 - root - INFO - metastep 237 finished, loss: 3.0769920349121094
+2025-09-12 20:15:06,845 - root - INFO - metastep 238 finished, loss: 2.656639167240688
+2025-09-12 20:15:27,480 - root - INFO - metastep 239 finished, loss: 2.823543352740152
+2025-09-12 20:15:48,114 - root - INFO - metastep 240 finished, loss: 2.7854752540588374
+2025-09-12 20:16:08,827 - root - INFO - metastep 241 finished, loss: 3.4006734745843072
+2025-09-12 20:16:29,445 - root - INFO - metastep 242 finished, loss: 2.687233286244529
+2025-09-12 20:16:50,138 - root - INFO - metastep 243 finished, loss: 2.9349664875439236
+2025-09-12 20:17:10,776 - root - INFO - metastep 244 finished, loss: 2.8696340748241966
+2025-09-12 20:17:31,344 - root - INFO - metastep 245 finished, loss: 2.6714815327099393
+2025-09-12 20:17:52,212 - root - INFO - metastep 246 finished, loss: 3.3613154206957137
+2025-09-12 20:18:12,833 - root - INFO - metastep 247 finished, loss: 1.8646992785590035
+2025-09-12 20:18:33,443 - root - INFO - metastep 248 finished, loss: 3.0840785418237955
+2025-09-12 20:18:54,243 - root - INFO - metastep 249 finished, loss: 3.04393470287323
+2025-09-12 20:19:20,920 - root - INFO - metastep 250 finished, loss: 3.1952333620616367
+2025-09-12 20:19:41,026 - root - INFO - metastep 251 finished, loss: 2.113231497151511
+2025-09-12 20:20:24,525 - root - INFO - metastep 252 finished, loss: 2.730682270867484
+2025-09-12 20:20:45,209 - root - INFO - metastep 253 finished, loss: 2.795829807009016
+2025-09-12 20:21:06,013 - root - INFO - metastep 254 finished, loss: 2.1841701780046736
+2025-09-12 20:21:26,605 - root - INFO - metastep 255 finished, loss: 2.971534907817841
+2025-09-12 20:21:47,335 - root - INFO - metastep 256 finished, loss: 3.162983843258449
+2025-09-12 20:22:08,235 - root - INFO - metastep 257 finished, loss: 2.3165072798728947
+2025-09-12 20:22:29,164 - root - INFO - metastep 258 finished, loss: 2.603293793542045
+2025-09-12 20:22:49,982 - root - INFO - metastep 259 finished, loss: 2.7127728036471774
+2025-09-12 20:23:10,974 - root - INFO - metastep 260 finished, loss: 3.445802684341159
+2025-09-12 20:23:31,883 - root - INFO - metastep 261 finished, loss: 2.875563374587468
+2025-09-12 20:23:58,404 - root - INFO - metastep 262 finished, loss: 2.6902235490935187
+2025-09-12 20:24:19,311 - root - INFO - metastep 263 finished, loss: 2.8540391581399103
+2025-09-12 20:24:40,167 - root - INFO - metastep 264 finished, loss: 2.3241924473217552
+2025-09-12 20:25:00,920 - root - INFO - metastep 265 finished, loss: 2.740157889468329
+2025-09-12 20:25:21,694 - root - INFO - metastep 266 finished, loss: 2.6522699424198697
+2025-09-12 20:25:42,356 - root - INFO - metastep 267 finished, loss: 2.4789155210767473
+2025-09-12 20:26:03,026 - root - INFO - metastep 268 finished, loss: 2.4429092705249786
+2025-09-12 20:26:23,821 - root - INFO - metastep 269 finished, loss: 3.0616417101451328
+2025-09-12 20:26:44,488 - root - INFO - metastep 270 finished, loss: 3.1624874728066583
+2025-09-12 20:27:05,307 - root - INFO - metastep 271 finished, loss: 3.061282447406224
+2025-09-12 20:27:26,039 - root - INFO - metastep 272 finished, loss: 2.0587773578507558
+2025-09-12 20:27:46,671 - root - INFO - metastep 273 finished, loss: 2.984332885060992
+2025-09-12 20:28:07,465 - root - INFO - metastep 274 finished, loss: 2.449179308755057
+2025-09-12 20:28:33,783 - root - INFO - metastep 275 finished, loss: 2.507528219904218
+2025-09-12 20:28:54,467 - root - INFO - metastep 276 finished, loss: 2.4173478995050703
+2025-09-12 20:29:15,301 - root - INFO - metastep 277 finished, loss: 3.2897180318832397
+2025-09-12 20:29:35,916 - root - INFO - metastep 278 finished, loss: 2.9907619271959573
+2025-09-12 20:29:56,580 - root - INFO - metastep 279 finished, loss: 2.377348167555673
+2025-09-12 20:30:17,430 - root - INFO - metastep 280 finished, loss: 3.2066109095300943
+2025-09-12 20:30:38,076 - root - INFO - metastep 281 finished, loss: 2.926081146512713
+2025-09-12 20:30:58,761 - root - INFO - metastep 282 finished, loss: 2.759816033499581
+2025-09-12 20:31:19,418 - root - INFO - metastep 283 finished, loss: 3.080474589552198
+2025-09-12 20:31:39,985 - root - INFO - metastep 284 finished, loss: 2.567316779068538
+2025-09-12 20:32:00,494 - root - INFO - metastep 285 finished, loss: 3.2664223994527544
+2025-09-12 20:32:21,184 - root - INFO - metastep 286 finished, loss: 2.5473791275705606
+2025-09-12 20:32:48,590 - root - INFO - metastep 287 finished, loss: 2.0929010936192105
+2025-09-12 20:33:10,428 - root - INFO - metastep 288 finished, loss: 2.4425951412745883
+2025-09-12 20:33:31,167 - root - INFO - metastep 289 finished, loss: 2.5370040025029863
+2025-09-12 20:33:51,966 - root - INFO - metastep 290 finished, loss: 1.8953703471592496
+2025-09-12 20:34:12,746 - root - INFO - metastep 291 finished, loss: 2.292576576982226
+2025-09-12 20:34:33,561 - root - INFO - metastep 292 finished, loss: 2.3657098497663225
+2025-09-12 20:34:54,261 - root - INFO - metastep 293 finished, loss: 2.027055961745126
+2025-09-12 20:35:15,018 - root - INFO - metastep 294 finished, loss: 2.924344641821725
+2025-09-12 20:35:35,758 - root - INFO - metastep 295 finished, loss: 3.153166243008205
+2025-09-12 20:35:56,452 - root - INFO - metastep 296 finished, loss: 3.2917576474802828
+2025-09-12 20:36:17,240 - root - INFO - metastep 297 finished, loss: 3.325768615518297
+2025-09-12 20:36:37,880 - root - INFO - metastep 298 finished, loss: 2.3505079575947354
+2025-09-12 20:37:00,060 - root - INFO - metastep 299 finished, loss: 2.3445932269096375
+2025-09-12 20:37:04,790 - root - INFO - Start to train adapter for cola
+2025-09-12 20:37:34,064 - root - INFO - Adapter training, loss: 0.746374213695526
+2025-09-12 20:38:00,350 - root - INFO - Adapter training, loss: 0.5658563807606696
+2025-09-12 20:38:26,717 - root - INFO - Adapter training, loss: 0.5442115798592568
+2025-09-12 20:38:53,139 - root - INFO - Adapter training, loss: 0.485097174346447
+2025-09-12 20:39:19,552 - root - INFO - Adapter training, loss: 0.48377982228994365
+2025-09-12 20:39:45,855 - root - INFO - Adapter training, loss: 0.42666092067956923
+2025-09-12 20:39:58,241 - root - INFO - acc on cola: 0.6934865713119507
+2025-09-12 20:40:03,961 - root - INFO - Start to train adapter for sst2
+2025-09-12 20:40:32,974 - root - INFO - Adapter training, loss: 1.66703200340271
+2025-09-12 20:40:59,417 - root - INFO - Adapter training, loss: 1.3617804169654844
+2025-09-12 20:41:25,799 - root - INFO - Adapter training, loss: 0.9146375924348831
+2025-09-12 20:41:52,238 - root - INFO - Adapter training, loss: 0.8342639684677123
+2025-09-12 20:42:18,638 - root - INFO - Adapter training, loss: 0.8446724474430084
+2025-09-12 20:42:45,010 - root - INFO - Adapter training, loss: 0.858162808418274
+2025-09-12 20:42:56,584 - root - INFO - acc on sst2: 0.8669725060462952
+2025-09-12 20:43:01,225 - root - INFO - Start to train adapter for mrpc
+2025-09-12 20:43:30,861 - root - INFO - Adapter training, loss: 3.3300161838531497
+2025-09-12 20:43:57,418 - root - INFO - Adapter training, loss: 2.5222052633762364
+2025-09-12 20:44:24,027 - root - INFO - Adapter training, loss: 2.0498249202966687
+2025-09-12 20:44:50,524 - root - INFO - Adapter training, loss: 1.555708336830139
+2025-09-12 20:45:17,151 - root - INFO - Adapter training, loss: 1.9099541962146758
+2025-09-12 20:45:43,671 - root - INFO - Adapter training, loss: 1.36276396214962
+2025-09-12 20:45:53,199 - root - INFO - acc on mrpc: 0.7720588445663452
+2025-09-12 20:45:59,363 - root - INFO - Start to train adapter for qqp
+2025-09-12 20:46:28,330 - root - INFO - Adapter training, loss: 2.6317727714776997
+2025-09-12 20:46:54,771 - root - INFO - Adapter training, loss: 2.7882142126560203
+2025-09-12 20:47:21,348 - root - INFO - Adapter training, loss: 2.5097811341285707
+2025-09-12 20:47:47,916 - root - INFO - Adapter training, loss: 2.146796405315399
+2025-09-12 20:48:14,543 - root - INFO - Adapter training, loss: 1.9395194947719576
+2025-09-12 20:48:41,110 - root - INFO - Adapter training, loss: 1.5654065608978271
+2025-09-12 20:57:44,447 - root - INFO - acc on qqp: 0.8327232003211975
+2025-09-12 20:57:51,422 - root - INFO - Start to train adapter for mnli
+2025-09-12 20:58:20,879 - root - INFO - Adapter training, loss: 3.1201806545257567
+2025-09-12 20:58:47,403 - root - INFO - Adapter training, loss: 1.937089613080025
+2025-09-12 20:59:13,869 - root - INFO - Adapter training, loss: 2.137129002809525
+2025-09-12 20:59:40,467 - root - INFO - Adapter training, loss: 2.247428411245346
+2025-09-12 21:00:06,846 - root - INFO - Adapter training, loss: 1.9362330913543702
+2025-09-12 21:00:33,378 - root - INFO - Adapter training, loss: 1.7888012170791627
+2025-09-12 21:02:34,178 - root - INFO - acc on mnli: 0.5464808940887451
+2025-09-12 21:02:38,990 - root - INFO - Start to train adapter for qnli
+2025-09-12 21:03:07,994 - root - INFO - Adapter training, loss: 2.8931398928165435
+2025-09-12 21:03:34,626 - root - INFO - Adapter training, loss: 2.618889576196671
+2025-09-12 21:04:00,997 - root - INFO - Adapter training, loss: 2.250706297159195
+2025-09-12 21:04:27,367 - root - INFO - Adapter training, loss: 1.850497108697891
+2025-09-12 21:04:53,778 - root - INFO - Adapter training, loss: 1.6450739562511445
+2025-09-12 21:05:20,247 - root - INFO - Adapter training, loss: 1.6465312778949737
+2025-09-12 21:06:32,384 - root - INFO - acc on qnli: 0.7479867935180664
+2025-09-12 21:06:37,451 - root - INFO - Start to train adapter for rte
+2025-09-12 21:07:06,563 - root - INFO - Adapter training, loss: 1.0425667643547059
+2025-09-12 21:07:33,058 - root - INFO - Adapter training, loss: 0.6651824563741684
+2025-09-12 21:07:59,532 - root - INFO - Adapter training, loss: 0.6154622942209245
+2025-09-12 21:08:25,949 - root - INFO - Adapter training, loss: 0.40232418775558465
+2025-09-12 21:08:52,412 - root - INFO - Adapter training, loss: 0.4609756693243981
+2025-09-12 21:09:18,900 - root - INFO - Adapter training, loss: 0.39928757324814795
+2025-09-12 21:09:27,774 - root - INFO - acc on rte: 0.6582733988761902
+2025-09-12 21:09:27,894 - root - INFO - Final acc list: [0.6934865713119507, 0.8669725060462952, 0.7720588445663452, 0.8327232003211975, 0.5464808940887451, 0.7479867935180664, 0.6582733988761902], average acc: 0.7311403155326843
+2025-09-12 21:09:27,894 - root - INFO - Total time cost: 8443.337349176407 seconds.
+2025-09-12 21:09:27,894 - root - INFO - ********** Run ends. **********
+
+
+2025-09-12 21:09:27,931 - root - INFO - Final lambdas: tensor([[1.0000, 0.0808, 0.2203, 0.1594, 0.2470, 0.0680, 0.1216, 0.1452]],
+       device='cuda:0', grad_fn=<CatBackward0>)
+2025-09-12 21:09:27,932 - root - INFO - Final lambdas_raw: Parameter containing:
+tensor([[-2.4752, -1.4007, -1.7557, -1.2725, -2.6543, -2.0454, -1.8563]],
+       device='cuda:0', requires_grad=True)

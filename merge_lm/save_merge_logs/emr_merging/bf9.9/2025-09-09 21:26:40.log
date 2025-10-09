@@ -1,0 +1,21 @@
+2025-09-09 21:26:40,376 - root - INFO - ********** Run starts. **********
+2025-09-09 21:26:40,376 - root - INFO - configuration is Namespace(language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=2, device=device(type='cuda', index=0), dataset_names=['cola', 'sst2', 'mrpc', 'qqp', 'mnli', 'qnli', 'rte'], dataset_name='rte')
+2025-09-09 21:27:41,887 - root - INFO - metastep 0 finished, loss: 2.8257061072758263
+2025-09-09 21:27:57,509 - root - INFO - metastep 1 finished, loss: 2.622031194823129
+2025-09-09 21:28:07,165 - root - INFO - acc on cola: 0.6666666865348816
+2025-09-09 21:28:14,411 - root - INFO - acc on sst2: 0.5269186496734619
+2025-09-09 21:28:20,680 - root - INFO - acc on mrpc: 0.3799019753932953
+2025-09-09 21:30:28,852 - root - INFO - acc on qqp: 0.774430513381958
+2025-09-09 21:31:05,840 - root - INFO - acc on mnli: 0.5925360918045044
+2025-09-09 21:31:27,315 - root - INFO - acc on qnli: 0.6274940371513367
+2025-09-09 21:31:32,964 - root - INFO - acc on rte: 0.45519712567329407
+2025-09-09 21:31:40,507 - root - INFO - acc on cola: 0.5201149582862854
+2025-09-09 21:31:48,274 - root - INFO - acc on sst2: 0.5143184661865234
+2025-09-09 21:31:56,520 - root - INFO - acc on mrpc: 0.4632352888584137
+2025-09-09 21:34:05,112 - root - INFO - acc on qqp: 0.7685686945915222
+2025-09-09 21:34:42,890 - root - INFO - acc on mnli: 0.5798251032829285
+2025-09-09 21:35:04,224 - root - INFO - acc on qnli: 0.5740435719490051
+2025-09-09 21:35:10,678 - root - INFO - acc on rte: 0.4695340394973755
+2025-09-09 21:35:18,355 - root - INFO - acc on cola: 0.5201149582862854
+2025-09-09 21:35:25,661 - root - INFO - acc on sst2: 0.5143184661865234
+2025-09-09 21:35:32,133 - root - INFO - acc on mrpc: 0.4632352888584137

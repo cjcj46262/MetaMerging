@@ -1,0 +1,4 @@
+metastep 0 finished, loss: 0.06203140318393707
+metastep 1 finished, loss: 0.06540228426456451
+metastep 2 finished, loss: 0.059634387493133545
+metastep 3 finished, loss: 0.059945546090602875

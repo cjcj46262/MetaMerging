@@ -1,0 +1,16 @@
+2025-09-12 00:45:20,117 - root - INFO - ********** Run starts. **********
+2025-09-12 00:45:20,117 - root - INFO - configuration is Namespace(seed=42, language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=300, device=device(type='cuda', index=0), dataset_names=['cola', 'qnli', 'rte', 'qqp', 'sst2', 'mrpc', 'mnli'], dataset_samples=[2000, 2000, 2000, 2000, 2000, 2000, 2000], dataset_name='mnli')
+2025-09-12 00:46:05,076 - root - INFO - metastep 0 finished, loss: 4.442681874547686
+2025-09-12 00:46:15,677 - root - INFO - metastep 1 finished, loss: 3.7092449835368564
+2025-09-12 00:46:26,044 - root - INFO - metastep 2 finished, loss: 3.65574438231332
+2025-09-12 00:46:36,516 - root - INFO - metastep 3 finished, loss: 3.722771176270076
+2025-09-12 00:46:46,869 - root - INFO - metastep 4 finished, loss: 3.8594589573996405
+2025-09-12 00:46:57,281 - root - INFO - metastep 5 finished, loss: 3.9455225637980873
+2025-09-12 00:47:07,675 - root - INFO - metastep 6 finished, loss: 4.59277835062572
+2025-09-12 00:47:18,050 - root - INFO - metastep 7 finished, loss: 4.339741749422891
+2025-09-12 00:47:28,508 - root - INFO - metastep 8 finished, loss: 2.845826855727604
+2025-09-12 00:47:38,910 - root - INFO - metastep 9 finished, loss: 4.029337797846113
+2025-09-12 00:47:49,374 - root - INFO - metastep 10 finished, loss: 3.228174260684422
+2025-09-12 00:47:59,770 - root - INFO - metastep 11 finished, loss: 3.583772437913077
+2025-09-12 00:48:10,159 - root - INFO - metastep 12 finished, loss: 3.3613422427858626
+2025-09-12 00:48:20,693 - root - INFO - metastep 13 finished, loss: 4.032930936132159

@@ -1,0 +1,13 @@
+2025-09-11 21:18:24,815 - root - INFO - ********** Run starts. **********
+2025-09-11 21:18:24,815 - root - INFO - configuration is Namespace(seed=42, language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=100, device=device(type='cuda', index=0), dataset_names=['qqp', 'sst2', 'cola', 'mrpc', 'mnli', 'qnli', 'rte'], dataset_samples=[2000, 2000, 2000, 3668, 8000, 8000, 2490], dataset_name='rte')
+2025-09-11 21:18:29,445 - root - INFO - Start to train adapter for qqp
+2025-09-11 21:19:02,191 - root - INFO - Adapter training step 0 finished, loss: 11.951824283599855
+2025-09-11 21:19:02,191 - root - INFO - Adapter training step 0 finished, cls loss: 12.583669543266296
+2025-09-11 21:19:32,635 - root - INFO - Adapter training step 0 finished, loss: 5.946696054935456
+2025-09-11 21:19:32,635 - root - INFO - Adapter training step 0 finished, cls loss: 6.690123009681701
+2025-09-11 21:20:01,967 - root - INFO - Adapter training step 0 finished, loss: 6.010489916801453
+2025-09-11 21:20:01,967 - root - INFO - Adapter training step 0 finished, cls loss: 6.752258849143981
+2025-09-11 21:20:30,812 - root - INFO - Adapter training step 0 finished, loss: 6.1111525893211365
+2025-09-11 21:20:30,812 - root - INFO - Adapter training step 0 finished, cls loss: 6.899115896224976
+2025-09-11 21:22:40,600 - root - INFO - acc on qqp: 0.6318418979644775
+2025-09-11 21:22:45,400 - root - INFO - Start to train adapter for sst2

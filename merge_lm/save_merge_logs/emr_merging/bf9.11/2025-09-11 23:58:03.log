@@ -1,0 +1,37 @@
+2025-09-11 23:58:03,979 - root - INFO - ********** Run starts. **********
+2025-09-11 23:58:03,979 - root - INFO - configuration is Namespace(seed=42, language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=100, device=device(type='cuda', index=0), dataset_names=['cola', 'qnli', 'rte', 'qqp', 'sst2', 'mrpc', 'mnli'], dataset_samples=[2000, 2000, 2000, 3668, 8000, 8000, 2490], dataset_name='mnli')
+2025-09-11 23:58:08,653 - root - INFO - Start to train adapter for cola
+2025-09-11 23:58:39,142 - root - INFO - Adapter training step 0 finished, loss: 0.14318267330527304
+2025-09-11 23:58:39,142 - root - INFO - Adapter training step 0 finished, cls loss: 0.41333426535129547
+2025-09-11 23:59:06,986 - root - INFO - Adapter training step 0 finished, loss: 0.10401181466877461
+2025-09-11 23:59:06,987 - root - INFO - Adapter training step 0 finished, cls loss: 0.37144674062728883
+2025-09-11 23:59:35,031 - root - INFO - Adapter training step 0 finished, loss: 0.09997437819838523
+2025-09-11 23:59:35,031 - root - INFO - Adapter training step 0 finished, cls loss: 0.35897328853607174
+2025-09-12 00:00:02,744 - root - INFO - Adapter training step 0 finished, loss: 0.09327992834150792
+2025-09-12 00:00:02,744 - root - INFO - Adapter training step 0 finished, cls loss: 0.3500706955790519
+2025-09-12 00:00:11,981 - root - INFO - acc on cola: 0.6915708780288696
+2025-09-12 00:00:16,538 - root - INFO - Start to train adapter for qnli
+2025-09-12 00:00:49,186 - root - INFO - Adapter training step 0 finished, loss: 0.32660721689462663
+2025-09-12 00:00:49,186 - root - INFO - Adapter training step 0 finished, cls loss: 0.3674360662698746
+2025-09-12 00:01:17,249 - root - INFO - Adapter training step 0 finished, loss: 0.2552788406610489
+2025-09-12 00:01:17,250 - root - INFO - Adapter training step 0 finished, cls loss: 0.2853314980864526
+2025-09-12 00:01:44,801 - root - INFO - Adapter training step 0 finished, loss: 0.24666775912046437
+2025-09-12 00:01:44,802 - root - INFO - Adapter training step 0 finished, cls loss: 0.27566062137484554
+2025-09-12 00:02:12,469 - root - INFO - Adapter training step 0 finished, loss: 0.21623906344175337
+2025-09-12 00:02:12,469 - root - INFO - Adapter training step 0 finished, cls loss: 0.24380514100193976
+2025-09-12 00:02:35,214 - root - INFO - acc on qnli: 0.8116419315338135
+2025-09-12 00:02:40,016 - root - INFO - Start to train adapter for rte
+2025-09-12 00:03:13,962 - root - INFO - Adapter training step 0 finished, loss: 0.1305867645889521
+2025-09-12 00:03:13,962 - root - INFO - Adapter training step 0 finished, cls loss: 0.3139475464820861
+2025-09-12 00:03:42,166 - root - INFO - Adapter training step 0 finished, loss: 0.08741426393389702
+2025-09-12 00:03:42,166 - root - INFO - Adapter training step 0 finished, cls loss: 0.2686169616878033
+2025-09-12 00:04:10,657 - root - INFO - Adapter training step 0 finished, loss: 0.07655773907899856
+2025-09-12 00:04:10,657 - root - INFO - Adapter training step 0 finished, cls loss: 0.24299966692924502
+2025-09-12 00:04:38,802 - root - INFO - Adapter training step 0 finished, loss: 0.07213278226554394
+2025-09-12 00:04:38,802 - root - INFO - Adapter training step 0 finished, cls loss: 0.22625476494431496
+2025-09-12 00:04:45,989 - root - INFO - acc on rte: 0.6379928588867188
+2025-09-12 00:04:50,325 - root - INFO - Start to train adapter for qqp
+2025-09-12 00:05:22,773 - root - INFO - Adapter training step 0 finished, loss: 0.42136507034301757
+2025-09-12 00:05:22,773 - root - INFO - Adapter training step 0 finished, cls loss: 0.4933190420269966
+2025-09-12 00:05:50,451 - root - INFO - Adapter training step 0 finished, loss: 0.3388338223099709
+2025-09-12 00:05:50,451 - root - INFO - Adapter training step 0 finished, cls loss: 0.4322451233863831

@@ -1,0 +1,133 @@
+2025-09-11 22:25:20,226 - root - INFO - ********** Run starts. **********
+2025-09-11 22:25:20,226 - root - INFO - configuration is Namespace(seed=42, language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=100, device=device(type='cuda', index=0), dataset_names=['qnli', 'rte', 'qqp', 'sst2', 'cola', 'mrpc', 'mnli'], dataset_samples=[8000, 2490, 2000, 2000, 2000, 3668, 8000], dataset_name='mnli')
+2025-09-11 22:25:25,743 - root - INFO - Start to train adapter for qnli
+2025-09-11 22:25:57,148 - root - INFO - Adapter training step 0 finished, loss: 3.42908239364624
+2025-09-11 22:25:57,149 - root - INFO - Adapter training step 0 finished, cls loss: 3.435753810405731
+2025-09-11 22:26:28,764 - root - INFO - Adapter training step 0 finished, loss: 2.4125201523303983
+2025-09-11 22:26:28,764 - root - INFO - Adapter training step 0 finished, cls loss: 2.8628533899784094
+2025-09-11 22:26:57,791 - root - INFO - Adapter training step 0 finished, loss: 1.987915799021721
+2025-09-11 22:26:57,792 - root - INFO - Adapter training step 0 finished, cls loss: 2.033467322587967
+2025-09-11 22:27:26,610 - root - INFO - Adapter training step 0 finished, loss: 1.6213422954082484
+2025-09-11 22:27:26,610 - root - INFO - Adapter training step 0 finished, cls loss: 2.028821077942848
+2025-09-11 22:27:55,306 - root - INFO - Adapter training step 0 finished, loss: 1.8027496010065078
+2025-09-11 22:27:55,307 - root - INFO - Adapter training step 0 finished, cls loss: 1.8879345655441282
+2025-09-11 22:28:24,073 - root - INFO - Adapter training step 0 finished, loss: 1.7460614502429963
+2025-09-11 22:28:24,073 - root - INFO - Adapter training step 0 finished, cls loss: 2.085072684288025
+2025-09-11 22:28:52,783 - root - INFO - Adapter training step 0 finished, loss: 1.362164258956909
+2025-09-11 22:28:52,784 - root - INFO - Adapter training step 0 finished, cls loss: 1.7111762046813968
+2025-09-11 22:29:21,560 - root - INFO - Adapter training step 0 finished, loss: 1.579551988840103
+2025-09-11 22:29:21,560 - root - INFO - Adapter training step 0 finished, cls loss: 2.106053918600083
+2025-09-11 22:29:50,478 - root - INFO - Adapter training step 0 finished, loss: 1.236329245567322
+2025-09-11 22:29:50,478 - root - INFO - Adapter training step 0 finished, cls loss: 1.6447448283433914
+2025-09-11 22:30:19,182 - root - INFO - Adapter training step 0 finished, loss: 1.3292573899030686
+2025-09-11 22:30:19,183 - root - INFO - Adapter training step 0 finished, cls loss: 1.624867793917656
+2025-09-11 22:30:47,610 - root - INFO - Adapter training step 0 finished, loss: 1.2243590742349626
+2025-09-11 22:30:47,610 - root - INFO - Adapter training step 0 finished, cls loss: 1.516692331433296
+2025-09-11 22:31:16,156 - root - INFO - Adapter training step 0 finished, loss: 1.3463488310575484
+2025-09-11 22:31:16,156 - root - INFO - Adapter training step 0 finished, cls loss: 1.6322044178843496
+2025-09-11 22:31:44,550 - root - INFO - Adapter training step 0 finished, loss: 1.3339099019765857
+2025-09-11 22:31:44,551 - root - INFO - Adapter training step 0 finished, cls loss: 1.6008223652839664
+2025-09-11 22:32:13,218 - root - INFO - Adapter training step 0 finished, loss: 1.2517118990421294
+2025-09-11 22:32:13,218 - root - INFO - Adapter training step 0 finished, cls loss: 1.5887863606214525
+2025-09-11 22:32:41,684 - root - INFO - Adapter training step 0 finished, loss: 1.3686696529388427
+2025-09-11 22:32:41,684 - root - INFO - Adapter training step 0 finished, cls loss: 1.5947426736354826
+2025-09-11 22:33:10,175 - root - INFO - Adapter training step 0 finished, loss: 1.493969160318375
+2025-09-11 22:33:10,175 - root - INFO - Adapter training step 0 finished, cls loss: 2.069109165668487
+2025-09-11 22:33:47,184 - root - INFO - acc on qnli: 0.8202452659606934
+2025-09-11 22:33:51,717 - root - INFO - Start to train adapter for rte
+2025-09-11 22:34:22,497 - root - INFO - Adapter training step 0 finished, loss: 0.837974090874195
+2025-09-11 22:34:22,498 - root - INFO - Adapter training step 0 finished, cls loss: 3.4804082751274104
+2025-09-11 22:34:50,699 - root - INFO - Adapter training step 0 finished, loss: 0.5164196282625199
+2025-09-11 22:34:50,700 - root - INFO - Adapter training step 0 finished, cls loss: 3.5449676334857934
+2025-09-11 22:35:18,883 - root - INFO - Adapter training step 0 finished, loss: 0.48405797332525263
+2025-09-11 22:35:18,883 - root - INFO - Adapter training step 0 finished, cls loss: 2.9593855649232865
+2025-09-11 22:35:46,847 - root - INFO - Adapter training step 0 finished, loss: 0.3515206500887871
+2025-09-11 22:35:46,847 - root - INFO - Adapter training step 0 finished, cls loss: 2.548091727495194
+2025-09-11 22:36:14,580 - root - INFO - Adapter training step 0 finished, loss: 0.3245813511312008
+2025-09-11 22:36:14,580 - root - INFO - Adapter training step 0 finished, cls loss: 1.9405913472175593
+2025-09-11 22:36:21,835 - root - INFO - acc on rte: 0.6810035705566406
+2025-09-11 22:36:26,292 - root - INFO - Start to train adapter for qqp
+2025-09-11 22:36:56,879 - root - INFO - Adapter training step 0 finished, loss: 3.605263525247574
+2025-09-11 22:36:56,880 - root - INFO - Adapter training step 0 finished, cls loss: 4.061127710342407
+2025-09-11 22:37:24,801 - root - INFO - Adapter training step 0 finished, loss: 2.9097129136323927
+2025-09-11 22:37:24,801 - root - INFO - Adapter training step 0 finished, cls loss: 3.434418523311615
+2025-09-11 22:37:52,678 - root - INFO - Adapter training step 0 finished, loss: 2.7979095935821534
+2025-09-11 22:37:52,678 - root - INFO - Adapter training step 0 finished, cls loss: 3.322025644779205
+2025-09-11 22:38:20,555 - root - INFO - Adapter training step 0 finished, loss: 2.5068346977233893
+2025-09-11 22:38:20,555 - root - INFO - Adapter training step 0 finished, cls loss: 2.9247311651706696
+2025-09-11 22:40:30,142 - root - INFO - acc on qqp: 0.8075486421585083
+2025-09-11 22:40:34,722 - root - INFO - Start to train adapter for sst2
+2025-09-11 22:41:05,191 - root - INFO - Adapter training step 0 finished, loss: 1.9284100234508514
+2025-09-11 22:41:05,191 - root - INFO - Adapter training step 0 finished, cls loss: 4.331341576576234
+2025-09-11 22:41:33,132 - root - INFO - Adapter training step 0 finished, loss: 1.3760553508996962
+2025-09-11 22:41:33,132 - root - INFO - Adapter training step 0 finished, cls loss: 3.4582971036434174
+2025-09-11 22:42:00,609 - root - INFO - Adapter training step 0 finished, loss: 1.0226089149713518
+2025-09-11 22:42:00,609 - root - INFO - Adapter training step 0 finished, cls loss: 2.0302284985780714
+2025-09-11 22:42:28,229 - root - INFO - Adapter training step 0 finished, loss: 0.7105178415775298
+2025-09-11 22:42:28,229 - root - INFO - Adapter training step 0 finished, cls loss: 1.796403002738953
+2025-09-11 22:42:37,197 - root - INFO - acc on sst2: 0.8728522062301636
+2025-09-11 22:42:41,724 - root - INFO - Start to train adapter for cola
+2025-09-11 22:43:13,148 - root - INFO - Adapter training step 0 finished, loss: 0.6536516085267067
+2025-09-11 22:43:13,149 - root - INFO - Adapter training step 0 finished, cls loss: 5.400989007949829
+2025-09-11 22:43:40,694 - root - INFO - Adapter training step 0 finished, loss: 0.5654800027608872
+2025-09-11 22:43:40,694 - root - INFO - Adapter training step 0 finished, cls loss: 5.06238567829132
+2025-09-11 22:44:08,378 - root - INFO - Adapter training step 0 finished, loss: 0.4658944904804229
+2025-09-11 22:44:08,379 - root - INFO - Adapter training step 0 finished, cls loss: 4.1007867872715
+2025-09-11 22:44:35,955 - root - INFO - Adapter training step 0 finished, loss: 0.44893522858619694
+2025-09-11 22:44:35,955 - root - INFO - Adapter training step 0 finished, cls loss: 3.651658248901368
+2025-09-11 22:44:45,581 - root - INFO - acc on cola: 0.6934865713119507
+2025-09-11 22:44:51,314 - root - INFO - Start to train adapter for mrpc
+2025-09-11 22:45:30,241 - root - INFO - Adapter training step 0 finished, loss: 3.351937890052796
+2025-09-11 22:45:30,241 - root - INFO - Adapter training step 0 finished, cls loss: 23.825182247161862
+2025-09-11 22:45:58,055 - root - INFO - Adapter training step 0 finished, loss: 2.5088192284107214
+2025-09-11 22:45:58,055 - root - INFO - Adapter training step 0 finished, cls loss: 19.755941295623778
+2025-09-11 22:46:25,833 - root - INFO - Adapter training step 0 finished, loss: 1.6065212041139607
+2025-09-11 22:46:25,833 - root - INFO - Adapter training step 0 finished, cls loss: 15.460760164260867
+2025-09-11 22:46:53,754 - root - INFO - Adapter training step 0 finished, loss: 1.5608426392078396
+2025-09-11 22:46:53,755 - root - INFO - Adapter training step 0 finished, cls loss: 13.332784891128542
+2025-09-11 22:47:21,733 - root - INFO - Adapter training step 0 finished, loss: 1.5342405587434764
+2025-09-11 22:47:21,733 - root - INFO - Adapter training step 0 finished, cls loss: 12.67141661643982
+2025-09-11 22:47:49,635 - root - INFO - Adapter training step 0 finished, loss: 1.6599237471818922
+2025-09-11 22:47:49,635 - root - INFO - Adapter training step 0 finished, cls loss: 13.764871311187743
+2025-09-11 22:48:17,536 - root - INFO - Adapter training step 0 finished, loss: 1.095073552429676
+2025-09-11 22:48:17,536 - root - INFO - Adapter training step 0 finished, cls loss: 10.337423086166384
+2025-09-11 22:48:37,766 - root - INFO - acc on mrpc: 0.7745097875595093
+2025-09-11 22:48:45,565 - root - INFO - Start to train adapter for mnli
+2025-09-11 22:49:16,195 - root - INFO - Adapter training step 0 finished, loss: 2.811588925123214
+2025-09-11 22:49:16,196 - root - INFO - Adapter training step 0 finished, cls loss: 2.8853472113609313
+2025-09-11 22:49:44,137 - root - INFO - Adapter training step 0 finished, loss: 2.2655671596527096
+2025-09-11 22:49:44,137 - root - INFO - Adapter training step 0 finished, cls loss: 2.1745654165744783
+2025-09-11 22:50:11,987 - root - INFO - Adapter training step 0 finished, loss: 1.921408611536026
+2025-09-11 22:50:11,987 - root - INFO - Adapter training step 0 finished, cls loss: 1.8395640730857847
+2025-09-11 22:50:40,177 - root - INFO - Adapter training step 0 finished, loss: 2.2228322029113765
+2025-09-11 22:50:40,177 - root - INFO - Adapter training step 0 finished, cls loss: 2.138082718849182
+2025-09-11 22:51:07,932 - root - INFO - Adapter training step 0 finished, loss: 2.037510758638382
+2025-09-11 22:51:07,932 - root - INFO - Adapter training step 0 finished, cls loss: 2.013462370634079
+2025-09-11 22:51:35,582 - root - INFO - Adapter training step 0 finished, loss: 1.8015745759010315
+2025-09-11 22:51:35,582 - root - INFO - Adapter training step 0 finished, cls loss: 1.9221441149711607
+2025-09-11 22:52:03,453 - root - INFO - Adapter training step 0 finished, loss: 1.6310818195343018
+2025-09-11 22:52:03,453 - root - INFO - Adapter training step 0 finished, cls loss: 1.6478626906871798
+2025-09-11 22:52:31,312 - root - INFO - Adapter training step 0 finished, loss: 1.8500593453645704
+2025-09-11 22:52:31,312 - root - INFO - Adapter training step 0 finished, cls loss: 1.941302862763405
+2025-09-11 22:52:59,098 - root - INFO - Adapter training step 0 finished, loss: 1.693948292732239
+2025-09-11 22:52:59,098 - root - INFO - Adapter training step 0 finished, cls loss: 1.7257730811834333
+2025-09-11 22:53:26,842 - root - INFO - Adapter training step 0 finished, loss: 1.836169892549515
+2025-09-11 22:53:26,842 - root - INFO - Adapter training step 0 finished, cls loss: 1.7450290143489837
+2025-09-11 22:53:54,718 - root - INFO - Adapter training step 0 finished, loss: 1.51688614487648
+2025-09-11 22:53:54,718 - root - INFO - Adapter training step 0 finished, cls loss: 1.5890013515949248
+2025-09-11 22:54:22,562 - root - INFO - Adapter training step 0 finished, loss: 1.4746333420276643
+2025-09-11 22:54:22,562 - root - INFO - Adapter training step 0 finished, cls loss: 1.514602541923523
+2025-09-11 22:54:50,421 - root - INFO - Adapter training step 0 finished, loss: 1.333198595046997
+2025-09-11 22:54:50,421 - root - INFO - Adapter training step 0 finished, cls loss: 1.172628816962242
+2025-09-11 22:55:18,338 - root - INFO - Adapter training step 0 finished, loss: 1.3331172972917555
+2025-09-11 22:55:18,338 - root - INFO - Adapter training step 0 finished, cls loss: 1.391058620810509
+2025-09-11 22:55:46,213 - root - INFO - Adapter training step 0 finished, loss: 1.5015204191207885
+2025-09-11 22:55:46,214 - root - INFO - Adapter training step 0 finished, cls loss: 1.42438228726387
+2025-09-11 22:56:13,999 - root - INFO - Adapter training step 0 finished, loss: 1.6961875379085543
+2025-09-11 22:56:13,999 - root - INFO - Adapter training step 0 finished, cls loss: 1.6067835509777066
+2025-09-11 22:57:04,326 - root - INFO - acc on mnli: 0.699715256690979
+2025-09-11 22:57:04,365 - root - INFO - Final lambdas: tensor([[1.0000, 0.0969, 0.2754, 0.1792, 0.1918, 0.1238, 0.1792, 0.1182]],
+       device='cuda:0', grad_fn=<CatBackward0>)
+2025-09-11 22:57:04,366 - root - INFO - Final lambdas_raw: Parameter containing:
+tensor([[-2.2857, -1.1486, -1.6285, -1.5540, -2.0262, -1.6283, -2.0756]],
+       device='cuda:0', requires_grad=True)

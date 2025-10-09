@@ -1,0 +1,15 @@
+2025-09-12 00:10:36,746 - root - INFO - ********** Run starts. **********
+2025-09-12 00:10:36,746 - root - INFO - configuration is Namespace(seed=42, language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=100, device=device(type='cuda', index=0), dataset_names=['cola', 'qnli', 'rte', 'qqp', 'sst2', 'mrpc', 'mnli'], dataset_samples=[2000, 2000, 2000, 3668, 8000, 8000, 2490], dataset_name='mnli')
+2025-09-12 00:10:42,571 - root - INFO - Start to train adapter for cola
+2025-09-12 00:11:13,062 - root - INFO - Adapter training step 0 finished, loss: 1.2175365999341012
+2025-09-12 00:11:13,063 - root - INFO - Adapter training step 0 finished, cls loss: 5.741342747211456
+2025-09-12 00:11:41,084 - root - INFO - Adapter training step 0 finished, loss: 0.6318957686424257
+2025-09-12 00:11:41,084 - root - INFO - Adapter training step 0 finished, cls loss: 5.234134161472319
+2025-09-12 00:12:09,313 - root - INFO - Adapter training step 0 finished, loss: 0.5707081727683544
+2025-09-12 00:12:09,313 - root - INFO - Adapter training step 0 finished, cls loss: 5.099777626991271
+2025-09-12 00:12:37,235 - root - INFO - Adapter training step 0 finished, loss: 0.4883919902145862
+2025-09-12 00:12:37,235 - root - INFO - Adapter training step 0 finished, cls loss: 4.209880220890045
+2025-09-12 00:12:46,567 - root - INFO - acc on cola: 0.6915708780288696
+2025-09-12 00:12:50,931 - root - INFO - Start to train adapter for qnli
+2025-09-12 00:13:21,561 - root - INFO - Adapter training step 0 finished, loss: 2.304072308540344
+2025-09-12 00:13:21,561 - root - INFO - Adapter training step 0 finished, cls loss: 2.5719812512397766

@@ -1,0 +1,13 @@
+2025-09-05 05:34:51,313 - root - INFO - ********** Run starts. **********
+2025-09-05 05:34:51,313 - root - INFO - configuration is Namespace(language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=10, device=device(type='cuda', index=2), dataset_names=['cola', 'sst2', 'mrpc', 'qqp', 'mnli', 'qnli', 'rte'], dataset_name='rte')
+2025-09-05 05:34:51,313 - root - INFO - ********** Run starts. **********
+2025-09-05 05:34:51,314 - root - INFO - configuration is Namespace(language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=10, device=device(type='cuda', index=1), dataset_names=['cola', 'sst2', 'mrpc', 'qqp', 'mnli', 'qnli', 'rte'], dataset_name='rte')
+2025-09-05 05:34:51,314 - root - INFO - ********** Run starts. **********
+2025-09-05 05:34:51,314 - root - INFO - configuration is Namespace(language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=10, device=device(type='cuda', index=0), dataset_names=['cola', 'sst2', 'mrpc', 'qqp', 'mnli', 'qnli', 'rte'], dataset_name='rte')
+2025-09-05 05:35:12,197 - root - INFO - acc on cola: 0.5545976758003235
+2025-09-05 05:35:50,019 - root - INFO - acc on sst2: 0.5246277451515198
+2025-09-05 05:36:07,740 - root - INFO - acc on mrpc: 0.5122548937797546
+2025-09-05 05:43:38,939 - root - INFO - acc on qqp: 0.7670599222183228
+2025-09-05 05:47:47,778 - root - INFO - acc on mnli: 0.592739462852478
+2025-09-05 05:49:21,315 - root - INFO - acc on qnli: 0.5764232277870178
+2025-09-05 05:49:40,300 - root - INFO - acc on rte: 0.44086021184921265

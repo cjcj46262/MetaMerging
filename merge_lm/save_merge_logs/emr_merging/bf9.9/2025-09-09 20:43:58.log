@@ -1,0 +1,15 @@
+2025-09-09 20:43:58,438 - root - INFO - ********** Run starts. **********
+2025-09-09 20:43:58,439 - root - INFO - configuration is Namespace(language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=10, device=device(type='cuda', index=0), dataset_names=['cola', 'sst2', 'mrpc', 'qqp', 'mnli', 'qnli', 'rte'], dataset_name='rte')
+2025-09-09 20:44:52,435 - root - INFO - metastep 0 finished, loss: 2.42098423412868
+2025-09-09 20:45:08,130 - root - INFO - metastep 1 finished, loss: 2.282182480607714
+2025-09-09 20:45:23,655 - root - INFO - metastep 2 finished, loss: 2.549556357519967
+2025-09-09 20:45:39,298 - root - INFO - metastep 3 finished, loss: 2.627085217407772
+2025-09-09 20:45:54,982 - root - INFO - metastep 4 finished, loss: 1.8596122648034779
+2025-09-09 20:46:10,637 - root - INFO - metastep 5 finished, loss: 1.9128291606903074
+2025-09-09 20:46:25,778 - root - INFO - metastep 6 finished, loss: 1.4977444069726127
+2025-09-09 20:46:41,260 - root - INFO - metastep 7 finished, loss: 2.319992959499359
+2025-09-09 20:47:00,198 - root - INFO - metastep 8 finished, loss: 2.144671435867037
+2025-09-09 20:47:15,373 - root - INFO - metastep 9 finished, loss: 2.2273437125342235
+2025-09-09 20:47:24,778 - root - INFO - acc on cola: 0.6762452125549316
+2025-09-09 20:47:34,423 - root - INFO - acc on sst2: 0.6071019768714905
+2025-09-09 20:47:41,766 - root - INFO - acc on mrpc: 0.5343137383460999

@@ -1,0 +1,11 @@
+2025-09-11 20:38:00,874 - root - INFO - ********** Run starts. **********
+2025-09-11 20:38:00,874 - root - INFO - configuration is Namespace(seed=42, language_model_name='gpt2', batch_size=8, merging_method_name='emr_merging', gpu=2, ckpt_path='/HDDDATA/data_cj/ckpts/gpt2', epochs=100, device=device(type='cuda', index=0), dataset_names=['sst2', 'cola', 'mrpc', 'qqp', 'mnli', 'qnli', 'rte'], dataset_samples=[2000, 2000, 3668, 8000, 8000, 8000, 2490], dataset_name='rte')
+2025-09-11 20:38:05,568 - root - INFO - Start to train adapter for sst2
+2025-09-11 20:38:36,140 - root - INFO - Adapter training step 0 finished, loss: 2.395681780576706
+2025-09-11 20:38:36,140 - root - INFO - Adapter training step 0 finished, cls loss: 4.535000085830689
+2025-09-11 20:39:04,003 - root - INFO - Adapter training step 0 finished, loss: 1.7311714947223662
+2025-09-11 20:39:04,003 - root - INFO - Adapter training step 0 finished, cls loss: 3.9117921292781825
+2025-09-11 20:39:31,936 - root - INFO - Adapter training step 0 finished, loss: 1.0924343466758728
+2025-09-11 20:39:31,936 - root - INFO - Adapter training step 0 finished, cls loss: 2.4215095698833466
+2025-09-11 20:39:59,840 - root - INFO - Adapter training step 0 finished, loss: 0.9901232212781906
+2025-09-11 20:39:59,840 - root - INFO - Adapter training step 0 finished, cls loss: 2.1361327469348903

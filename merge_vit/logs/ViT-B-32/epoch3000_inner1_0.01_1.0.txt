@@ -1,0 +1,3716 @@
+metastep 0 finished, loss: 0.7261078357696533
+metastep 1 finished, loss: 0.7106077671051025
+metastep 2 finished, loss: 0.7162790298461914
+metastep 3 finished, loss: 0.6858701109886169
+metastep 4 finished, loss: 0.7248194813728333
+metastep 5 finished, loss: 0.6905339956283569
+metastep 6 finished, loss: 0.6778956055641174
+metastep 7 finished, loss: 0.6752684116363525
+metastep 8 finished, loss: 0.6426631808280945
+metastep 9 finished, loss: 0.697335422039032
+metastep 10 finished, loss: 0.6630337238311768
+metastep 11 finished, loss: 0.7364517450332642
+metastep 12 finished, loss: 0.6159922480583191
+metastep 13 finished, loss: 0.641646146774292
+metastep 14 finished, loss: 0.692143976688385
+metastep 15 finished, loss: 0.7185193300247192
+metastep 16 finished, loss: 0.6344983577728271
+metastep 17 finished, loss: 0.6449662446975708
+metastep 18 finished, loss: 0.6740125417709351
+metastep 19 finished, loss: 0.679881751537323
+metastep 20 finished, loss: 0.7127572298049927
+metastep 21 finished, loss: 0.6737126708030701
+metastep 22 finished, loss: 0.5908287167549133
+metastep 23 finished, loss: 0.6507700681686401
+metastep 24 finished, loss: 0.6773439645767212
+metastep 25 finished, loss: 0.6529885530471802
+metastep 26 finished, loss: 0.6698670983314514
+metastep 27 finished, loss: 0.6599307656288147
+metastep 28 finished, loss: 0.619981586933136
+metastep 29 finished, loss: 0.6834359169006348
+metastep 30 finished, loss: 0.6879622340202332
+metastep 31 finished, loss: 0.7173402905464172
+metastep 32 finished, loss: 0.594383716583252
+metastep 33 finished, loss: 0.6319013833999634
+metastep 34 finished, loss: 0.657379686832428
+metastep 35 finished, loss: 0.5757147669792175
+metastep 36 finished, loss: 0.6423825025558472
+metastep 37 finished, loss: 0.6437937617301941
+metastep 38 finished, loss: 0.5695077180862427
+metastep 39 finished, loss: 0.6424070000648499
+metastep 40 finished, loss: 0.6433072686195374
+metastep 41 finished, loss: 0.5844255685806274
+metastep 42 finished, loss: 0.6113541126251221
+metastep 43 finished, loss: 0.6402223706245422
+metastep 44 finished, loss: 0.6024904251098633
+metastep 45 finished, loss: 0.6066626310348511
+metastep 46 finished, loss: 0.6104427576065063
+metastep 47 finished, loss: 0.6205141544342041
+metastep 48 finished, loss: 0.6131490468978882
+metastep 49 finished, loss: 0.5770775675773621
+metastep 50 finished, loss: 0.5800087451934814
+metastep 51 finished, loss: 0.6070809364318848
+metastep 52 finished, loss: 0.5660872459411621
+metastep 53 finished, loss: 0.530586838722229
+metastep 54 finished, loss: 0.5340051054954529
+metastep 55 finished, loss: 0.6075652241706848
+metastep 56 finished, loss: 0.49950575828552246
+metastep 57 finished, loss: 0.53855299949646
+metastep 58 finished, loss: 0.5958679914474487
+metastep 59 finished, loss: 0.5691540837287903
+metastep 60 finished, loss: 0.5758460164070129
+metastep 61 finished, loss: 0.614589273929596
+metastep 62 finished, loss: 0.5405930876731873
+metastep 63 finished, loss: 0.5958027243614197
+metastep 64 finished, loss: 0.5517568588256836
+metastep 65 finished, loss: 0.5572971105575562
+metastep 66 finished, loss: 0.5482481718063354
+metastep 67 finished, loss: 0.5206568241119385
+metastep 68 finished, loss: 0.6375077962875366
+metastep 69 finished, loss: 0.5699975490570068
+metastep 70 finished, loss: 0.60267573595047
+metastep 71 finished, loss: 0.6078897714614868
+metastep 72 finished, loss: 0.5732085108757019
+metastep 73 finished, loss: 0.609420120716095
+metastep 74 finished, loss: 0.5507527589797974
+metastep 75 finished, loss: 0.6019342541694641
+metastep 76 finished, loss: 0.6404781341552734
+metastep 77 finished, loss: 0.5778267979621887
+metastep 78 finished, loss: 0.6584188342094421
+metastep 79 finished, loss: 0.5696450471878052
+metastep 80 finished, loss: 0.6166433095932007
+metastep 81 finished, loss: 0.6471201181411743
+metastep 82 finished, loss: 0.6080654859542847
+metastep 83 finished, loss: 0.6294335126876831
+metastep 84 finished, loss: 0.6248851418495178
+metastep 85 finished, loss: 0.5954461097717285
+metastep 86 finished, loss: 0.5915345549583435
+metastep 87 finished, loss: 0.5836593508720398
+metastep 88 finished, loss: 0.6153113842010498
+metastep 89 finished, loss: 0.6389704942703247
+metastep 90 finished, loss: 0.6002655029296875
+metastep 91 finished, loss: 0.6335325837135315
+metastep 92 finished, loss: 0.6819103360176086
+metastep 93 finished, loss: 0.6334531307220459
+metastep 94 finished, loss: 0.6466517448425293
+metastep 95 finished, loss: 0.5888738036155701
+metastep 96 finished, loss: 0.6798824667930603
+metastep 97 finished, loss: 0.5938328504562378
+metastep 98 finished, loss: 0.5713262557983398
+metastep 99 finished, loss: 0.5350572466850281
+metastep 100 finished, loss: 0.6285536289215088
+metastep 101 finished, loss: 0.6543365716934204
+metastep 102 finished, loss: 0.5361913442611694
+metastep 103 finished, loss: 0.5873883366584778
+metastep 104 finished, loss: 0.6373719573020935
+metastep 105 finished, loss: 0.6609898209571838
+metastep 106 finished, loss: 0.6525671482086182
+metastep 107 finished, loss: 0.5539304614067078
+metastep 108 finished, loss: 0.6093279719352722
+metastep 109 finished, loss: 0.6114007234573364
+metastep 110 finished, loss: 0.5603435635566711
+metastep 111 finished, loss: 0.6032254099845886
+metastep 112 finished, loss: 0.6520614624023438
+metastep 113 finished, loss: 0.6477237343788147
+metastep 114 finished, loss: 0.5568077564239502
+metastep 115 finished, loss: 0.5943310856819153
+metastep 116 finished, loss: 0.6496539115905762
+metastep 117 finished, loss: 0.6057692766189575
+metastep 118 finished, loss: 0.5858834981918335
+metastep 119 finished, loss: 0.6314181685447693
+metastep 120 finished, loss: 0.6205904483795166
+metastep 121 finished, loss: 0.6353665590286255
+metastep 122 finished, loss: 0.6768397688865662
+metastep 123 finished, loss: 0.6453760266304016
+metastep 124 finished, loss: 0.661866307258606
+metastep 125 finished, loss: 0.6653745770454407
+metastep 126 finished, loss: 0.6590111255645752
+metastep 127 finished, loss: 0.5937628746032715
+metastep 128 finished, loss: 0.7449878454208374
+metastep 129 finished, loss: 0.6392235159873962
+metastep 130 finished, loss: 0.5740770101547241
+metastep 131 finished, loss: 0.6231478452682495
+metastep 132 finished, loss: 0.5627117156982422
+metastep 133 finished, loss: 0.6048299074172974
+metastep 134 finished, loss: 0.5939099788665771
+metastep 135 finished, loss: 0.5766474604606628
+metastep 136 finished, loss: 0.635563850402832
+metastep 137 finished, loss: 0.6471573710441589
+metastep 138 finished, loss: 0.6162410378456116
+metastep 139 finished, loss: 0.6104873418807983
+metastep 140 finished, loss: 0.650556743144989
+metastep 141 finished, loss: 0.6145975589752197
+metastep 142 finished, loss: 0.605156421661377
+metastep 143 finished, loss: 0.6346643567085266
+metastep 144 finished, loss: 0.6407519578933716
+metastep 145 finished, loss: 0.6954429745674133
+metastep 146 finished, loss: 0.606827974319458
+metastep 147 finished, loss: 0.5325026512145996
+metastep 148 finished, loss: 0.5633881092071533
+metastep 149 finished, loss: 0.5744316577911377
+metastep 150 finished, loss: 0.5757308006286621
+metastep 151 finished, loss: 0.6270865797996521
+metastep 152 finished, loss: 0.6091705560684204
+metastep 153 finished, loss: 0.5944309234619141
+metastep 154 finished, loss: 0.6660995483398438
+metastep 155 finished, loss: 0.5885838866233826
+metastep 156 finished, loss: 0.5862829685211182
+metastep 157 finished, loss: 0.5864273905754089
+metastep 158 finished, loss: 0.6134052872657776
+metastep 159 finished, loss: 0.5578842163085938
+metastep 160 finished, loss: 0.6183052062988281
+metastep 161 finished, loss: 0.5697026252746582
+metastep 162 finished, loss: 0.556786060333252
+metastep 163 finished, loss: 0.5305126309394836
+metastep 164 finished, loss: 0.6065316796302795
+metastep 165 finished, loss: 0.5747982859611511
+metastep 166 finished, loss: 0.5547934770584106
+metastep 167 finished, loss: 0.613750159740448
+metastep 168 finished, loss: 0.5870406031608582
+metastep 169 finished, loss: 0.5931010246276855
+metastep 170 finished, loss: 0.5543944835662842
+metastep 171 finished, loss: 0.5255853533744812
+metastep 172 finished, loss: 0.5521340370178223
+metastep 173 finished, loss: 0.5260418653488159
+metastep 174 finished, loss: 0.5435523390769958
+metastep 175 finished, loss: 0.5477129220962524
+metastep 176 finished, loss: 0.5543984770774841
+metastep 177 finished, loss: 0.5198512077331543
+metastep 178 finished, loss: 0.5979573726654053
+metastep 179 finished, loss: 0.5666115880012512
+metastep 180 finished, loss: 0.6264057755470276
+metastep 181 finished, loss: 0.5646116137504578
+metastep 182 finished, loss: 0.5726333260536194
+metastep 183 finished, loss: 0.5680394172668457
+metastep 184 finished, loss: 0.5495763421058655
+metastep 185 finished, loss: 0.5176206827163696
+metastep 186 finished, loss: 0.5546987056732178
+metastep 187 finished, loss: 0.5231533646583557
+metastep 188 finished, loss: 0.5655177235603333
+metastep 189 finished, loss: 0.5481873154640198
+metastep 190 finished, loss: 0.576336681842804
+metastep 191 finished, loss: 0.5538318157196045
+metastep 192 finished, loss: 0.6457794308662415
+metastep 193 finished, loss: 0.5564313530921936
+metastep 194 finished, loss: 0.5790337324142456
+metastep 195 finished, loss: 0.6053707003593445
+metastep 196 finished, loss: 0.577544093132019
+metastep 197 finished, loss: 0.565070390701294
+metastep 198 finished, loss: 0.5677201151847839
+metastep 199 finished, loss: 0.5434537529945374
+metastep 200 finished, loss: 0.5892733931541443
+metastep 201 finished, loss: 0.5715087056159973
+metastep 202 finished, loss: 0.5429977178573608
+metastep 203 finished, loss: 0.5476245284080505
+metastep 204 finished, loss: 0.573183000087738
+metastep 205 finished, loss: 0.5608764886856079
+metastep 206 finished, loss: 0.5175444483757019
+metastep 207 finished, loss: 0.5710468292236328
+metastep 208 finished, loss: 0.5895606875419617
+metastep 209 finished, loss: 0.6235994100570679
+metastep 210 finished, loss: 0.548689603805542
+metastep 211 finished, loss: 0.5951202511787415
+metastep 212 finished, loss: 0.6113638281822205
+metastep 213 finished, loss: 0.6088213920593262
+metastep 214 finished, loss: 0.607552707195282
+metastep 215 finished, loss: 0.6283218860626221
+metastep 216 finished, loss: 0.6760210990905762
+metastep 217 finished, loss: 0.6671346426010132
+metastep 218 finished, loss: 0.659751296043396
+metastep 219 finished, loss: 0.6550279855728149
+metastep 220 finished, loss: 0.6672890186309814
+metastep 221 finished, loss: 0.6515166759490967
+metastep 222 finished, loss: 0.5456991195678711
+metastep 223 finished, loss: 0.6185042858123779
+metastep 224 finished, loss: 0.6610642671585083
+metastep 225 finished, loss: 0.6912838220596313
+metastep 226 finished, loss: 0.6348344683647156
+metastep 227 finished, loss: 0.5800447463989258
+metastep 228 finished, loss: 0.5930052995681763
+metastep 229 finished, loss: 0.6563615202903748
+metastep 230 finished, loss: 0.6480640769004822
+metastep 231 finished, loss: 0.6174535751342773
+metastep 232 finished, loss: 0.6709058880805969
+metastep 233 finished, loss: 0.5376203060150146
+metastep 234 finished, loss: 0.6573604345321655
+metastep 235 finished, loss: 0.565386950969696
+metastep 236 finished, loss: 0.5650049448013306
+metastep 237 finished, loss: 0.5797295570373535
+metastep 238 finished, loss: 0.6052342057228088
+metastep 239 finished, loss: 0.6442908644676208
+metastep 240 finished, loss: 0.6616039872169495
+metastep 241 finished, loss: 0.5852551460266113
+metastep 242 finished, loss: 0.6084131002426147
+metastep 243 finished, loss: 0.6397385001182556
+metastep 244 finished, loss: 0.5767247676849365
+metastep 245 finished, loss: 0.544792652130127
+metastep 246 finished, loss: 0.5972379446029663
+metastep 247 finished, loss: 0.59475177526474
+metastep 248 finished, loss: 0.6100907921791077
+metastep 249 finished, loss: 0.6388095021247864
+metastep 250 finished, loss: 0.5096341967582703
+metastep 251 finished, loss: 0.5853277444839478
+metastep 252 finished, loss: 0.6202341318130493
+metastep 253 finished, loss: 0.6108815670013428
+metastep 254 finished, loss: 0.6045334339141846
+metastep 255 finished, loss: 0.5793503522872925
+metastep 256 finished, loss: 0.5866934657096863
+metastep 257 finished, loss: 0.5494582056999207
+metastep 258 finished, loss: 0.5874581933021545
+metastep 259 finished, loss: 0.6099083423614502
+metastep 260 finished, loss: 0.6182295083999634
+metastep 261 finished, loss: 0.6248076558113098
+metastep 262 finished, loss: 0.5943697690963745
+metastep 263 finished, loss: 0.5806889533996582
+metastep 264 finished, loss: 0.5583038330078125
+metastep 265 finished, loss: 0.5628003478050232
+metastep 266 finished, loss: 0.592052698135376
+metastep 267 finished, loss: 0.5576683282852173
+metastep 268 finished, loss: 0.5832987427711487
+metastep 269 finished, loss: 0.6123412847518921
+metastep 270 finished, loss: 0.5961011648178101
+metastep 271 finished, loss: 0.6445596814155579
+metastep 272 finished, loss: 0.6212371587753296
+metastep 273 finished, loss: 0.6554017066955566
+metastep 274 finished, loss: 0.5750279426574707
+metastep 275 finished, loss: 0.6266245245933533
+metastep 276 finished, loss: 0.6213833093643188
+metastep 277 finished, loss: 0.5572221279144287
+metastep 278 finished, loss: 0.6267956495285034
+metastep 279 finished, loss: 0.5966435074806213
+metastep 280 finished, loss: 0.6118901968002319
+metastep 281 finished, loss: 0.5734578967094421
+metastep 282 finished, loss: 0.6022847890853882
+metastep 283 finished, loss: 0.5924443006515503
+metastep 284 finished, loss: 0.6374397277832031
+metastep 285 finished, loss: 0.608956515789032
+metastep 286 finished, loss: 0.6338071823120117
+metastep 287 finished, loss: 0.6000258922576904
+metastep 288 finished, loss: 0.6392764449119568
+metastep 289 finished, loss: 0.49932849407196045
+metastep 290 finished, loss: 0.4943416714668274
+metastep 291 finished, loss: 0.5171930193901062
+metastep 292 finished, loss: 0.5690679550170898
+metastep 293 finished, loss: 0.547818124294281
+metastep 294 finished, loss: 0.5562942028045654
+metastep 295 finished, loss: 0.5527123808860779
+metastep 296 finished, loss: 0.5552980899810791
+metastep 297 finished, loss: 0.511238694190979
+metastep 298 finished, loss: 0.5572614073753357
+metastep 299 finished, loss: 0.517792820930481
+metastep 300 finished, loss: 0.5728647708892822
+metastep 301 finished, loss: 0.5590951442718506
+metastep 302 finished, loss: 0.5041550993919373
+metastep 303 finished, loss: 0.5005944967269897
+metastep 304 finished, loss: 0.586353600025177
+metastep 305 finished, loss: 0.5013896822929382
+metastep 306 finished, loss: 0.5668841600418091
+metastep 307 finished, loss: 0.5554329752922058
+metastep 308 finished, loss: 0.5703637003898621
+metastep 309 finished, loss: 0.5036349892616272
+metastep 310 finished, loss: 0.5164282321929932
+metastep 311 finished, loss: 0.5726406574249268
+metastep 312 finished, loss: 0.5611494183540344
+metastep 313 finished, loss: 0.5160134434700012
+metastep 314 finished, loss: 0.5259679555892944
+metastep 315 finished, loss: 0.6018620729446411
+metastep 316 finished, loss: 0.5835106372833252
+metastep 317 finished, loss: 0.5065464377403259
+metastep 318 finished, loss: 0.5459521412849426
+metastep 319 finished, loss: 0.6084246635437012
+metastep 320 finished, loss: 0.576738178730011
+metastep 321 finished, loss: 0.5745546221733093
+metastep 322 finished, loss: 0.5464836955070496
+metastep 323 finished, loss: 0.5134974718093872
+metastep 324 finished, loss: 0.5835325121879578
+metastep 325 finished, loss: 0.579743504524231
+metastep 326 finished, loss: 0.6111025810241699
+metastep 327 finished, loss: 0.5971100330352783
+metastep 328 finished, loss: 0.5849224328994751
+metastep 329 finished, loss: 0.5994442105293274
+metastep 330 finished, loss: 0.615868330001831
+metastep 331 finished, loss: 0.6303302645683289
+metastep 332 finished, loss: 0.5650731325149536
+metastep 333 finished, loss: 0.629050612449646
+metastep 334 finished, loss: 0.6070322394371033
+metastep 335 finished, loss: 0.6003101468086243
+metastep 336 finished, loss: 0.6327019333839417
+metastep 337 finished, loss: 0.5898206233978271
+metastep 338 finished, loss: 0.6904041171073914
+metastep 339 finished, loss: 0.6289333701133728
+metastep 340 finished, loss: 0.5967437028884888
+metastep 341 finished, loss: 0.6454946398735046
+metastep 342 finished, loss: 0.5521184206008911
+metastep 343 finished, loss: 0.5954816341400146
+metastep 344 finished, loss: 0.6198017001152039
+metastep 345 finished, loss: 0.557664692401886
+metastep 346 finished, loss: 0.5311864614486694
+metastep 347 finished, loss: 0.6568123698234558
+metastep 348 finished, loss: 0.6125053763389587
+metastep 349 finished, loss: 0.5680630207061768
+metastep 350 finished, loss: 0.617917537689209
+metastep 351 finished, loss: 0.6250280141830444
+metastep 352 finished, loss: 0.5439677238464355
+metastep 353 finished, loss: 0.5941020250320435
+metastep 354 finished, loss: 0.6288730502128601
+metastep 355 finished, loss: 0.5360153913497925
+metastep 356 finished, loss: 0.6313258409500122
+metastep 357 finished, loss: 0.5563268065452576
+metastep 358 finished, loss: 0.5058435201644897
+metastep 359 finished, loss: 0.5986381769180298
+metastep 360 finished, loss: 0.5431230068206787
+metastep 361 finished, loss: 0.6133754253387451
+metastep 362 finished, loss: 0.5865543484687805
+metastep 363 finished, loss: 0.6268457770347595
+metastep 364 finished, loss: 0.6132377982139587
+metastep 365 finished, loss: 0.6436137557029724
+metastep 366 finished, loss: 0.5689530372619629
+metastep 367 finished, loss: 0.6156744956970215
+metastep 368 finished, loss: 0.5857990980148315
+metastep 369 finished, loss: 0.5636425614356995
+metastep 370 finished, loss: 0.5417430996894836
+metastep 371 finished, loss: 0.5874748229980469
+metastep 372 finished, loss: 0.6141469478607178
+metastep 373 finished, loss: 0.629372239112854
+metastep 374 finished, loss: 0.5913079977035522
+metastep 375 finished, loss: 0.5957764983177185
+metastep 376 finished, loss: 0.5763761401176453
+metastep 377 finished, loss: 0.608463704586029
+metastep 378 finished, loss: 0.60115647315979
+metastep 379 finished, loss: 0.5937277674674988
+metastep 380 finished, loss: 0.6203372478485107
+metastep 381 finished, loss: 0.5809224247932434
+metastep 382 finished, loss: 0.555742084980011
+metastep 383 finished, loss: 0.5355677008628845
+metastep 384 finished, loss: 0.6398472189903259
+metastep 385 finished, loss: 0.5519388914108276
+metastep 386 finished, loss: 0.5855216383934021
+metastep 387 finished, loss: 0.6935272216796875
+metastep 388 finished, loss: 0.5824847221374512
+metastep 389 finished, loss: 0.5854649543762207
+metastep 390 finished, loss: 0.6061698794364929
+metastep 391 finished, loss: 0.5859414935112
+metastep 392 finished, loss: 0.5791369676589966
+metastep 393 finished, loss: 0.5792558193206787
+metastep 394 finished, loss: 0.5791941285133362
+metastep 395 finished, loss: 0.5928031206130981
+metastep 396 finished, loss: 0.5401597023010254
+metastep 397 finished, loss: 0.5288662314414978
+metastep 398 finished, loss: 0.5602244734764099
+metastep 399 finished, loss: 0.5360563397407532
+metastep 400 finished, loss: 0.590946614742279
+metastep 401 finished, loss: 0.5728422999382019
+metastep 402 finished, loss: 0.5423270463943481
+metastep 403 finished, loss: 0.5961147546768188
+metastep 404 finished, loss: 0.6007806062698364
+metastep 405 finished, loss: 0.5779377818107605
+metastep 406 finished, loss: 0.591390073299408
+metastep 407 finished, loss: 0.5770431160926819
+metastep 408 finished, loss: 0.6273002028465271
+metastep 409 finished, loss: 0.6639021039009094
+metastep 410 finished, loss: 0.6163886785507202
+metastep 411 finished, loss: 0.5981720089912415
+metastep 412 finished, loss: 0.6410115361213684
+metastep 413 finished, loss: 0.628174901008606
+metastep 414 finished, loss: 0.5427789688110352
+metastep 415 finished, loss: 0.5669242739677429
+metastep 416 finished, loss: 0.611203670501709
+metastep 417 finished, loss: 0.5975070595741272
+metastep 418 finished, loss: 0.5079041719436646
+metastep 419 finished, loss: 0.61913001537323
+metastep 420 finished, loss: 0.5859594345092773
+metastep 421 finished, loss: 0.5904626250267029
+metastep 422 finished, loss: 0.6185466051101685
+metastep 423 finished, loss: 0.5466266870498657
+metastep 424 finished, loss: 0.5555489659309387
+metastep 425 finished, loss: 0.5464489459991455
+metastep 426 finished, loss: 0.5952295064926147
+metastep 427 finished, loss: 0.6190738081932068
+metastep 428 finished, loss: 0.6159684062004089
+metastep 429 finished, loss: 0.661567747592926
+metastep 430 finished, loss: 0.5661938786506653
+metastep 431 finished, loss: 0.5206410884857178
+metastep 432 finished, loss: 0.5842918157577515
+metastep 433 finished, loss: 0.5964037179946899
+metastep 434 finished, loss: 0.586300253868103
+metastep 435 finished, loss: 0.6160978078842163
+metastep 436 finished, loss: 0.5774511098861694
+metastep 437 finished, loss: 0.572259247303009
+metastep 438 finished, loss: 0.5502710342407227
+metastep 439 finished, loss: 0.5508785247802734
+metastep 440 finished, loss: 0.5647183656692505
+metastep 441 finished, loss: 0.5396060943603516
+metastep 442 finished, loss: 0.591471254825592
+metastep 443 finished, loss: 0.5715859532356262
+metastep 444 finished, loss: 0.5797854065895081
+metastep 445 finished, loss: 0.5656352639198303
+metastep 446 finished, loss: 0.5836193561553955
+metastep 447 finished, loss: 0.5993092060089111
+metastep 448 finished, loss: 0.5926635265350342
+metastep 449 finished, loss: 0.5630393028259277
+metastep 450 finished, loss: 0.5712265968322754
+metastep 451 finished, loss: 0.6394757032394409
+metastep 452 finished, loss: 0.6208954453468323
+metastep 453 finished, loss: 0.6126577258110046
+metastep 454 finished, loss: 0.5779484510421753
+metastep 455 finished, loss: 0.5412583947181702
+metastep 456 finished, loss: 0.6072134375572205
+metastep 457 finished, loss: 0.6520485281944275
+metastep 458 finished, loss: 0.5645253658294678
+metastep 459 finished, loss: 0.576945960521698
+metastep 460 finished, loss: 0.5493977665901184
+metastep 461 finished, loss: 0.5551081299781799
+metastep 462 finished, loss: 0.5482040047645569
+metastep 463 finished, loss: 0.5530156493186951
+metastep 464 finished, loss: 0.5830641984939575
+metastep 465 finished, loss: 0.547772228717804
+metastep 466 finished, loss: 0.5707457661628723
+metastep 467 finished, loss: 0.5940740704536438
+metastep 468 finished, loss: 0.49391359090805054
+metastep 469 finished, loss: 0.48955756425857544
+metastep 470 finished, loss: 0.5667107105255127
+metastep 471 finished, loss: 0.5919785499572754
+metastep 472 finished, loss: 0.5829427242279053
+metastep 473 finished, loss: 0.5647825002670288
+metastep 474 finished, loss: 0.550524115562439
+metastep 475 finished, loss: 0.6035528182983398
+metastep 476 finished, loss: 0.5555887222290039
+metastep 477 finished, loss: 0.5753395557403564
+metastep 478 finished, loss: 0.5624877214431763
+metastep 479 finished, loss: 0.529855489730835
+metastep 480 finished, loss: 0.5188496112823486
+metastep 481 finished, loss: 0.5826348066329956
+metastep 482 finished, loss: 0.5765013694763184
+metastep 483 finished, loss: 0.5339670181274414
+metastep 484 finished, loss: 0.6227864027023315
+metastep 485 finished, loss: 0.5882270336151123
+metastep 486 finished, loss: 0.557860791683197
+metastep 487 finished, loss: 0.590398907661438
+metastep 488 finished, loss: 0.5220640301704407
+metastep 489 finished, loss: 0.5467950105667114
+metastep 490 finished, loss: 0.5805687308311462
+metastep 491 finished, loss: 0.6202844381332397
+metastep 492 finished, loss: 0.6382806301116943
+metastep 493 finished, loss: 0.5474722981452942
+metastep 494 finished, loss: 0.5954717397689819
+metastep 495 finished, loss: 0.5432178974151611
+metastep 496 finished, loss: 0.5664581656455994
+metastep 497 finished, loss: 0.6119540929794312
+metastep 498 finished, loss: 0.5272666811943054
+metastep 499 finished, loss: 0.48633524775505066
+metastep 500 finished, loss: 0.5596424341201782
+metastep 501 finished, loss: 0.4978489875793457
+metastep 502 finished, loss: 0.4916227459907532
+metastep 503 finished, loss: 0.5674402713775635
+metastep 504 finished, loss: 0.5879130959510803
+metastep 505 finished, loss: 0.5204669833183289
+metastep 506 finished, loss: 0.5576549768447876
+metastep 507 finished, loss: 0.5438273549079895
+metastep 508 finished, loss: 0.5162461996078491
+metastep 509 finished, loss: 0.5367590188980103
+metastep 510 finished, loss: 0.5588834285736084
+metastep 511 finished, loss: 0.5765898823738098
+metastep 512 finished, loss: 0.5490278005599976
+metastep 513 finished, loss: 0.5698732137680054
+metastep 514 finished, loss: 0.5970543026924133
+metastep 515 finished, loss: 0.6033154129981995
+metastep 516 finished, loss: 0.5721914768218994
+metastep 517 finished, loss: 0.5342689156532288
+metastep 518 finished, loss: 0.6220647096633911
+metastep 519 finished, loss: 0.5278518795967102
+metastep 520 finished, loss: 0.47297167778015137
+metastep 521 finished, loss: 0.5609889626502991
+metastep 522 finished, loss: 0.5639660954475403
+metastep 523 finished, loss: 0.5194271802902222
+metastep 524 finished, loss: 0.5677435994148254
+metastep 525 finished, loss: 0.5638433694839478
+metastep 526 finished, loss: 0.5394479632377625
+metastep 527 finished, loss: 0.5264583826065063
+metastep 528 finished, loss: 0.5123417377471924
+metastep 529 finished, loss: 0.5938516855239868
+metastep 530 finished, loss: 0.4998987317085266
+metastep 531 finished, loss: 0.5371701121330261
+metastep 532 finished, loss: 0.5438007712364197
+metastep 533 finished, loss: 0.5749226808547974
+metastep 534 finished, loss: 0.559982419013977
+metastep 535 finished, loss: 0.5730584859848022
+metastep 536 finished, loss: 0.5382787585258484
+metastep 537 finished, loss: 0.510409414768219
+metastep 538 finished, loss: 0.5349159240722656
+metastep 539 finished, loss: 0.5163875222206116
+metastep 540 finished, loss: 0.5405824780464172
+metastep 541 finished, loss: 0.4919118583202362
+metastep 542 finished, loss: 0.5422052145004272
+metastep 543 finished, loss: 0.5695123672485352
+metastep 544 finished, loss: 0.5503799915313721
+metastep 545 finished, loss: 0.5083663463592529
+metastep 546 finished, loss: 0.5460670590400696
+metastep 547 finished, loss: 0.5749683380126953
+metastep 548 finished, loss: 0.5468571186065674
+metastep 549 finished, loss: 0.522441565990448
+metastep 550 finished, loss: 0.6169283390045166
+metastep 551 finished, loss: 0.5757350921630859
+metastep 552 finished, loss: 0.6037477254867554
+metastep 553 finished, loss: 0.6322252154350281
+metastep 554 finished, loss: 0.5898972749710083
+metastep 555 finished, loss: 0.6125533580780029
+metastep 556 finished, loss: 0.570090651512146
+metastep 557 finished, loss: 0.5092360973358154
+metastep 558 finished, loss: 0.5846177339553833
+metastep 559 finished, loss: 0.5360064506530762
+metastep 560 finished, loss: 0.5425602793693542
+metastep 561 finished, loss: 0.5361679792404175
+metastep 562 finished, loss: 0.6069260835647583
+metastep 563 finished, loss: 0.5754101872444153
+metastep 564 finished, loss: 0.6234672665596008
+metastep 565 finished, loss: 0.5652964115142822
+metastep 566 finished, loss: 0.564741849899292
+metastep 567 finished, loss: 0.5039846897125244
+metastep 568 finished, loss: 0.5181659460067749
+metastep 569 finished, loss: 0.555228054523468
+metastep 570 finished, loss: 0.5269596576690674
+metastep 571 finished, loss: 0.557965099811554
+metastep 572 finished, loss: 0.5960756540298462
+metastep 573 finished, loss: 0.5789241790771484
+metastep 574 finished, loss: 0.5047828555107117
+metastep 575 finished, loss: 0.5089763402938843
+metastep 576 finished, loss: 0.5624638199806213
+metastep 577 finished, loss: 0.6285920739173889
+metastep 578 finished, loss: 0.599323570728302
+metastep 579 finished, loss: 0.6002253293991089
+metastep 580 finished, loss: 0.5210631489753723
+metastep 581 finished, loss: 0.5701692700386047
+metastep 582 finished, loss: 0.5674290657043457
+metastep 583 finished, loss: 0.5666885375976562
+metastep 584 finished, loss: 0.5895418524742126
+metastep 585 finished, loss: 0.573204755783081
+metastep 586 finished, loss: 0.5428690314292908
+metastep 587 finished, loss: 0.5482941269874573
+metastep 588 finished, loss: 0.551551342010498
+metastep 589 finished, loss: 0.5685833096504211
+metastep 590 finished, loss: 0.563458263874054
+metastep 591 finished, loss: 0.5524265170097351
+metastep 592 finished, loss: 0.5070315003395081
+metastep 593 finished, loss: 0.6362516283988953
+metastep 594 finished, loss: 0.621728777885437
+metastep 595 finished, loss: 0.5410126447677612
+metastep 596 finished, loss: 0.6216230392456055
+metastep 597 finished, loss: 0.5567976236343384
+metastep 598 finished, loss: 0.535537838935852
+metastep 599 finished, loss: 0.5688474774360657
+metastep 600 finished, loss: 0.5212830901145935
+metastep 601 finished, loss: 0.5614258050918579
+metastep 602 finished, loss: 0.5573394894599915
+metastep 603 finished, loss: 0.5604211091995239
+metastep 604 finished, loss: 0.6160805225372314
+metastep 605 finished, loss: 0.5919399857521057
+metastep 606 finished, loss: 0.5862044095993042
+metastep 607 finished, loss: 0.5438976287841797
+metastep 608 finished, loss: 0.5325347781181335
+metastep 609 finished, loss: 0.5243030786514282
+metastep 610 finished, loss: 0.5793313384056091
+metastep 611 finished, loss: 0.5264201760292053
+metastep 612 finished, loss: 0.553312361240387
+metastep 613 finished, loss: 0.5488060712814331
+metastep 614 finished, loss: 0.5749263167381287
+metastep 615 finished, loss: 0.6408636569976807
+metastep 616 finished, loss: 0.5562360286712646
+metastep 617 finished, loss: 0.5930260419845581
+metastep 618 finished, loss: 0.5960842370986938
+metastep 619 finished, loss: 0.56051105260849
+metastep 620 finished, loss: 0.5741474628448486
+metastep 621 finished, loss: 0.5714288949966431
+metastep 622 finished, loss: 0.608467698097229
+metastep 623 finished, loss: 0.5569615960121155
+metastep 624 finished, loss: 0.62073814868927
+metastep 625 finished, loss: 0.5574700832366943
+metastep 626 finished, loss: 0.5991020202636719
+metastep 627 finished, loss: 0.6819992065429688
+metastep 628 finished, loss: 0.6123915910720825
+metastep 629 finished, loss: 0.5740640163421631
+metastep 630 finished, loss: 0.5635391473770142
+metastep 631 finished, loss: 0.540850043296814
+metastep 632 finished, loss: 0.5902239084243774
+metastep 633 finished, loss: 0.56454998254776
+metastep 634 finished, loss: 0.631915807723999
+metastep 635 finished, loss: 0.5616139769554138
+metastep 636 finished, loss: 0.5272234082221985
+metastep 637 finished, loss: 0.5970300436019897
+metastep 638 finished, loss: 0.5380879640579224
+metastep 639 finished, loss: 0.5176088809967041
+metastep 640 finished, loss: 0.5155575275421143
+metastep 641 finished, loss: 0.4742848575115204
+metastep 642 finished, loss: 0.5136690139770508
+metastep 643 finished, loss: 0.5544214248657227
+metastep 644 finished, loss: 0.556769073009491
+metastep 645 finished, loss: 0.5466690063476562
+metastep 646 finished, loss: 0.5332421064376831
+metastep 647 finished, loss: 0.475002646446228
+metastep 648 finished, loss: 0.49001193046569824
+metastep 649 finished, loss: 0.5248361825942993
+metastep 650 finished, loss: 0.5711644291877747
+metastep 651 finished, loss: 0.5840687155723572
+metastep 652 finished, loss: 0.6034778952598572
+metastep 653 finished, loss: 0.526344358921051
+metastep 654 finished, loss: 0.5702224969863892
+metastep 655 finished, loss: 0.5441772937774658
+metastep 656 finished, loss: 0.5520039200782776
+metastep 657 finished, loss: 0.5539179444313049
+metastep 658 finished, loss: 0.5395247936248779
+metastep 659 finished, loss: 0.5314955711364746
+metastep 660 finished, loss: 0.61702561378479
+metastep 661 finished, loss: 0.5947422385215759
+metastep 662 finished, loss: 0.5719079971313477
+metastep 663 finished, loss: 0.5331698060035706
+metastep 664 finished, loss: 0.570173442363739
+metastep 665 finished, loss: 0.5631099939346313
+metastep 666 finished, loss: 0.5302609801292419
+metastep 667 finished, loss: 0.6542826890945435
+metastep 668 finished, loss: 0.5814955830574036
+metastep 669 finished, loss: 0.5846894979476929
+metastep 670 finished, loss: 0.5126102566719055
+metastep 671 finished, loss: 0.5946149826049805
+metastep 672 finished, loss: 0.5491795539855957
+metastep 673 finished, loss: 0.594571053981781
+metastep 674 finished, loss: 0.5397558212280273
+metastep 675 finished, loss: 0.6217846870422363
+metastep 676 finished, loss: 0.5833368301391602
+metastep 677 finished, loss: 0.6055663228034973
+metastep 678 finished, loss: 0.5520130395889282
+metastep 679 finished, loss: 0.5674781203269958
+metastep 680 finished, loss: 0.5845587253570557
+metastep 681 finished, loss: 0.6308212280273438
+metastep 682 finished, loss: 0.5929999947547913
+metastep 683 finished, loss: 0.5709603428840637
+metastep 684 finished, loss: 0.6009252071380615
+metastep 685 finished, loss: 0.6540603637695312
+metastep 686 finished, loss: 0.553740918636322
+metastep 687 finished, loss: 0.5611018538475037
+metastep 688 finished, loss: 0.667349636554718
+metastep 689 finished, loss: 0.610262393951416
+metastep 690 finished, loss: 0.6525646448135376
+metastep 691 finished, loss: 0.6648029088973999
+metastep 692 finished, loss: 0.6025922894477844
+metastep 693 finished, loss: 0.5741183757781982
+metastep 694 finished, loss: 0.5899733304977417
+metastep 695 finished, loss: 0.6147276759147644
+metastep 696 finished, loss: 0.5983085632324219
+metastep 697 finished, loss: 0.5709723234176636
+metastep 698 finished, loss: 0.6037922501564026
+metastep 699 finished, loss: 0.5610957145690918
+metastep 700 finished, loss: 0.5660707354545593
+metastep 701 finished, loss: 0.5603978037834167
+metastep 702 finished, loss: 0.6082207560539246
+metastep 703 finished, loss: 0.5379798412322998
+metastep 704 finished, loss: 0.5886218547821045
+metastep 705 finished, loss: 0.5737999677658081
+metastep 706 finished, loss: 0.5406904220581055
+metastep 707 finished, loss: 0.5411743521690369
+metastep 708 finished, loss: 0.6467413902282715
+metastep 709 finished, loss: 0.6156566143035889
+metastep 710 finished, loss: 0.5805082321166992
+metastep 711 finished, loss: 0.5531574487686157
+metastep 712 finished, loss: 0.5744863748550415
+metastep 713 finished, loss: 0.5829892158508301
+metastep 714 finished, loss: 0.5749960541725159
+metastep 715 finished, loss: 0.5819989442825317
+metastep 716 finished, loss: 0.5460779666900635
+metastep 717 finished, loss: 0.5868679881095886
+metastep 718 finished, loss: 0.5532735586166382
+metastep 719 finished, loss: 0.5862904787063599
+metastep 720 finished, loss: 0.548760712146759
+metastep 721 finished, loss: 0.5723692178726196
+metastep 722 finished, loss: 0.5329030752182007
+metastep 723 finished, loss: 0.5720198154449463
+metastep 724 finished, loss: 0.5800380110740662
+metastep 725 finished, loss: 0.5115658044815063
+metastep 726 finished, loss: 0.5481783151626587
+metastep 727 finished, loss: 0.5001367330551147
+metastep 728 finished, loss: 0.5409544706344604
+metastep 729 finished, loss: 0.5949543714523315
+metastep 730 finished, loss: 0.5790924429893494
+metastep 731 finished, loss: 0.5087246298789978
+metastep 732 finished, loss: 0.6268483400344849
+metastep 733 finished, loss: 0.5349540710449219
+metastep 734 finished, loss: 0.5752276182174683
+metastep 735 finished, loss: 0.6107231974601746
+metastep 736 finished, loss: 0.5578296184539795
+metastep 737 finished, loss: 0.5327553749084473
+metastep 738 finished, loss: 0.6359125971794128
+metastep 739 finished, loss: 0.6107475757598877
+metastep 740 finished, loss: 0.6033998727798462
+metastep 741 finished, loss: 0.5806307792663574
+metastep 742 finished, loss: 0.5416462421417236
+metastep 743 finished, loss: 0.5618364810943604
+metastep 744 finished, loss: 0.5763435959815979
+metastep 745 finished, loss: 0.5856705904006958
+metastep 746 finished, loss: 0.5726025104522705
+metastep 747 finished, loss: 0.6113895177841187
+metastep 748 finished, loss: 0.5706689357757568
+metastep 749 finished, loss: 0.6217309236526489
+metastep 750 finished, loss: 0.6085423231124878
+metastep 751 finished, loss: 0.6662805080413818
+metastep 752 finished, loss: 0.6208540201187134
+metastep 753 finished, loss: 0.5865270495414734
+metastep 754 finished, loss: 0.5728628635406494
+metastep 755 finished, loss: 0.6460503935813904
+metastep 756 finished, loss: 0.6374377608299255
+metastep 757 finished, loss: 0.6385529637336731
+metastep 758 finished, loss: 0.67975914478302
+metastep 759 finished, loss: 0.6061642169952393
+metastep 760 finished, loss: 0.5275517702102661
+metastep 761 finished, loss: 0.5802664160728455
+metastep 762 finished, loss: 0.6558718681335449
+metastep 763 finished, loss: 0.6505624055862427
+metastep 764 finished, loss: 0.6229395866394043
+metastep 765 finished, loss: 0.6596454977989197
+metastep 766 finished, loss: 0.5593425035476685
+metastep 767 finished, loss: 0.6125373840332031
+metastep 768 finished, loss: 0.5588510036468506
+metastep 769 finished, loss: 0.5828860998153687
+metastep 770 finished, loss: 0.6426213979721069
+metastep 771 finished, loss: 0.6125385165214539
+metastep 772 finished, loss: 0.5413883924484253
+metastep 773 finished, loss: 0.5295387506484985
+metastep 774 finished, loss: 0.5349074602127075
+metastep 775 finished, loss: 0.5581830143928528
+metastep 776 finished, loss: 0.5941190719604492
+metastep 777 finished, loss: 0.6264408230781555
+metastep 778 finished, loss: 0.536933958530426
+metastep 779 finished, loss: 0.553931474685669
+metastep 780 finished, loss: 0.5869013667106628
+metastep 781 finished, loss: 0.5419936776161194
+metastep 782 finished, loss: 0.5340524911880493
+metastep 783 finished, loss: 0.6020039319992065
+metastep 784 finished, loss: 0.6487908363342285
+metastep 785 finished, loss: 0.5830895304679871
+metastep 786 finished, loss: 0.5947896838188171
+metastep 787 finished, loss: 0.5627607107162476
+metastep 788 finished, loss: 0.5445003509521484
+metastep 789 finished, loss: 0.5957257747650146
+metastep 790 finished, loss: 0.6337589025497437
+metastep 791 finished, loss: 0.5484557151794434
+metastep 792 finished, loss: 0.5559551119804382
+metastep 793 finished, loss: 0.5835954546928406
+metastep 794 finished, loss: 0.5704914331436157
+metastep 795 finished, loss: 0.592721700668335
+metastep 796 finished, loss: 0.5919584631919861
+metastep 797 finished, loss: 0.6184018850326538
+metastep 798 finished, loss: 0.5443084239959717
+metastep 799 finished, loss: 0.5122261047363281
+metastep 800 finished, loss: 0.6022859215736389
+metastep 801 finished, loss: 0.6015368700027466
+metastep 802 finished, loss: 0.6467612385749817
+metastep 803 finished, loss: 0.547039270401001
+metastep 804 finished, loss: 0.6342896223068237
+metastep 805 finished, loss: 0.6261686682701111
+metastep 806 finished, loss: 0.610450029373169
+metastep 807 finished, loss: 0.5978050231933594
+metastep 808 finished, loss: 0.6746474504470825
+metastep 809 finished, loss: 0.6579585671424866
+metastep 810 finished, loss: 0.6288902759552002
+metastep 811 finished, loss: 0.593513548374176
+metastep 812 finished, loss: 0.6014905571937561
+metastep 813 finished, loss: 0.582067608833313
+metastep 814 finished, loss: 0.627881646156311
+metastep 815 finished, loss: 0.6632764935493469
+metastep 816 finished, loss: 0.6928110718727112
+metastep 817 finished, loss: 0.6557599902153015
+metastep 818 finished, loss: 0.6022447943687439
+metastep 819 finished, loss: 0.6290277242660522
+metastep 820 finished, loss: 0.5345000624656677
+metastep 821 finished, loss: 0.6003947257995605
+metastep 822 finished, loss: 0.6034085750579834
+metastep 823 finished, loss: 0.582022488117218
+metastep 824 finished, loss: 0.5875024199485779
+metastep 825 finished, loss: 0.6230824589729309
+metastep 826 finished, loss: 0.601452112197876
+metastep 827 finished, loss: 0.5519704222679138
+metastep 828 finished, loss: 0.6167818903923035
+metastep 829 finished, loss: 0.5739271640777588
+metastep 830 finished, loss: 0.6038614511489868
+metastep 831 finished, loss: 0.5770046710968018
+metastep 832 finished, loss: 0.6487265825271606
+metastep 833 finished, loss: 0.6141766905784607
+metastep 834 finished, loss: 0.6509401798248291
+metastep 835 finished, loss: 0.576361894607544
+metastep 836 finished, loss: 0.5752909183502197
+metastep 837 finished, loss: 0.5926686525344849
+metastep 838 finished, loss: 0.5907208919525146
+metastep 839 finished, loss: 0.6282017827033997
+metastep 840 finished, loss: 0.6042964458465576
+metastep 841 finished, loss: 0.6217958927154541
+metastep 842 finished, loss: 0.5586935877799988
+metastep 843 finished, loss: 0.5901904106140137
+metastep 844 finished, loss: 0.570112407207489
+metastep 845 finished, loss: 0.6387030482292175
+metastep 846 finished, loss: 0.633446991443634
+metastep 847 finished, loss: 0.583493709564209
+metastep 848 finished, loss: 0.5694166421890259
+metastep 849 finished, loss: 0.570502758026123
+metastep 850 finished, loss: 0.5379342436790466
+metastep 851 finished, loss: 0.5945466160774231
+metastep 852 finished, loss: 0.5494683980941772
+metastep 853 finished, loss: 0.6142321825027466
+metastep 854 finished, loss: 0.6032204031944275
+metastep 855 finished, loss: 0.6056760549545288
+metastep 856 finished, loss: 0.5397235751152039
+metastep 857 finished, loss: 0.6116856336593628
+metastep 858 finished, loss: 0.5571417212486267
+metastep 859 finished, loss: 0.6594080924987793
+metastep 860 finished, loss: 0.5710776448249817
+metastep 861 finished, loss: 0.5974135994911194
+metastep 862 finished, loss: 0.5853281617164612
+metastep 863 finished, loss: 0.5939503312110901
+metastep 864 finished, loss: 0.580814778804779
+metastep 865 finished, loss: 0.5923674702644348
+metastep 866 finished, loss: 0.6027088165283203
+metastep 867 finished, loss: 0.6019552946090698
+metastep 868 finished, loss: 0.6902862787246704
+metastep 869 finished, loss: 0.640093207359314
+metastep 870 finished, loss: 0.590485155582428
+metastep 871 finished, loss: 0.6178925633430481
+metastep 872 finished, loss: 0.6272024512290955
+metastep 873 finished, loss: 0.6185304522514343
+metastep 874 finished, loss: 0.5513945817947388
+metastep 875 finished, loss: 0.5994976758956909
+metastep 876 finished, loss: 0.5759780406951904
+metastep 877 finished, loss: 0.588219165802002
+metastep 878 finished, loss: 0.611285388469696
+metastep 879 finished, loss: 0.5702458024024963
+metastep 880 finished, loss: 0.5825875997543335
+metastep 881 finished, loss: 0.6245960593223572
+metastep 882 finished, loss: 0.5994223356246948
+metastep 883 finished, loss: 0.5343294143676758
+metastep 884 finished, loss: 0.5522854328155518
+metastep 885 finished, loss: 0.5642588138580322
+metastep 886 finished, loss: 0.5346458554267883
+metastep 887 finished, loss: 0.5797468423843384
+metastep 888 finished, loss: 0.5962059497833252
+metastep 889 finished, loss: 0.5749287605285645
+metastep 890 finished, loss: 0.5424655079841614
+metastep 891 finished, loss: 0.5665968656539917
+metastep 892 finished, loss: 0.5420748591423035
+metastep 893 finished, loss: 0.5998586416244507
+metastep 894 finished, loss: 0.6322169303894043
+metastep 895 finished, loss: 0.6222113370895386
+metastep 896 finished, loss: 0.6327423453330994
+metastep 897 finished, loss: 0.6098194122314453
+metastep 898 finished, loss: 0.5455754995346069
+metastep 899 finished, loss: 0.6119109392166138
+metastep 900 finished, loss: 0.5378845930099487
+metastep 901 finished, loss: 0.5893508195877075
+metastep 902 finished, loss: 0.6074777841567993
+metastep 903 finished, loss: 0.5640489459037781
+metastep 904 finished, loss: 0.5726651549339294
+metastep 905 finished, loss: 0.563199520111084
+metastep 906 finished, loss: 0.5962606072425842
+metastep 907 finished, loss: 0.5749897360801697
+metastep 908 finished, loss: 0.4960649907588959
+metastep 909 finished, loss: 0.5542964339256287
+metastep 910 finished, loss: 0.5608757138252258
+metastep 911 finished, loss: 0.5176780223846436
+metastep 912 finished, loss: 0.4976191818714142
+metastep 913 finished, loss: 0.5879049897193909
+metastep 914 finished, loss: 0.6433508992195129
+metastep 915 finished, loss: 0.6061991453170776
+metastep 916 finished, loss: 0.527535080909729
+metastep 917 finished, loss: 0.539743185043335
+metastep 918 finished, loss: 0.5593002438545227
+metastep 919 finished, loss: 0.5275100469589233
+metastep 920 finished, loss: 0.5705842971801758
+metastep 921 finished, loss: 0.581117570400238
+metastep 922 finished, loss: 0.5299303531646729
+metastep 923 finished, loss: 0.622391939163208
+metastep 924 finished, loss: 0.5491136312484741
+metastep 925 finished, loss: 0.5604467391967773
+metastep 926 finished, loss: 0.6318862438201904
+metastep 927 finished, loss: 0.5425161719322205
+metastep 928 finished, loss: 0.5470485687255859
+metastep 929 finished, loss: 0.5282775163650513
+metastep 930 finished, loss: 0.5767292380332947
+metastep 931 finished, loss: 0.5225290060043335
+metastep 932 finished, loss: 0.5919749736785889
+metastep 933 finished, loss: 0.5220317840576172
+metastep 934 finished, loss: 0.5855506062507629
+metastep 935 finished, loss: 0.5806416869163513
+metastep 936 finished, loss: 0.5013810992240906
+metastep 937 finished, loss: 0.5929769277572632
+metastep 938 finished, loss: 0.5266305208206177
+metastep 939 finished, loss: 0.5519609451293945
+metastep 940 finished, loss: 0.6014248132705688
+metastep 941 finished, loss: 0.5347990393638611
+metastep 942 finished, loss: 0.5504150390625
+metastep 943 finished, loss: 0.6353089809417725
+metastep 944 finished, loss: 0.6028198003768921
+metastep 945 finished, loss: 0.6770468354225159
+metastep 946 finished, loss: 0.5254851579666138
+metastep 947 finished, loss: 0.5797180533409119
+metastep 948 finished, loss: 0.5035436749458313
+metastep 949 finished, loss: 0.6252081990242004
+metastep 950 finished, loss: 0.5819741487503052
+metastep 951 finished, loss: 0.639846682548523
+metastep 952 finished, loss: 0.5766301155090332
+metastep 953 finished, loss: 0.5450427532196045
+metastep 954 finished, loss: 0.6127772331237793
+metastep 955 finished, loss: 0.5858825445175171
+metastep 956 finished, loss: 0.528853178024292
+metastep 957 finished, loss: 0.6383167505264282
+metastep 958 finished, loss: 0.5858607888221741
+metastep 959 finished, loss: 0.6182770729064941
+metastep 960 finished, loss: 0.5707074999809265
+metastep 961 finished, loss: 0.6601977944374084
+metastep 962 finished, loss: 0.6105494499206543
+metastep 963 finished, loss: 0.6000188589096069
+metastep 964 finished, loss: 0.5407074093818665
+metastep 965 finished, loss: 0.5620502233505249
+metastep 966 finished, loss: 0.5520946979522705
+metastep 967 finished, loss: 0.5898928642272949
+metastep 968 finished, loss: 0.5748774409294128
+metastep 969 finished, loss: 0.5232518911361694
+metastep 970 finished, loss: 0.5507602691650391
+metastep 971 finished, loss: 0.5574700832366943
+metastep 972 finished, loss: 0.47886645793914795
+metastep 973 finished, loss: 0.5522125959396362
+metastep 974 finished, loss: 0.5207188129425049
+metastep 975 finished, loss: 0.5360922813415527
+metastep 976 finished, loss: 0.5548911094665527
+metastep 977 finished, loss: 0.49491506814956665
+metastep 978 finished, loss: 0.49415695667266846
+metastep 979 finished, loss: 0.487015962600708
+metastep 980 finished, loss: 0.552736759185791
+metastep 981 finished, loss: 0.6091499328613281
+metastep 982 finished, loss: 0.5610253810882568
+metastep 983 finished, loss: 0.5200298428535461
+metastep 984 finished, loss: 0.5548726916313171
+metastep 985 finished, loss: 0.5797812342643738
+metastep 986 finished, loss: 0.5804234743118286
+metastep 987 finished, loss: 0.5801404714584351
+metastep 988 finished, loss: 0.5119619965553284
+metastep 989 finished, loss: 0.6296206116676331
+metastep 990 finished, loss: 0.5679868459701538
+metastep 991 finished, loss: 0.5401002168655396
+metastep 992 finished, loss: 0.5670366883277893
+metastep 993 finished, loss: 0.5158066153526306
+metastep 994 finished, loss: 0.5375046133995056
+metastep 995 finished, loss: 0.49485740065574646
+metastep 996 finished, loss: 0.5523303151130676
+metastep 997 finished, loss: 0.5383815169334412
+metastep 998 finished, loss: 0.5590410232543945
+metastep 999 finished, loss: 0.6029952168464661
+metastep 1000 finished, loss: 0.5471829175949097
+metastep 1001 finished, loss: 0.5320930480957031
+metastep 1002 finished, loss: 0.5314871668815613
+metastep 1003 finished, loss: 0.5566921234130859
+metastep 1004 finished, loss: 0.47722601890563965
+metastep 1005 finished, loss: 0.5481194257736206
+metastep 1006 finished, loss: 0.4637177288532257
+metastep 1007 finished, loss: 0.5048198103904724
+metastep 1008 finished, loss: 0.508384644985199
+metastep 1009 finished, loss: 0.4557838439941406
+metastep 1010 finished, loss: 0.4742553234100342
+metastep 1011 finished, loss: 0.519152820110321
+metastep 1012 finished, loss: 0.510054886341095
+metastep 1013 finished, loss: 0.6256188750267029
+metastep 1014 finished, loss: 0.5096812844276428
+metastep 1015 finished, loss: 0.497749000787735
+metastep 1016 finished, loss: 0.5262753963470459
+metastep 1017 finished, loss: 0.48818841576576233
+metastep 1018 finished, loss: 0.5092616081237793
+metastep 1019 finished, loss: 0.5074366331100464
+metastep 1020 finished, loss: 0.5195994973182678
+metastep 1021 finished, loss: 0.5075771808624268
+metastep 1022 finished, loss: 0.5513399243354797
+metastep 1023 finished, loss: 0.6015527248382568
+metastep 1024 finished, loss: 0.5059035420417786
+metastep 1025 finished, loss: 0.5610896348953247
+metastep 1026 finished, loss: 0.583443284034729
+metastep 1027 finished, loss: 0.5011044144630432
+metastep 1028 finished, loss: 0.6162961721420288
+metastep 1029 finished, loss: 0.5197230577468872
+metastep 1030 finished, loss: 0.518427312374115
+metastep 1031 finished, loss: 0.5183294415473938
+metastep 1032 finished, loss: 0.5586329698562622
+metastep 1033 finished, loss: 0.5405569672584534
+metastep 1034 finished, loss: 0.5926157236099243
+metastep 1035 finished, loss: 0.5445324778556824
+metastep 1036 finished, loss: 0.5915966033935547
+metastep 1037 finished, loss: 0.5330798625946045
+metastep 1038 finished, loss: 0.5273556709289551
+metastep 1039 finished, loss: 0.6351730823516846
+metastep 1040 finished, loss: 0.6022127270698547
+metastep 1041 finished, loss: 0.5227522850036621
+metastep 1042 finished, loss: 0.49041643738746643
+metastep 1043 finished, loss: 0.5268911719322205
+metastep 1044 finished, loss: 0.5195975303649902
+metastep 1045 finished, loss: 0.5770077705383301
+metastep 1046 finished, loss: 0.6102902889251709
+metastep 1047 finished, loss: 0.5503346920013428
+metastep 1048 finished, loss: 0.6341265439987183
+metastep 1049 finished, loss: 0.5512257814407349
+metastep 1050 finished, loss: 0.5622339844703674
+metastep 1051 finished, loss: 0.5849301218986511
+metastep 1052 finished, loss: 0.522085428237915
+metastep 1053 finished, loss: 0.5389425158500671
+metastep 1054 finished, loss: 0.5504733920097351
+metastep 1055 finished, loss: 0.51313316822052
+metastep 1056 finished, loss: 0.5784596800804138
+metastep 1057 finished, loss: 0.5700287222862244
+metastep 1058 finished, loss: 0.5267328023910522
+metastep 1059 finished, loss: 0.5632636547088623
+metastep 1060 finished, loss: 0.5268305540084839
+metastep 1061 finished, loss: 0.5437501668930054
+metastep 1062 finished, loss: 0.5839242935180664
+metastep 1063 finished, loss: 0.533678412437439
+metastep 1064 finished, loss: 0.5953168869018555
+metastep 1065 finished, loss: 0.5312529802322388
+metastep 1066 finished, loss: 0.5176059007644653
+metastep 1067 finished, loss: 0.5568174123764038
+metastep 1068 finished, loss: 0.5568243265151978
+metastep 1069 finished, loss: 0.5687798261642456
+metastep 1070 finished, loss: 0.5133242607116699
+metastep 1071 finished, loss: 0.5003611445426941
+metastep 1072 finished, loss: 0.5476573705673218
+metastep 1073 finished, loss: 0.526725709438324
+metastep 1074 finished, loss: 0.5740243792533875
+metastep 1075 finished, loss: 0.551918625831604
+metastep 1076 finished, loss: 0.5362892150878906
+metastep 1077 finished, loss: 0.5968211889266968
+metastep 1078 finished, loss: 0.6151114106178284
+metastep 1079 finished, loss: 0.5531601905822754
+metastep 1080 finished, loss: 0.5789068937301636
+metastep 1081 finished, loss: 0.6044577956199646
+metastep 1082 finished, loss: 0.6028043627738953
+metastep 1083 finished, loss: 0.5961858034133911
+metastep 1084 finished, loss: 0.58711838722229
+metastep 1085 finished, loss: 0.6111478805541992
+metastep 1086 finished, loss: 0.5121815800666809
+metastep 1087 finished, loss: 0.5673754215240479
+metastep 1088 finished, loss: 0.5233808755874634
+metastep 1089 finished, loss: 0.5597440004348755
+metastep 1090 finished, loss: 0.6242884993553162
+metastep 1091 finished, loss: 0.5509436130523682
+metastep 1092 finished, loss: 0.5599932670593262
+metastep 1093 finished, loss: 0.5354064106941223
+metastep 1094 finished, loss: 0.5887900590896606
+metastep 1095 finished, loss: 0.5778206586837769
+metastep 1096 finished, loss: 0.5879205465316772
+metastep 1097 finished, loss: 0.571644127368927
+metastep 1098 finished, loss: 0.5871357917785645
+metastep 1099 finished, loss: 0.5895393490791321
+metastep 1100 finished, loss: 0.6115475296974182
+metastep 1101 finished, loss: 0.5523219108581543
+metastep 1102 finished, loss: 0.5634118914604187
+metastep 1103 finished, loss: 0.5474048256874084
+metastep 1104 finished, loss: 0.6331539154052734
+metastep 1105 finished, loss: 0.6064502596855164
+metastep 1106 finished, loss: 0.5447444319725037
+metastep 1107 finished, loss: 0.6035547256469727
+metastep 1108 finished, loss: 0.6108720898628235
+metastep 1109 finished, loss: 0.6056218147277832
+metastep 1110 finished, loss: 0.546199381351471
+metastep 1111 finished, loss: 0.5134409666061401
+metastep 1112 finished, loss: 0.5657823085784912
+metastep 1113 finished, loss: 0.545174241065979
+metastep 1114 finished, loss: 0.5934639573097229
+metastep 1115 finished, loss: 0.6112630367279053
+metastep 1116 finished, loss: 0.5417523384094238
+metastep 1117 finished, loss: 0.5415388345718384
+metastep 1118 finished, loss: 0.5727890729904175
+metastep 1119 finished, loss: 0.5141187310218811
+metastep 1120 finished, loss: 0.6658900380134583
+metastep 1121 finished, loss: 0.5509868860244751
+metastep 1122 finished, loss: 0.5104924440383911
+metastep 1123 finished, loss: 0.5456357002258301
+metastep 1124 finished, loss: 0.5835551023483276
+metastep 1125 finished, loss: 0.5464184880256653
+metastep 1126 finished, loss: 0.5499229431152344
+metastep 1127 finished, loss: 0.5182312726974487
+metastep 1128 finished, loss: 0.4924827516078949
+metastep 1129 finished, loss: 0.5659905672073364
+metastep 1130 finished, loss: 0.5116361379623413
+metastep 1131 finished, loss: 0.5193238854408264
+metastep 1132 finished, loss: 0.5126442909240723
+metastep 1133 finished, loss: 0.5951485633850098
+metastep 1134 finished, loss: 0.5409318208694458
+metastep 1135 finished, loss: 0.5289533138275146
+metastep 1136 finished, loss: 0.5436220765113831
+metastep 1137 finished, loss: 0.5471129417419434
+metastep 1138 finished, loss: 0.5269291400909424
+metastep 1139 finished, loss: 0.548096776008606
+metastep 1140 finished, loss: 0.5413914918899536
+metastep 1141 finished, loss: 0.5497539639472961
+metastep 1142 finished, loss: 0.5631508827209473
+metastep 1143 finished, loss: 0.5666142702102661
+metastep 1144 finished, loss: 0.5090562105178833
+metastep 1145 finished, loss: 0.5112511515617371
+metastep 1146 finished, loss: 0.5598384141921997
+metastep 1147 finished, loss: 0.5315545797348022
+metastep 1148 finished, loss: 0.5344295501708984
+metastep 1149 finished, loss: 0.5176092386245728
+metastep 1150 finished, loss: 0.505165696144104
+metastep 1151 finished, loss: 0.5736894607543945
+metastep 1152 finished, loss: 0.5434012413024902
+metastep 1153 finished, loss: 0.6332777738571167
+metastep 1154 finished, loss: 0.5642042756080627
+metastep 1155 finished, loss: 0.6126477718353271
+metastep 1156 finished, loss: 0.5262773036956787
+metastep 1157 finished, loss: 0.6106777787208557
+metastep 1158 finished, loss: 0.6041418313980103
+metastep 1159 finished, loss: 0.6010617613792419
+metastep 1160 finished, loss: 0.5805982947349548
+metastep 1161 finished, loss: 0.5727908611297607
+metastep 1162 finished, loss: 0.5256097316741943
+metastep 1163 finished, loss: 0.5698639750480652
+metastep 1164 finished, loss: 0.5658782124519348
+metastep 1165 finished, loss: 0.6551327109336853
+metastep 1166 finished, loss: 0.5287652015686035
+metastep 1167 finished, loss: 0.5808007717132568
+metastep 1168 finished, loss: 0.5609970688819885
+metastep 1169 finished, loss: 0.5605098009109497
+metastep 1170 finished, loss: 0.5115819573402405
+metastep 1171 finished, loss: 0.5188209414482117
+metastep 1172 finished, loss: 0.5663922429084778
+metastep 1173 finished, loss: 0.5447744727134705
+metastep 1174 finished, loss: 0.5747057199478149
+metastep 1175 finished, loss: 0.5452088713645935
+metastep 1176 finished, loss: 0.5089783072471619
+metastep 1177 finished, loss: 0.5580838322639465
+metastep 1178 finished, loss: 0.511396050453186
+metastep 1179 finished, loss: 0.5292858481407166
+metastep 1180 finished, loss: 0.5916833281517029
+metastep 1181 finished, loss: 0.5617882013320923
+metastep 1182 finished, loss: 0.6091528534889221
+metastep 1183 finished, loss: 0.5581199526786804
+metastep 1184 finished, loss: 0.5199198126792908
+metastep 1185 finished, loss: 0.5567677021026611
+metastep 1186 finished, loss: 0.512673020362854
+metastep 1187 finished, loss: 0.5508508086204529
+metastep 1188 finished, loss: 0.5526754856109619
+metastep 1189 finished, loss: 0.553428590297699
+metastep 1190 finished, loss: 0.5814639329910278
+metastep 1191 finished, loss: 0.5788185000419617
+metastep 1192 finished, loss: 0.5416109561920166
+metastep 1193 finished, loss: 0.5663973093032837
+metastep 1194 finished, loss: 0.5590464472770691
+metastep 1195 finished, loss: 0.5758140683174133
+metastep 1196 finished, loss: 0.5603397488594055
+metastep 1197 finished, loss: 0.5439215898513794
+metastep 1198 finished, loss: 0.5888707637786865
+metastep 1199 finished, loss: 0.5492984056472778
+metastep 1200 finished, loss: 0.6035809516906738
+metastep 1201 finished, loss: 0.5413990020751953
+metastep 1202 finished, loss: 0.49897050857543945
+metastep 1203 finished, loss: 0.5713717341423035
+metastep 1204 finished, loss: 0.5703319311141968
+metastep 1205 finished, loss: 0.5787769556045532
+metastep 1206 finished, loss: 0.6022878289222717
+metastep 1207 finished, loss: 0.5793495774269104
+metastep 1208 finished, loss: 0.5249401330947876
+metastep 1209 finished, loss: 0.626495897769928
+metastep 1210 finished, loss: 0.5514453649520874
+metastep 1211 finished, loss: 0.5282946228981018
+metastep 1212 finished, loss: 0.5293862819671631
+metastep 1213 finished, loss: 0.5902314782142639
+metastep 1214 finished, loss: 0.5329933166503906
+metastep 1215 finished, loss: 0.5470019578933716
+metastep 1216 finished, loss: 0.5407257676124573
+metastep 1217 finished, loss: 0.5333966016769409
+metastep 1218 finished, loss: 0.5371962189674377
+metastep 1219 finished, loss: 0.6185786128044128
+metastep 1220 finished, loss: 0.5609800815582275
+metastep 1221 finished, loss: 0.6132690906524658
+metastep 1222 finished, loss: 0.5914112329483032
+metastep 1223 finished, loss: 0.5939524173736572
+metastep 1224 finished, loss: 0.5605735182762146
+metastep 1225 finished, loss: 0.5396126508712769
+metastep 1226 finished, loss: 0.6366937160491943
+metastep 1227 finished, loss: 0.5289148688316345
+metastep 1228 finished, loss: 0.5595056414604187
+metastep 1229 finished, loss: 0.5765854120254517
+metastep 1230 finished, loss: 0.5970192551612854
+metastep 1231 finished, loss: 0.6209611296653748
+metastep 1232 finished, loss: 0.5857625007629395
+metastep 1233 finished, loss: 0.5448874831199646
+metastep 1234 finished, loss: 0.6331803202629089
+metastep 1235 finished, loss: 0.5472640991210938
+metastep 1236 finished, loss: 0.594395637512207
+metastep 1237 finished, loss: 0.549391508102417
+metastep 1238 finished, loss: 0.5128760933876038
+metastep 1239 finished, loss: 0.5889872312545776
+metastep 1240 finished, loss: 0.5181830525398254
+metastep 1241 finished, loss: 0.5173569321632385
+metastep 1242 finished, loss: 0.5340903401374817
+metastep 1243 finished, loss: 0.5621762275695801
+metastep 1244 finished, loss: 0.588628351688385
+metastep 1245 finished, loss: 0.5474185347557068
+metastep 1246 finished, loss: 0.5360702276229858
+metastep 1247 finished, loss: 0.5932015180587769
+metastep 1248 finished, loss: 0.5715943574905396
+metastep 1249 finished, loss: 0.5221129655838013
+metastep 1250 finished, loss: 0.5279937386512756
+metastep 1251 finished, loss: 0.5155070424079895
+metastep 1252 finished, loss: 0.5796555280685425
+metastep 1253 finished, loss: 0.503993570804596
+metastep 1254 finished, loss: 0.5290777683258057
+metastep 1255 finished, loss: 0.5799534320831299
+metastep 1256 finished, loss: 0.61232990026474
+metastep 1257 finished, loss: 0.5334858894348145
+metastep 1258 finished, loss: 0.5553891658782959
+metastep 1259 finished, loss: 0.5136598348617554
+metastep 1260 finished, loss: 0.656753659248352
+metastep 1261 finished, loss: 0.5038787126541138
+metastep 1262 finished, loss: 0.5262238383293152
+metastep 1263 finished, loss: 0.5738286972045898
+metastep 1264 finished, loss: 0.5413153171539307
+metastep 1265 finished, loss: 0.5389588475227356
+metastep 1266 finished, loss: 0.5743956565856934
+metastep 1267 finished, loss: 0.5456961989402771
+metastep 1268 finished, loss: 0.579014003276825
+metastep 1269 finished, loss: 0.5493353009223938
+metastep 1270 finished, loss: 0.5284839272499084
+metastep 1271 finished, loss: 0.5858598351478577
+metastep 1272 finished, loss: 0.5541589260101318
+metastep 1273 finished, loss: 0.5855279564857483
+metastep 1274 finished, loss: 0.6299909949302673
+metastep 1275 finished, loss: 0.6029458045959473
+metastep 1276 finished, loss: 0.5566592216491699
+metastep 1277 finished, loss: 0.6122229695320129
+metastep 1278 finished, loss: 0.511872410774231
+metastep 1279 finished, loss: 0.5320849418640137
+metastep 1280 finished, loss: 0.5736591219902039
+metastep 1281 finished, loss: 0.5961369872093201
+metastep 1282 finished, loss: 0.5160411596298218
+metastep 1283 finished, loss: 0.5744543671607971
+metastep 1284 finished, loss: 0.5288587808609009
+metastep 1285 finished, loss: 0.5025085210800171
+metastep 1286 finished, loss: 0.5579754114151001
+metastep 1287 finished, loss: 0.5438082218170166
+metastep 1288 finished, loss: 0.5567638874053955
+metastep 1289 finished, loss: 0.5031822323799133
+metastep 1290 finished, loss: 0.5570680499076843
+metastep 1291 finished, loss: 0.551056444644928
+metastep 1292 finished, loss: 0.502551794052124
+metastep 1293 finished, loss: 0.47371959686279297
+metastep 1294 finished, loss: 0.5838338136672974
+metastep 1295 finished, loss: 0.5469232797622681
+metastep 1296 finished, loss: 0.4877336323261261
+metastep 1297 finished, loss: 0.5331454277038574
+metastep 1298 finished, loss: 0.5645663738250732
+metastep 1299 finished, loss: 0.5950173139572144
+metastep 1300 finished, loss: 0.6015840768814087
+metastep 1301 finished, loss: 0.579069197177887
+metastep 1302 finished, loss: 0.5628080368041992
+metastep 1303 finished, loss: 0.5910324454307556
+metastep 1304 finished, loss: 0.6141509413719177
+metastep 1305 finished, loss: 0.6054745316505432
+metastep 1306 finished, loss: 0.5676645636558533
+metastep 1307 finished, loss: 0.6151636242866516
+metastep 1308 finished, loss: 0.531789243221283
+metastep 1309 finished, loss: 0.5727064609527588
+metastep 1310 finished, loss: 0.6217450499534607
+metastep 1311 finished, loss: 0.5690444707870483
+metastep 1312 finished, loss: 0.5859555006027222
+metastep 1313 finished, loss: 0.6108125448226929
+metastep 1314 finished, loss: 0.5765326023101807
+metastep 1315 finished, loss: 0.5928570032119751
+metastep 1316 finished, loss: 0.6227288246154785
+metastep 1317 finished, loss: 0.5887001752853394
+metastep 1318 finished, loss: 0.6132097244262695
+metastep 1319 finished, loss: 0.5833367109298706
+metastep 1320 finished, loss: 0.5721119046211243
+metastep 1321 finished, loss: 0.535126268863678
+metastep 1322 finished, loss: 0.5795290470123291
+metastep 1323 finished, loss: 0.6316784620285034
+metastep 1324 finished, loss: 0.5781354904174805
+metastep 1325 finished, loss: 0.5617547035217285
+metastep 1326 finished, loss: 0.5980666875839233
+metastep 1327 finished, loss: 0.6085993051528931
+metastep 1328 finished, loss: 0.5766459703445435
+metastep 1329 finished, loss: 0.5908190011978149
+metastep 1330 finished, loss: 0.5385209918022156
+metastep 1331 finished, loss: 0.5793474912643433
+metastep 1332 finished, loss: 0.593034565448761
+metastep 1333 finished, loss: 0.5911098718643188
+metastep 1334 finished, loss: 0.5279629230499268
+metastep 1335 finished, loss: 0.5822744369506836
+metastep 1336 finished, loss: 0.5652315616607666
+metastep 1337 finished, loss: 0.5759874582290649
+metastep 1338 finished, loss: 0.5615546703338623
+metastep 1339 finished, loss: 0.5879033803939819
+metastep 1340 finished, loss: 0.6178467869758606
+metastep 1341 finished, loss: 0.5269262790679932
+metastep 1342 finished, loss: 0.5791611671447754
+metastep 1343 finished, loss: 0.5650209188461304
+metastep 1344 finished, loss: 0.5749648809432983
+metastep 1345 finished, loss: 0.5695093274116516
+metastep 1346 finished, loss: 0.6533335447311401
+metastep 1347 finished, loss: 0.5520105957984924
+metastep 1348 finished, loss: 0.5539821982383728
+metastep 1349 finished, loss: 0.6011009812355042
+metastep 1350 finished, loss: 0.5616682171821594
+metastep 1351 finished, loss: 0.5887737274169922
+metastep 1352 finished, loss: 0.5715726017951965
+metastep 1353 finished, loss: 0.5631510615348816
+metastep 1354 finished, loss: 0.5640357136726379
+metastep 1355 finished, loss: 0.5974899530410767
+metastep 1356 finished, loss: 0.5755295753479004
+metastep 1357 finished, loss: 0.5554600358009338
+metastep 1358 finished, loss: 0.5791637897491455
+metastep 1359 finished, loss: 0.6371860504150391
+metastep 1360 finished, loss: 0.5521891117095947
+metastep 1361 finished, loss: 0.5780938267707825
+metastep 1362 finished, loss: 0.5499194860458374
+metastep 1363 finished, loss: 0.6145848035812378
+metastep 1364 finished, loss: 0.59905606508255
+metastep 1365 finished, loss: 0.5400884747505188
+metastep 1366 finished, loss: 0.5944715142250061
+metastep 1367 finished, loss: 0.5657697916030884
+metastep 1368 finished, loss: 0.5762279629707336
+metastep 1369 finished, loss: 0.5245760679244995
+metastep 1370 finished, loss: 0.5097237229347229
+metastep 1371 finished, loss: 0.5621787905693054
+metastep 1372 finished, loss: 0.55052250623703
+metastep 1373 finished, loss: 0.534947395324707
+metastep 1374 finished, loss: 0.55402010679245
+metastep 1375 finished, loss: 0.5577604174613953
+metastep 1376 finished, loss: 0.5541154146194458
+metastep 1377 finished, loss: 0.5030924677848816
+metastep 1378 finished, loss: 0.507352352142334
+metastep 1379 finished, loss: 0.540657639503479
+metastep 1380 finished, loss: 0.5921039581298828
+metastep 1381 finished, loss: 0.5235529541969299
+metastep 1382 finished, loss: 0.5297999978065491
+metastep 1383 finished, loss: 0.5325520634651184
+metastep 1384 finished, loss: 0.5911372303962708
+metastep 1385 finished, loss: 0.5320671796798706
+metastep 1386 finished, loss: 0.5355129837989807
+metastep 1387 finished, loss: 0.5605549812316895
+metastep 1388 finished, loss: 0.5001954436302185
+metastep 1389 finished, loss: 0.5234572887420654
+metastep 1390 finished, loss: 0.5268501043319702
+metastep 1391 finished, loss: 0.5892887711524963
+metastep 1392 finished, loss: 0.5691176056861877
+metastep 1393 finished, loss: 0.5302914977073669
+metastep 1394 finished, loss: 0.5860157608985901
+metastep 1395 finished, loss: 0.5347912907600403
+metastep 1396 finished, loss: 0.5523965358734131
+metastep 1397 finished, loss: 0.5372509956359863
+metastep 1398 finished, loss: 0.5860921144485474
+metastep 1399 finished, loss: 0.4912406802177429
+metastep 1400 finished, loss: 0.6039535403251648
+metastep 1401 finished, loss: 0.5450568795204163
+metastep 1402 finished, loss: 0.5578392744064331
+metastep 1403 finished, loss: 0.5000258684158325
+metastep 1404 finished, loss: 0.6129647493362427
+metastep 1405 finished, loss: 0.5771094560623169
+metastep 1406 finished, loss: 0.5305427312850952
+metastep 1407 finished, loss: 0.5536713004112244
+metastep 1408 finished, loss: 0.5306090116500854
+metastep 1409 finished, loss: 0.5798402428627014
+metastep 1410 finished, loss: 0.5630717277526855
+metastep 1411 finished, loss: 0.5738871693611145
+metastep 1412 finished, loss: 0.5434382557868958
+metastep 1413 finished, loss: 0.5942411422729492
+metastep 1414 finished, loss: 0.5116357803344727
+metastep 1415 finished, loss: 0.5709655284881592
+metastep 1416 finished, loss: 0.4986463189125061
+metastep 1417 finished, loss: 0.5423686504364014
+metastep 1418 finished, loss: 0.5873634815216064
+metastep 1419 finished, loss: 0.554003119468689
+metastep 1420 finished, loss: 0.5493677854537964
+metastep 1421 finished, loss: 0.5469931960105896
+metastep 1422 finished, loss: 0.5369476079940796
+metastep 1423 finished, loss: 0.5008127093315125
+metastep 1424 finished, loss: 0.5740461945533752
+metastep 1425 finished, loss: 0.5783032178878784
+metastep 1426 finished, loss: 0.601173460483551
+metastep 1427 finished, loss: 0.5155284404754639
+metastep 1428 finished, loss: 0.551712155342102
+metastep 1429 finished, loss: 0.561729907989502
+metastep 1430 finished, loss: 0.5300736427307129
+metastep 1431 finished, loss: 0.6147672533988953
+metastep 1432 finished, loss: 0.5988759994506836
+metastep 1433 finished, loss: 0.5366951823234558
+metastep 1434 finished, loss: 0.5839834809303284
+metastep 1435 finished, loss: 0.6117498874664307
+metastep 1436 finished, loss: 0.5589656829833984
+metastep 1437 finished, loss: 0.6075766682624817
+metastep 1438 finished, loss: 0.5649798512458801
+metastep 1439 finished, loss: 0.581388533115387
+metastep 1440 finished, loss: 0.6446384191513062
+metastep 1441 finished, loss: 0.624040961265564
+metastep 1442 finished, loss: 0.6781562566757202
+metastep 1443 finished, loss: 0.670272946357727
+metastep 1444 finished, loss: 0.6078511476516724
+metastep 1445 finished, loss: 0.5713628530502319
+metastep 1446 finished, loss: 0.616113007068634
+metastep 1447 finished, loss: 0.5900925397872925
+metastep 1448 finished, loss: 0.5717840790748596
+metastep 1449 finished, loss: 0.5403609275817871
+metastep 1450 finished, loss: 0.6359492540359497
+metastep 1451 finished, loss: 0.6313480734825134
+metastep 1452 finished, loss: 0.6585927605628967
+metastep 1453 finished, loss: 0.6295260787010193
+metastep 1454 finished, loss: 0.6484360694885254
+metastep 1455 finished, loss: 0.6207135319709778
+metastep 1456 finished, loss: 0.5805543661117554
+metastep 1457 finished, loss: 0.6545255184173584
+metastep 1458 finished, loss: 0.58036208152771
+metastep 1459 finished, loss: 0.6242181062698364
+metastep 1460 finished, loss: 0.6146331429481506
+metastep 1461 finished, loss: 0.5728282928466797
+metastep 1462 finished, loss: 0.5768156051635742
+metastep 1463 finished, loss: 0.6267822980880737
+metastep 1464 finished, loss: 0.6271967887878418
+metastep 1465 finished, loss: 0.5546529293060303
+metastep 1466 finished, loss: 0.5934731364250183
+metastep 1467 finished, loss: 0.5194022059440613
+metastep 1468 finished, loss: 0.568263053894043
+metastep 1469 finished, loss: 0.6334749460220337
+metastep 1470 finished, loss: 0.6011945009231567
+metastep 1471 finished, loss: 0.6243227124214172
+metastep 1472 finished, loss: 0.5279107689857483
+metastep 1473 finished, loss: 0.5484805107116699
+metastep 1474 finished, loss: 0.5477403998374939
+metastep 1475 finished, loss: 0.5377535223960876
+metastep 1476 finished, loss: 0.566656768321991
+metastep 1477 finished, loss: 0.5036633610725403
+metastep 1478 finished, loss: 0.5262482762336731
+metastep 1479 finished, loss: 0.5266575217247009
+metastep 1480 finished, loss: 0.5425521731376648
+metastep 1481 finished, loss: 0.5824679136276245
+metastep 1482 finished, loss: 0.609293520450592
+metastep 1483 finished, loss: 0.5805683135986328
+metastep 1484 finished, loss: 0.6538881063461304
+metastep 1485 finished, loss: 0.532947838306427
+metastep 1486 finished, loss: 0.5508483052253723
+metastep 1487 finished, loss: 0.6129311323165894
+metastep 1488 finished, loss: 0.6164482831954956
+metastep 1489 finished, loss: 0.5748099088668823
+metastep 1490 finished, loss: 0.5929124355316162
+metastep 1491 finished, loss: 0.6086557507514954
+metastep 1492 finished, loss: 0.6275671124458313
+metastep 1493 finished, loss: 0.5537928342819214
+metastep 1494 finished, loss: 0.5980366468429565
+metastep 1495 finished, loss: 0.645357072353363
+metastep 1496 finished, loss: 0.6084955930709839
+metastep 1497 finished, loss: 0.5884266495704651
+metastep 1498 finished, loss: 0.5764580368995667
+metastep 1499 finished, loss: 0.5995727777481079
+metastep 1500 finished, loss: 0.6001655459403992
+metastep 1501 finished, loss: 0.5915208458900452
+metastep 1502 finished, loss: 0.5757068395614624
+metastep 1503 finished, loss: 0.5723875164985657
+metastep 1504 finished, loss: 0.64821457862854
+metastep 1505 finished, loss: 0.6811563968658447
+metastep 1506 finished, loss: 0.6625797748565674
+metastep 1507 finished, loss: 0.5704479217529297
+metastep 1508 finished, loss: 0.5613617300987244
+metastep 1509 finished, loss: 0.56525057554245
+metastep 1510 finished, loss: 0.574779748916626
+metastep 1511 finished, loss: 0.5742977857589722
+metastep 1512 finished, loss: 0.6257064342498779
+metastep 1513 finished, loss: 0.6084286570549011
+metastep 1514 finished, loss: 0.5910583138465881
+metastep 1515 finished, loss: 0.5266081094741821
+metastep 1516 finished, loss: 0.5536899566650391
+metastep 1517 finished, loss: 0.5496070981025696
+metastep 1518 finished, loss: 0.6696653366088867
+metastep 1519 finished, loss: 0.5635708570480347
+metastep 1520 finished, loss: 0.5870697498321533
+metastep 1521 finished, loss: 0.6369366645812988
+metastep 1522 finished, loss: 0.5601394772529602
+metastep 1523 finished, loss: 0.5491453409194946
+metastep 1524 finished, loss: 0.5879417657852173
+metastep 1525 finished, loss: 0.5547274947166443
+metastep 1526 finished, loss: 0.5790113210678101
+metastep 1527 finished, loss: 0.5660099387168884
+metastep 1528 finished, loss: 0.5737518072128296
+metastep 1529 finished, loss: 0.5917916893959045
+metastep 1530 finished, loss: 0.547857940196991
+metastep 1531 finished, loss: 0.5322780013084412
+metastep 1532 finished, loss: 0.5595940351486206
+metastep 1533 finished, loss: 0.6387092471122742
+metastep 1534 finished, loss: 0.5542392730712891
+metastep 1535 finished, loss: 0.6162503957748413
+metastep 1536 finished, loss: 0.5572863817214966
+metastep 1537 finished, loss: 0.5615056753158569
+metastep 1538 finished, loss: 0.5672957897186279
+metastep 1539 finished, loss: 0.5757758617401123
+metastep 1540 finished, loss: 0.5696254968643188
+metastep 1541 finished, loss: 0.5649299621582031
+metastep 1542 finished, loss: 0.5581830739974976
+metastep 1543 finished, loss: 0.6017948389053345
+metastep 1544 finished, loss: 0.5810194611549377
+metastep 1545 finished, loss: 0.5977377891540527
+metastep 1546 finished, loss: 0.5757601857185364
+metastep 1547 finished, loss: 0.5833143591880798
+metastep 1548 finished, loss: 0.6773218512535095
+metastep 1549 finished, loss: 0.6242414712905884
+metastep 1550 finished, loss: 0.5935632586479187
+metastep 1551 finished, loss: 0.572895884513855
+metastep 1552 finished, loss: 0.6464803218841553
+metastep 1553 finished, loss: 0.6068017482757568
+metastep 1554 finished, loss: 0.5837157964706421
+metastep 1555 finished, loss: 0.6411747932434082
+metastep 1556 finished, loss: 0.5964661836624146
+metastep 1557 finished, loss: 0.5680232644081116
+metastep 1558 finished, loss: 0.6118550300598145
+metastep 1559 finished, loss: 0.5714584589004517
+metastep 1560 finished, loss: 0.6439547538757324
+metastep 1561 finished, loss: 0.635078489780426
+metastep 1562 finished, loss: 0.652054488658905
+metastep 1563 finished, loss: 0.5925431251525879
+metastep 1564 finished, loss: 0.6905485391616821
+metastep 1565 finished, loss: 0.6537301540374756
+metastep 1566 finished, loss: 0.6808978319168091
+metastep 1567 finished, loss: 0.5982890725135803
+metastep 1568 finished, loss: 0.6176697015762329
+metastep 1569 finished, loss: 0.5626024603843689
+metastep 1570 finished, loss: 0.6005874276161194
+metastep 1571 finished, loss: 0.6361973285675049
+metastep 1572 finished, loss: 0.719738245010376
+metastep 1573 finished, loss: 0.6031180620193481
+metastep 1574 finished, loss: 0.6171256303787231
+metastep 1575 finished, loss: 0.5687719583511353
+metastep 1576 finished, loss: 0.6318978071212769
+metastep 1577 finished, loss: 0.5714465379714966
+metastep 1578 finished, loss: 0.5610946416854858
+metastep 1579 finished, loss: 0.5776613354682922
+metastep 1580 finished, loss: 0.586990237236023
+metastep 1581 finished, loss: 0.5940028429031372
+metastep 1582 finished, loss: 0.618900716304779
+metastep 1583 finished, loss: 0.6181471347808838
+metastep 1584 finished, loss: 0.5747032165527344
+metastep 1585 finished, loss: 0.5948036909103394
+metastep 1586 finished, loss: 0.5806607604026794
+metastep 1587 finished, loss: 0.5027430653572083
+metastep 1588 finished, loss: 0.5823416113853455
+metastep 1589 finished, loss: 0.5958160758018494
+metastep 1590 finished, loss: 0.6521139144897461
+metastep 1591 finished, loss: 0.5571762919425964
+metastep 1592 finished, loss: 0.49112367630004883
+metastep 1593 finished, loss: 0.5561297535896301
+metastep 1594 finished, loss: 0.5447937250137329
+metastep 1595 finished, loss: 0.5941147804260254
+metastep 1596 finished, loss: 0.547170877456665
+metastep 1597 finished, loss: 0.6327522993087769
+metastep 1598 finished, loss: 0.6530373096466064
+metastep 1599 finished, loss: 0.5734850168228149
+metastep 1600 finished, loss: 0.6096894145011902
+metastep 1601 finished, loss: 0.5764783620834351
+metastep 1602 finished, loss: 0.5811658501625061
+metastep 1603 finished, loss: 0.600870668888092
+metastep 1604 finished, loss: 0.6620272994041443
+metastep 1605 finished, loss: 0.6020399928092957
+metastep 1606 finished, loss: 0.5979765057563782
+metastep 1607 finished, loss: 0.5949942469596863
+metastep 1608 finished, loss: 0.6023112535476685
+metastep 1609 finished, loss: 0.6406074166297913
+metastep 1610 finished, loss: 0.6143485307693481
+metastep 1611 finished, loss: 0.560919463634491
+metastep 1612 finished, loss: 0.5526860356330872
+metastep 1613 finished, loss: 0.626183032989502
+metastep 1614 finished, loss: 0.5668099522590637
+metastep 1615 finished, loss: 0.5838485360145569
+metastep 1616 finished, loss: 0.5601571798324585
+metastep 1617 finished, loss: 0.5688395500183105
+metastep 1618 finished, loss: 0.5438627004623413
+metastep 1619 finished, loss: 0.5941139459609985
+metastep 1620 finished, loss: 0.5871061086654663
+metastep 1621 finished, loss: 0.5939127206802368
+metastep 1622 finished, loss: 0.6102211475372314
+metastep 1623 finished, loss: 0.5767836570739746
+metastep 1624 finished, loss: 0.7019191980361938
+metastep 1625 finished, loss: 0.6350802779197693
+metastep 1626 finished, loss: 0.6207497119903564
+metastep 1627 finished, loss: 0.6039574146270752
+metastep 1628 finished, loss: 0.5823224186897278
+metastep 1629 finished, loss: 0.5748149156570435
+metastep 1630 finished, loss: 0.6040271520614624
+metastep 1631 finished, loss: 0.5608345866203308
+metastep 1632 finished, loss: 0.5854049324989319
+metastep 1633 finished, loss: 0.6123909950256348
+metastep 1634 finished, loss: 0.5942049622535706
+metastep 1635 finished, loss: 0.5962608456611633
+metastep 1636 finished, loss: 0.6281404495239258
+metastep 1637 finished, loss: 0.6339678764343262
+metastep 1638 finished, loss: 0.5708743333816528
+metastep 1639 finished, loss: 0.6368661522865295
+metastep 1640 finished, loss: 0.5318834185600281
+metastep 1641 finished, loss: 0.5390310287475586
+metastep 1642 finished, loss: 0.6422324180603027
+metastep 1643 finished, loss: 0.5443426370620728
+metastep 1644 finished, loss: 0.6169008016586304
+metastep 1645 finished, loss: 0.542255699634552
+metastep 1646 finished, loss: 0.5465948581695557
+metastep 1647 finished, loss: 0.5753691792488098
+metastep 1648 finished, loss: 0.5933063626289368
+metastep 1649 finished, loss: 0.5080722570419312
+metastep 1650 finished, loss: 0.5894052982330322
+metastep 1651 finished, loss: 0.6146408319473267
+metastep 1652 finished, loss: 0.5599409341812134
+metastep 1653 finished, loss: 0.5918678045272827
+metastep 1654 finished, loss: 0.6092151403427124
+metastep 1655 finished, loss: 0.5367780923843384
+metastep 1656 finished, loss: 0.6538407206535339
+metastep 1657 finished, loss: 0.6135135293006897
+metastep 1658 finished, loss: 0.5709222555160522
+metastep 1659 finished, loss: 0.5562247633934021
+metastep 1660 finished, loss: 0.5863833427429199
+metastep 1661 finished, loss: 0.6169795989990234
+metastep 1662 finished, loss: 0.6115593314170837
+metastep 1663 finished, loss: 0.5544929504394531
+metastep 1664 finished, loss: 0.5792708396911621
+metastep 1665 finished, loss: 0.5466253161430359
+metastep 1666 finished, loss: 0.565269947052002
+metastep 1667 finished, loss: 0.6042416095733643
+metastep 1668 finished, loss: 0.6220765113830566
+metastep 1669 finished, loss: 0.6256462335586548
+metastep 1670 finished, loss: 0.5587993860244751
+metastep 1671 finished, loss: 0.6456935405731201
+metastep 1672 finished, loss: 0.5931786894798279
+metastep 1673 finished, loss: 0.6479196548461914
+metastep 1674 finished, loss: 0.5926679968833923
+metastep 1675 finished, loss: 0.584591269493103
+metastep 1676 finished, loss: 0.5805045366287231
+metastep 1677 finished, loss: 0.585126519203186
+metastep 1678 finished, loss: 0.5585241317749023
+metastep 1679 finished, loss: 0.5858972072601318
+metastep 1680 finished, loss: 0.5568001866340637
+metastep 1681 finished, loss: 0.5507751703262329
+metastep 1682 finished, loss: 0.5532054901123047
+metastep 1683 finished, loss: 0.5035533905029297
+metastep 1684 finished, loss: 0.6217207908630371
+metastep 1685 finished, loss: 0.5084032416343689
+metastep 1686 finished, loss: 0.5672878623008728
+metastep 1687 finished, loss: 0.5317419767379761
+metastep 1688 finished, loss: 0.604418933391571
+metastep 1689 finished, loss: 0.5757087469100952
+metastep 1690 finished, loss: 0.5105099081993103
+metastep 1691 finished, loss: 0.6404569745063782
+metastep 1692 finished, loss: 0.6318323016166687
+metastep 1693 finished, loss: 0.5100566148757935
+metastep 1694 finished, loss: 0.5757245421409607
+metastep 1695 finished, loss: 0.5877912044525146
+metastep 1696 finished, loss: 0.5824843049049377
+metastep 1697 finished, loss: 0.6352879405021667
+metastep 1698 finished, loss: 0.5575542449951172
+metastep 1699 finished, loss: 0.5731915235519409
+metastep 1700 finished, loss: 0.5866883993148804
+metastep 1701 finished, loss: 0.5679291486740112
+metastep 1702 finished, loss: 0.587674617767334
+metastep 1703 finished, loss: 0.633910596370697
+metastep 1704 finished, loss: 0.48980236053466797
+metastep 1705 finished, loss: 0.5258702039718628
+metastep 1706 finished, loss: 0.6114678978919983
+metastep 1707 finished, loss: 0.5080314874649048
+metastep 1708 finished, loss: 0.5278605818748474
+metastep 1709 finished, loss: 0.5346195697784424
+metastep 1710 finished, loss: 0.5237848162651062
+metastep 1711 finished, loss: 0.60548996925354
+metastep 1712 finished, loss: 0.5579214692115784
+metastep 1713 finished, loss: 0.6516439914703369
+metastep 1714 finished, loss: 0.5528822541236877
+metastep 1715 finished, loss: 0.566400945186615
+metastep 1716 finished, loss: 0.5770114064216614
+metastep 1717 finished, loss: 0.5259833335876465
+metastep 1718 finished, loss: 0.564354419708252
+metastep 1719 finished, loss: 0.533402681350708
+metastep 1720 finished, loss: 0.5791056156158447
+metastep 1721 finished, loss: 0.5815355181694031
+metastep 1722 finished, loss: 0.5383821725845337
+metastep 1723 finished, loss: 0.5680157542228699
+metastep 1724 finished, loss: 0.5018987655639648
+metastep 1725 finished, loss: 0.5368176102638245
+metastep 1726 finished, loss: 0.5178660154342651
+metastep 1727 finished, loss: 0.5640522241592407
+metastep 1728 finished, loss: 0.5985046625137329
+metastep 1729 finished, loss: 0.5774087309837341
+metastep 1730 finished, loss: 0.5763742923736572
+metastep 1731 finished, loss: 0.49650880694389343
+metastep 1732 finished, loss: 0.542595386505127
+metastep 1733 finished, loss: 0.5353428721427917
+metastep 1734 finished, loss: 0.567700982093811
+metastep 1735 finished, loss: 0.6093413829803467
+metastep 1736 finished, loss: 0.5496665239334106
+metastep 1737 finished, loss: 0.5303387641906738
+metastep 1738 finished, loss: 0.5099900364875793
+metastep 1739 finished, loss: 0.5267786383628845
+metastep 1740 finished, loss: 0.5836156606674194
+metastep 1741 finished, loss: 0.5210133194923401
+metastep 1742 finished, loss: 0.6104305386543274
+metastep 1743 finished, loss: 0.5962399244308472
+metastep 1744 finished, loss: 0.5463058352470398
+metastep 1745 finished, loss: 0.5980847477912903
+metastep 1746 finished, loss: 0.47021976113319397
+metastep 1747 finished, loss: 0.5514448881149292
+metastep 1748 finished, loss: 0.5662376284599304
+metastep 1749 finished, loss: 0.56746906042099
+metastep 1750 finished, loss: 0.5366783142089844
+metastep 1751 finished, loss: 0.5597717761993408
+metastep 1752 finished, loss: 0.5729854702949524
+metastep 1753 finished, loss: 0.5669239163398743
+metastep 1754 finished, loss: 0.5557081699371338
+metastep 1755 finished, loss: 0.6227482557296753
+metastep 1756 finished, loss: 0.5564427971839905
+metastep 1757 finished, loss: 0.5721549391746521
+metastep 1758 finished, loss: 0.5905648469924927
+metastep 1759 finished, loss: 0.583733320236206
+metastep 1760 finished, loss: 0.5310196876525879
+metastep 1761 finished, loss: 0.5252912044525146
+metastep 1762 finished, loss: 0.6072192788124084
+metastep 1763 finished, loss: 0.5911417007446289
+metastep 1764 finished, loss: 0.5244218111038208
+metastep 1765 finished, loss: 0.573115885257721
+metastep 1766 finished, loss: 0.5144702196121216
+metastep 1767 finished, loss: 0.6183227300643921
+metastep 1768 finished, loss: 0.5054572820663452
+metastep 1769 finished, loss: 0.5394492745399475
+metastep 1770 finished, loss: 0.5754628777503967
+metastep 1771 finished, loss: 0.6019447445869446
+metastep 1772 finished, loss: 0.587114691734314
+metastep 1773 finished, loss: 0.5623311400413513
+metastep 1774 finished, loss: 0.5874380469322205
+metastep 1775 finished, loss: 0.5569725036621094
+metastep 1776 finished, loss: 0.5738039016723633
+metastep 1777 finished, loss: 0.5706226825714111
+metastep 1778 finished, loss: 0.5299270153045654
+metastep 1779 finished, loss: 0.530825674533844
+metastep 1780 finished, loss: 0.5627838969230652
+metastep 1781 finished, loss: 0.5617150068283081
+metastep 1782 finished, loss: 0.6042701601982117
+metastep 1783 finished, loss: 0.5932698249816895
+metastep 1784 finished, loss: 0.5463411211967468
+metastep 1785 finished, loss: 0.5764979720115662
+metastep 1786 finished, loss: 0.5644899010658264
+metastep 1787 finished, loss: 0.5595701932907104
+metastep 1788 finished, loss: 0.5521010160446167
+metastep 1789 finished, loss: 0.5908695459365845
+metastep 1790 finished, loss: 0.5816987752914429
+metastep 1791 finished, loss: 0.5698845386505127
+metastep 1792 finished, loss: 0.567913293838501
+metastep 1793 finished, loss: 0.5910279154777527
+metastep 1794 finished, loss: 0.5679819583892822
+metastep 1795 finished, loss: 0.6165879964828491
+metastep 1796 finished, loss: 0.6200820803642273
+metastep 1797 finished, loss: 0.6379088163375854
+metastep 1798 finished, loss: 0.5782436728477478
+metastep 1799 finished, loss: 0.6184955835342407
+metastep 1800 finished, loss: 0.6230624318122864
+metastep 1801 finished, loss: 0.6789566278457642
+metastep 1802 finished, loss: 0.5679831504821777
+metastep 1803 finished, loss: 0.5950918793678284
+metastep 1804 finished, loss: 0.6333773136138916
+metastep 1805 finished, loss: 0.5239290595054626
+metastep 1806 finished, loss: 0.5591597557067871
+metastep 1807 finished, loss: 0.5925639867782593
+metastep 1808 finished, loss: 0.5412792563438416
+metastep 1809 finished, loss: 0.5961546301841736
+metastep 1810 finished, loss: 0.6745455265045166
+metastep 1811 finished, loss: 0.6661144495010376
+metastep 1812 finished, loss: 0.6180865168571472
+metastep 1813 finished, loss: 0.5793745517730713
+metastep 1814 finished, loss: 0.6108622550964355
+metastep 1815 finished, loss: 0.6580350399017334
+metastep 1816 finished, loss: 0.5755515694618225
+metastep 1817 finished, loss: 0.6455609202384949
+metastep 1818 finished, loss: 0.5651484727859497
+metastep 1819 finished, loss: 0.5736595988273621
+metastep 1820 finished, loss: 0.5513299703598022
+metastep 1821 finished, loss: 0.5449950695037842
+metastep 1822 finished, loss: 0.5913201570510864
+metastep 1823 finished, loss: 0.5976799726486206
+metastep 1824 finished, loss: 0.5874624252319336
+metastep 1825 finished, loss: 0.5449634790420532
+metastep 1826 finished, loss: 0.6005982160568237
+metastep 1827 finished, loss: 0.6460648775100708
+metastep 1828 finished, loss: 0.56096351146698
+metastep 1829 finished, loss: 0.5877911448478699
+metastep 1830 finished, loss: 0.5705686807632446
+metastep 1831 finished, loss: 0.5599040985107422
+metastep 1832 finished, loss: 0.6428192853927612
+metastep 1833 finished, loss: 0.5841457843780518
+metastep 1834 finished, loss: 0.6353800892829895
+metastep 1835 finished, loss: 0.5580277442932129
+metastep 1836 finished, loss: 0.5620144605636597
+metastep 1837 finished, loss: 0.5749332308769226
+metastep 1838 finished, loss: 0.5137529969215393
+metastep 1839 finished, loss: 0.6366671323776245
+metastep 1840 finished, loss: 0.6169360280036926
+metastep 1841 finished, loss: 0.5219669938087463
+metastep 1842 finished, loss: 0.5672283172607422
+metastep 1843 finished, loss: 0.5828620195388794
+metastep 1844 finished, loss: 0.5861109495162964
+metastep 1845 finished, loss: 0.5921044945716858
+metastep 1846 finished, loss: 0.5431041717529297
+metastep 1847 finished, loss: 0.5660865902900696
+metastep 1848 finished, loss: 0.5708721876144409
+metastep 1849 finished, loss: 0.5073659420013428
+metastep 1850 finished, loss: 0.6179240942001343
+metastep 1851 finished, loss: 0.5613422989845276
+metastep 1852 finished, loss: 0.5707228779792786
+metastep 1853 finished, loss: 0.6183257699012756
+metastep 1854 finished, loss: 0.5597231984138489
+metastep 1855 finished, loss: 0.5835855007171631
+metastep 1856 finished, loss: 0.5583932399749756
+metastep 1857 finished, loss: 0.5714374780654907
+metastep 1858 finished, loss: 0.5329279899597168
+metastep 1859 finished, loss: 0.6123045086860657
+metastep 1860 finished, loss: 0.5477433204650879
+metastep 1861 finished, loss: 0.6102409958839417
+metastep 1862 finished, loss: 0.5632088780403137
+metastep 1863 finished, loss: 0.6140995621681213
+metastep 1864 finished, loss: 0.5753127336502075
+metastep 1865 finished, loss: 0.5701484680175781
+metastep 1866 finished, loss: 0.5993788838386536
+metastep 1867 finished, loss: 0.586830735206604
+metastep 1868 finished, loss: 0.5477259755134583
+metastep 1869 finished, loss: 0.5224998593330383
+metastep 1870 finished, loss: 0.5710934400558472
+metastep 1871 finished, loss: 0.5419625639915466
+metastep 1872 finished, loss: 0.6039962768554688
+metastep 1873 finished, loss: 0.5616728067398071
+metastep 1874 finished, loss: 0.606367290019989
+metastep 1875 finished, loss: 0.5833718776702881
+metastep 1876 finished, loss: 0.5670994520187378
+metastep 1877 finished, loss: 0.5291438698768616
+metastep 1878 finished, loss: 0.5291715860366821
+metastep 1879 finished, loss: 0.5488006472587585
+metastep 1880 finished, loss: 0.5998944640159607
+metastep 1881 finished, loss: 0.552343487739563
+metastep 1882 finished, loss: 0.5637272000312805
+metastep 1883 finished, loss: 0.5668738484382629
+metastep 1884 finished, loss: 0.6261604428291321
+metastep 1885 finished, loss: 0.5563136339187622
+metastep 1886 finished, loss: 0.5911068916320801
+metastep 1887 finished, loss: 0.543864905834198
+metastep 1888 finished, loss: 0.5354931950569153
+metastep 1889 finished, loss: 0.5419363379478455
+metastep 1890 finished, loss: 0.6181889772415161
+metastep 1891 finished, loss: 0.5502779483795166
+metastep 1892 finished, loss: 0.6161150932312012
+metastep 1893 finished, loss: 0.573310136795044
+metastep 1894 finished, loss: 0.5618738532066345
+metastep 1895 finished, loss: 0.5305492877960205
+metastep 1896 finished, loss: 0.6088227033615112
+metastep 1897 finished, loss: 0.5839200615882874
+metastep 1898 finished, loss: 0.5899836421012878
+metastep 1899 finished, loss: 0.5894343852996826
+metastep 1900 finished, loss: 0.5401425957679749
+metastep 1901 finished, loss: 0.6424821615219116
+metastep 1902 finished, loss: 0.65309739112854
+metastep 1903 finished, loss: 0.5455110669136047
+metastep 1904 finished, loss: 0.6061195731163025
+metastep 1905 finished, loss: 0.578161358833313
+metastep 1906 finished, loss: 0.6541271209716797
+metastep 1907 finished, loss: 0.5937389135360718
+metastep 1908 finished, loss: 0.5716558694839478
+metastep 1909 finished, loss: 0.5470221042633057
+metastep 1910 finished, loss: 0.5495017170906067
+metastep 1911 finished, loss: 0.5780036449432373
+metastep 1912 finished, loss: 0.5734425187110901
+metastep 1913 finished, loss: 0.5947335362434387
+metastep 1914 finished, loss: 0.6400741934776306
+metastep 1915 finished, loss: 0.5916429758071899
+metastep 1916 finished, loss: 0.5665976405143738
+metastep 1917 finished, loss: 0.519088089466095
+metastep 1918 finished, loss: 0.5413342118263245
+metastep 1919 finished, loss: 0.5952965617179871
+metastep 1920 finished, loss: 0.5477336049079895
+metastep 1921 finished, loss: 0.6402196884155273
+metastep 1922 finished, loss: 0.5593241453170776
+metastep 1923 finished, loss: 0.5957808494567871
+metastep 1924 finished, loss: 0.5463204979896545
+metastep 1925 finished, loss: 0.5908459424972534
+metastep 1926 finished, loss: 0.5980074405670166
+metastep 1927 finished, loss: 0.6066591143608093
+metastep 1928 finished, loss: 0.5729219913482666
+metastep 1929 finished, loss: 0.5895704030990601
+metastep 1930 finished, loss: 0.5673704743385315
+metastep 1931 finished, loss: 0.604114830493927
+metastep 1932 finished, loss: 0.5917952656745911
+metastep 1933 finished, loss: 0.5895801186561584
+metastep 1934 finished, loss: 0.6019644737243652
+metastep 1935 finished, loss: 0.5343661308288574
+metastep 1936 finished, loss: 0.5549815893173218
+metastep 1937 finished, loss: 0.5669097304344177
+metastep 1938 finished, loss: 0.5456676483154297
+metastep 1939 finished, loss: 0.5454593896865845
+metastep 1940 finished, loss: 0.5469032526016235
+metastep 1941 finished, loss: 0.543351948261261
+metastep 1942 finished, loss: 0.6035541296005249
+metastep 1943 finished, loss: 0.6385930776596069
+metastep 1944 finished, loss: 0.5139089226722717
+metastep 1945 finished, loss: 0.5333874821662903
+metastep 1946 finished, loss: 0.5773774981498718
+metastep 1947 finished, loss: 0.5223378539085388
+metastep 1948 finished, loss: 0.507165789604187
+metastep 1949 finished, loss: 0.5378051400184631
+metastep 1950 finished, loss: 0.544460654258728
+metastep 1951 finished, loss: 0.5499880909919739
+metastep 1952 finished, loss: 0.5568883419036865
+metastep 1953 finished, loss: 0.6073507070541382
+metastep 1954 finished, loss: 0.649145781993866
+metastep 1955 finished, loss: 0.6004611253738403
+metastep 1956 finished, loss: 0.5632213354110718
+metastep 1957 finished, loss: 0.5689549446105957
+metastep 1958 finished, loss: 0.5181353092193604
+metastep 1959 finished, loss: 0.6032875776290894
+metastep 1960 finished, loss: 0.6063137650489807
+metastep 1961 finished, loss: 0.5955563187599182
+metastep 1962 finished, loss: 0.5982877016067505
+metastep 1963 finished, loss: 0.6114049553871155
+metastep 1964 finished, loss: 0.6420378088951111
+metastep 1965 finished, loss: 0.6358661651611328
+metastep 1966 finished, loss: 0.6813041567802429
+metastep 1967 finished, loss: 0.5391955971717834
+metastep 1968 finished, loss: 0.5550112128257751
+metastep 1969 finished, loss: 0.5722801685333252
+metastep 1970 finished, loss: 0.5441733598709106
+metastep 1971 finished, loss: 0.6104183197021484
+metastep 1972 finished, loss: 0.5777579545974731
+metastep 1973 finished, loss: 0.5635033845901489
+metastep 1974 finished, loss: 0.5984570980072021
+metastep 1975 finished, loss: 0.5435616374015808
+metastep 1976 finished, loss: 0.5534297823905945
+metastep 1977 finished, loss: 0.5908970236778259
+metastep 1978 finished, loss: 0.5684875249862671
+metastep 1979 finished, loss: 0.6296492218971252
+metastep 1980 finished, loss: 0.5553444623947144
+metastep 1981 finished, loss: 0.6026041507720947
+metastep 1982 finished, loss: 0.5945723652839661
+metastep 1983 finished, loss: 0.6516795754432678
+metastep 1984 finished, loss: 0.5541919469833374
+metastep 1985 finished, loss: 0.5875540971755981
+metastep 1986 finished, loss: 0.5726847648620605
+metastep 1987 finished, loss: 0.5927625894546509
+metastep 1988 finished, loss: 0.5740841627120972
+metastep 1989 finished, loss: 0.5590913891792297
+metastep 1990 finished, loss: 0.5753000974655151
+metastep 1991 finished, loss: 0.5935928821563721
+metastep 1992 finished, loss: 0.5879325866699219
+metastep 1993 finished, loss: 0.5549613833427429
+metastep 1994 finished, loss: 0.5713533759117126
+metastep 1995 finished, loss: 0.5516815185546875
+metastep 1996 finished, loss: 0.6088360548019409
+metastep 1997 finished, loss: 0.5936261415481567
+metastep 1998 finished, loss: 0.6286442875862122
+metastep 1999 finished, loss: 0.5960059762001038
+metastep 2000 finished, loss: 0.6082115173339844
+metastep 2001 finished, loss: 0.6221466064453125
+metastep 2002 finished, loss: 0.5709452033042908
+metastep 2003 finished, loss: 0.6541692018508911
+metastep 2004 finished, loss: 0.6548534035682678
+metastep 2005 finished, loss: 0.6217363476753235
+metastep 2006 finished, loss: 0.6044963598251343
+metastep 2007 finished, loss: 0.6114881634712219
+metastep 2008 finished, loss: 0.550029456615448
+metastep 2009 finished, loss: 0.6640175580978394
+metastep 2010 finished, loss: 0.6191568374633789
+metastep 2011 finished, loss: 0.6330866813659668
+metastep 2012 finished, loss: 0.567641019821167
+metastep 2013 finished, loss: 0.5603908896446228
+metastep 2014 finished, loss: 0.5873768329620361
+metastep 2015 finished, loss: 0.582929253578186
+metastep 2016 finished, loss: 0.5585368871688843
+metastep 2017 finished, loss: 0.5477634072303772
+metastep 2018 finished, loss: 0.5141039490699768
+metastep 2019 finished, loss: 0.5346165895462036
+metastep 2020 finished, loss: 0.5454538464546204
+metastep 2021 finished, loss: 0.5737931728363037
+metastep 2022 finished, loss: 0.6142444014549255
+metastep 2023 finished, loss: 0.5535879731178284
+metastep 2024 finished, loss: 0.5505691766738892
+metastep 2025 finished, loss: 0.6217296719551086
+metastep 2026 finished, loss: 0.5123583078384399
+metastep 2027 finished, loss: 0.5857531428337097
+metastep 2028 finished, loss: 0.5988040566444397
+metastep 2029 finished, loss: 0.5446025133132935
+metastep 2030 finished, loss: 0.5980352163314819
+metastep 2031 finished, loss: 0.6160542368888855
+metastep 2032 finished, loss: 0.5923280119895935
+metastep 2033 finished, loss: 0.5607737302780151
+metastep 2034 finished, loss: 0.6190192103385925
+metastep 2035 finished, loss: 0.5981957316398621
+metastep 2036 finished, loss: 0.5925434827804565
+metastep 2037 finished, loss: 0.6123314499855042
+metastep 2038 finished, loss: 0.6013977527618408
+metastep 2039 finished, loss: 0.5761479735374451
+metastep 2040 finished, loss: 0.587642252445221
+metastep 2041 finished, loss: 0.6225553750991821
+metastep 2042 finished, loss: 0.572433352470398
+metastep 2043 finished, loss: 0.5326170325279236
+metastep 2044 finished, loss: 0.5760320425033569
+metastep 2045 finished, loss: 0.596723198890686
+metastep 2046 finished, loss: 0.5153314471244812
+metastep 2047 finished, loss: 0.57891845703125
+metastep 2048 finished, loss: 0.5409634113311768
+metastep 2049 finished, loss: 0.56527179479599
+metastep 2050 finished, loss: 0.5441218614578247
+metastep 2051 finished, loss: 0.5365145802497864
+metastep 2052 finished, loss: 0.5642071962356567
+metastep 2053 finished, loss: 0.5456498265266418
+metastep 2054 finished, loss: 0.5271199345588684
+metastep 2055 finished, loss: 0.5964988470077515
+metastep 2056 finished, loss: 0.5924636125564575
+metastep 2057 finished, loss: 0.5958350300788879
+metastep 2058 finished, loss: 0.5770924091339111
+metastep 2059 finished, loss: 0.53716641664505
+metastep 2060 finished, loss: 0.60310298204422
+metastep 2061 finished, loss: 0.533028781414032
+metastep 2062 finished, loss: 0.5427125692367554
+metastep 2063 finished, loss: 0.5524125099182129
+metastep 2064 finished, loss: 0.5955450534820557
+metastep 2065 finished, loss: 0.5683224201202393
+metastep 2066 finished, loss: 0.5298025608062744
+metastep 2067 finished, loss: 0.5354206562042236
+metastep 2068 finished, loss: 0.5754442811012268
+metastep 2069 finished, loss: 0.5769947171211243
+metastep 2070 finished, loss: 0.6359871029853821
+metastep 2071 finished, loss: 0.6177220940589905
+metastep 2072 finished, loss: 0.5610492825508118
+metastep 2073 finished, loss: 0.5915635228157043
+metastep 2074 finished, loss: 0.6220782399177551
+metastep 2075 finished, loss: 0.5941163301467896
+metastep 2076 finished, loss: 0.5716241002082825
+metastep 2077 finished, loss: 0.6821777820587158
+metastep 2078 finished, loss: 0.5830751657485962
+metastep 2079 finished, loss: 0.5884303450584412
+metastep 2080 finished, loss: 0.6349071860313416
+metastep 2081 finished, loss: 0.685502290725708
+metastep 2082 finished, loss: 0.5835840702056885
+metastep 2083 finished, loss: 0.640437662601471
+metastep 2084 finished, loss: 0.6346660852432251
+metastep 2085 finished, loss: 0.6258590817451477
+metastep 2086 finished, loss: 0.5904142260551453
+metastep 2087 finished, loss: 0.6270880699157715
+metastep 2088 finished, loss: 0.5658438801765442
+metastep 2089 finished, loss: 0.6064685583114624
+metastep 2090 finished, loss: 0.5839455723762512
+metastep 2091 finished, loss: 0.6051501631736755
+metastep 2092 finished, loss: 0.6462777256965637
+metastep 2093 finished, loss: 0.6590455174446106
+metastep 2094 finished, loss: 0.5832967758178711
+metastep 2095 finished, loss: 0.6394686698913574
+metastep 2096 finished, loss: 0.6117861866950989
+metastep 2097 finished, loss: 0.5915483236312866
+metastep 2098 finished, loss: 0.5694467425346375
+metastep 2099 finished, loss: 0.6049942374229431
+metastep 2100 finished, loss: 0.5564660429954529
+metastep 2101 finished, loss: 0.6072534918785095
+metastep 2102 finished, loss: 0.549033522605896
+metastep 2103 finished, loss: 0.5885676145553589
+metastep 2104 finished, loss: 0.6444894075393677
+metastep 2105 finished, loss: 0.5667924880981445
+metastep 2106 finished, loss: 0.591723620891571
+metastep 2107 finished, loss: 0.6236392259597778
+metastep 2108 finished, loss: 0.5833245515823364
+metastep 2109 finished, loss: 0.6096967458724976
+metastep 2110 finished, loss: 0.5439656376838684
+metastep 2111 finished, loss: 0.5327592492103577
+metastep 2112 finished, loss: 0.5661269426345825
+metastep 2113 finished, loss: 0.5562891960144043
+metastep 2114 finished, loss: 0.6128501892089844
+metastep 2115 finished, loss: 0.5961471796035767
+metastep 2116 finished, loss: 0.5764783024787903
+metastep 2117 finished, loss: 0.5851807594299316
+metastep 2118 finished, loss: 0.5501653552055359
+metastep 2119 finished, loss: 0.5578292608261108
+metastep 2120 finished, loss: 0.6348690390586853
+metastep 2121 finished, loss: 0.586083710193634
+metastep 2122 finished, loss: 0.5428338646888733
+metastep 2123 finished, loss: 0.5863441824913025
+metastep 2124 finished, loss: 0.6069705486297607
+metastep 2125 finished, loss: 0.6097211241722107
+metastep 2126 finished, loss: 0.6534819602966309
+metastep 2127 finished, loss: 0.6228001117706299
+metastep 2128 finished, loss: 0.5777248740196228
+metastep 2129 finished, loss: 0.601828396320343
+metastep 2130 finished, loss: 0.62833172082901
+metastep 2131 finished, loss: 0.6169161796569824
+metastep 2132 finished, loss: 0.5477558374404907
+metastep 2133 finished, loss: 0.5930407643318176
+metastep 2134 finished, loss: 0.5290879011154175
+metastep 2135 finished, loss: 0.5950614809989929
+metastep 2136 finished, loss: 0.559262752532959
+metastep 2137 finished, loss: 0.5324400663375854
+metastep 2138 finished, loss: 0.5963633060455322
+metastep 2139 finished, loss: 0.6040821671485901
+metastep 2140 finished, loss: 0.5805040001869202
+metastep 2141 finished, loss: 0.5974305272102356
+metastep 2142 finished, loss: 0.5236358642578125
+metastep 2143 finished, loss: 0.5854611992835999
+metastep 2144 finished, loss: 0.5787610411643982
+metastep 2145 finished, loss: 0.6022005677223206
+metastep 2146 finished, loss: 0.5113102793693542
+metastep 2147 finished, loss: 0.6251340508460999
+metastep 2148 finished, loss: 0.59798663854599
+metastep 2149 finished, loss: 0.5596297383308411
+metastep 2150 finished, loss: 0.5665021538734436
+metastep 2151 finished, loss: 0.501120388507843
+metastep 2152 finished, loss: 0.5451169013977051
+metastep 2153 finished, loss: 0.5949283242225647
+metastep 2154 finished, loss: 0.6247842907905579
+metastep 2155 finished, loss: 0.5828665494918823
+metastep 2156 finished, loss: 0.5238383412361145
+metastep 2157 finished, loss: 0.6006305813789368
+metastep 2158 finished, loss: 0.5681257247924805
+metastep 2159 finished, loss: 0.6015186309814453
+metastep 2160 finished, loss: 0.5857696533203125
+metastep 2161 finished, loss: 0.5785461068153381
+metastep 2162 finished, loss: 0.6199134588241577
+metastep 2163 finished, loss: 0.5144379138946533
+metastep 2164 finished, loss: 0.5603874921798706
+metastep 2165 finished, loss: 0.5885174870491028
+metastep 2166 finished, loss: 0.5916087031364441
+metastep 2167 finished, loss: 0.6367366909980774
+metastep 2168 finished, loss: 0.5663129091262817
+metastep 2169 finished, loss: 0.6168891191482544
+metastep 2170 finished, loss: 0.5840435028076172
+metastep 2171 finished, loss: 0.6181133389472961
+metastep 2172 finished, loss: 0.5806440114974976
+metastep 2173 finished, loss: 0.617343544960022
+metastep 2174 finished, loss: 0.6268926858901978
+metastep 2175 finished, loss: 0.5480968356132507
+metastep 2176 finished, loss: 0.5813036561012268
+metastep 2177 finished, loss: 0.5564418435096741
+metastep 2178 finished, loss: 0.5769833326339722
+metastep 2179 finished, loss: 0.6024056077003479
+metastep 2180 finished, loss: 0.5757196545600891
+metastep 2181 finished, loss: 0.6212249994277954
+metastep 2182 finished, loss: 0.5978776216506958
+metastep 2183 finished, loss: 0.5890847444534302
+metastep 2184 finished, loss: 0.638236939907074
+metastep 2185 finished, loss: 0.6403464674949646
+metastep 2186 finished, loss: 0.5984923839569092
+metastep 2187 finished, loss: 0.6659976243972778
+metastep 2188 finished, loss: 0.6007140874862671
+metastep 2189 finished, loss: 0.587347149848938
+metastep 2190 finished, loss: 0.5804850459098816
+metastep 2191 finished, loss: 0.5914232134819031
+metastep 2192 finished, loss: 0.5839641690254211
+metastep 2193 finished, loss: 0.5579169392585754
+metastep 2194 finished, loss: 0.5615330934524536
+metastep 2195 finished, loss: 0.5771390199661255
+metastep 2196 finished, loss: 0.5870933532714844
+metastep 2197 finished, loss: 0.5331354737281799
+metastep 2198 finished, loss: 0.5618650317192078
+metastep 2199 finished, loss: 0.5664066076278687
+metastep 2200 finished, loss: 0.5339680910110474
+metastep 2201 finished, loss: 0.6167532205581665
+metastep 2202 finished, loss: 0.5365508198738098
+metastep 2203 finished, loss: 0.5321353077888489
+metastep 2204 finished, loss: 0.5531342029571533
+metastep 2205 finished, loss: 0.618873655796051
+metastep 2206 finished, loss: 0.5342998504638672
+metastep 2207 finished, loss: 0.6045711636543274
+metastep 2208 finished, loss: 0.5289202928543091
+metastep 2209 finished, loss: 0.5131676197052002
+metastep 2210 finished, loss: 0.6234986782073975
+metastep 2211 finished, loss: 0.5619612336158752
+metastep 2212 finished, loss: 0.5454280972480774
+metastep 2213 finished, loss: 0.6001131534576416
+metastep 2214 finished, loss: 0.5923113226890564
+metastep 2215 finished, loss: 0.6260731220245361
+metastep 2216 finished, loss: 0.6099149584770203
+metastep 2217 finished, loss: 0.5750500559806824
+metastep 2218 finished, loss: 0.5981484651565552
+metastep 2219 finished, loss: 0.5379672050476074
+metastep 2220 finished, loss: 0.5390922427177429
+metastep 2221 finished, loss: 0.5018841028213501
+metastep 2222 finished, loss: 0.5716143250465393
+metastep 2223 finished, loss: 0.5742927193641663
+metastep 2224 finished, loss: 0.5597957968711853
+metastep 2225 finished, loss: 0.6262926459312439
+metastep 2226 finished, loss: 0.6268784999847412
+metastep 2227 finished, loss: 0.5442196726799011
+metastep 2228 finished, loss: 0.6121047735214233
+metastep 2229 finished, loss: 0.5423135757446289
+metastep 2230 finished, loss: 0.55378657579422
+metastep 2231 finished, loss: 0.5087924003601074
+metastep 2232 finished, loss: 0.5610676407814026
+metastep 2233 finished, loss: 0.5935011506080627
+metastep 2234 finished, loss: 0.5774945020675659
+metastep 2235 finished, loss: 0.5113379955291748
+metastep 2236 finished, loss: 0.5746420621871948
+metastep 2237 finished, loss: 0.5531788468360901
+metastep 2238 finished, loss: 0.5577499866485596
+metastep 2239 finished, loss: 0.5364920496940613
+metastep 2240 finished, loss: 0.5744587779045105
+metastep 2241 finished, loss: 0.5551455020904541
+metastep 2242 finished, loss: 0.5582676529884338
+metastep 2243 finished, loss: 0.6094726920127869
+metastep 2244 finished, loss: 0.5595396757125854
+metastep 2245 finished, loss: 0.5532957911491394
+metastep 2246 finished, loss: 0.5456538200378418
+metastep 2247 finished, loss: 0.5991361141204834
+metastep 2248 finished, loss: 0.5272685289382935
+metastep 2249 finished, loss: 0.5454425811767578
+metastep 2250 finished, loss: 0.5525807738304138
+metastep 2251 finished, loss: 0.5542201995849609
+metastep 2252 finished, loss: 0.6256494522094727
+metastep 2253 finished, loss: 0.6162219047546387
+metastep 2254 finished, loss: 0.579637885093689
+metastep 2255 finished, loss: 0.6468693614006042
+metastep 2256 finished, loss: 0.5680983662605286
+metastep 2257 finished, loss: 0.6866422891616821
+metastep 2258 finished, loss: 0.59027099609375
+metastep 2259 finished, loss: 0.5780674815177917
+metastep 2260 finished, loss: 0.5949665904045105
+metastep 2261 finished, loss: 0.5615646243095398
+metastep 2262 finished, loss: 0.5670031309127808
+metastep 2263 finished, loss: 0.5938572883605957
+metastep 2264 finished, loss: 0.5829764008522034
+metastep 2265 finished, loss: 0.5622583031654358
+metastep 2266 finished, loss: 0.5423409342765808
+metastep 2267 finished, loss: 0.6047664880752563
+metastep 2268 finished, loss: 0.5382736921310425
+metastep 2269 finished, loss: 0.5600512027740479
+metastep 2270 finished, loss: 0.583773136138916
+metastep 2271 finished, loss: 0.5329893827438354
+metastep 2272 finished, loss: 0.5516493320465088
+metastep 2273 finished, loss: 0.5775479674339294
+metastep 2274 finished, loss: 0.5080769062042236
+metastep 2275 finished, loss: 0.5792317390441895
+metastep 2276 finished, loss: 0.5765678286552429
+metastep 2277 finished, loss: 0.4885559380054474
+metastep 2278 finished, loss: 0.4939378798007965
+metastep 2279 finished, loss: 0.6062063574790955
+metastep 2280 finished, loss: 0.566072940826416
+metastep 2281 finished, loss: 0.5590202212333679
+metastep 2282 finished, loss: 0.5713796615600586
+metastep 2283 finished, loss: 0.5690799355506897
+metastep 2284 finished, loss: 0.5941957831382751
+metastep 2285 finished, loss: 0.5481634736061096
+metastep 2286 finished, loss: 0.5148680806159973
+metastep 2287 finished, loss: 0.6165787577629089
+metastep 2288 finished, loss: 0.5909093618392944
+metastep 2289 finished, loss: 0.5151144862174988
+metastep 2290 finished, loss: 0.5974535346031189
+metastep 2291 finished, loss: 0.563256561756134
+metastep 2292 finished, loss: 0.5564177632331848
+metastep 2293 finished, loss: 0.5382885932922363
+metastep 2294 finished, loss: 0.601546585559845
+metastep 2295 finished, loss: 0.5690802335739136
+metastep 2296 finished, loss: 0.5107821822166443
+metastep 2297 finished, loss: 0.5624959468841553
+metastep 2298 finished, loss: 0.6220976114273071
+metastep 2299 finished, loss: 0.5486177206039429
+metastep 2300 finished, loss: 0.5797850489616394
+metastep 2301 finished, loss: 0.5907880067825317
+metastep 2302 finished, loss: 0.5440112948417664
+metastep 2303 finished, loss: 0.5156677961349487
+metastep 2304 finished, loss: 0.5070503950119019
+metastep 2305 finished, loss: 0.5703052878379822
+metastep 2306 finished, loss: 0.5344799160957336
+metastep 2307 finished, loss: 0.5788304209709167
+metastep 2308 finished, loss: 0.5346925258636475
+metastep 2309 finished, loss: 0.5580459833145142
+metastep 2310 finished, loss: 0.6369591355323792
+metastep 2311 finished, loss: 0.49910715222358704
+metastep 2312 finished, loss: 0.6035113334655762
+metastep 2313 finished, loss: 0.594149649143219
+metastep 2314 finished, loss: 0.5457161664962769
+metastep 2315 finished, loss: 0.5386308431625366
+metastep 2316 finished, loss: 0.5248910188674927
+metastep 2317 finished, loss: 0.5515738129615784
+metastep 2318 finished, loss: 0.5172586441040039
+metastep 2319 finished, loss: 0.5416861176490784
+metastep 2320 finished, loss: 0.5622801184654236
+metastep 2321 finished, loss: 0.5554074048995972
+metastep 2322 finished, loss: 0.5570191740989685
+metastep 2323 finished, loss: 0.5812479257583618
+metastep 2324 finished, loss: 0.5917252898216248
+metastep 2325 finished, loss: 0.5474174618721008
+metastep 2326 finished, loss: 0.5918737649917603
+metastep 2327 finished, loss: 0.5757652521133423
+metastep 2328 finished, loss: 0.4917014241218567
+metastep 2329 finished, loss: 0.5452940464019775
+metastep 2330 finished, loss: 0.5940985083580017
+metastep 2331 finished, loss: 0.5966554284095764
+metastep 2332 finished, loss: 0.6064946055412292
+metastep 2333 finished, loss: 0.592010498046875
+metastep 2334 finished, loss: 0.5024476647377014
+metastep 2335 finished, loss: 0.5648897290229797
+metastep 2336 finished, loss: 0.5895722508430481
+metastep 2337 finished, loss: 0.6353394389152527
+metastep 2338 finished, loss: 0.5811103582382202
+metastep 2339 finished, loss: 0.5455111265182495
+metastep 2340 finished, loss: 0.49024713039398193
+metastep 2341 finished, loss: 0.6073283553123474
+metastep 2342 finished, loss: 0.5602354407310486
+metastep 2343 finished, loss: 0.5342432856559753
+metastep 2344 finished, loss: 0.6298723816871643
+metastep 2345 finished, loss: 0.5490120053291321
+metastep 2346 finished, loss: 0.5339044332504272
+metastep 2347 finished, loss: 0.6078946590423584
+metastep 2348 finished, loss: 0.5364506840705872
+metastep 2349 finished, loss: 0.562376856803894
+metastep 2350 finished, loss: 0.5515250563621521
+metastep 2351 finished, loss: 0.581222653388977
+metastep 2352 finished, loss: 0.5705080032348633
+metastep 2353 finished, loss: 0.5827828645706177
+metastep 2354 finished, loss: 0.6307367086410522
+metastep 2355 finished, loss: 0.6013134717941284
+metastep 2356 finished, loss: 0.6090587377548218
+metastep 2357 finished, loss: 0.548957109451294
+metastep 2358 finished, loss: 0.5823816061019897
+metastep 2359 finished, loss: 0.587510347366333
+metastep 2360 finished, loss: 0.5748484134674072
+metastep 2361 finished, loss: 0.5864843726158142
+metastep 2362 finished, loss: 0.5586491823196411
+metastep 2363 finished, loss: 0.5735700130462646
+metastep 2364 finished, loss: 0.5855153203010559
+metastep 2365 finished, loss: 0.5715693831443787
+metastep 2366 finished, loss: 0.5662786960601807
+metastep 2367 finished, loss: 0.5907275080680847
+metastep 2368 finished, loss: 0.5788161754608154
+metastep 2369 finished, loss: 0.5572038888931274
+metastep 2370 finished, loss: 0.555489718914032
+metastep 2371 finished, loss: 0.5554934144020081
+metastep 2372 finished, loss: 0.6006314754486084
+metastep 2373 finished, loss: 0.6371546387672424
+metastep 2374 finished, loss: 0.6357337236404419
+metastep 2375 finished, loss: 0.6176233291625977
+metastep 2376 finished, loss: 0.6226083040237427
+metastep 2377 finished, loss: 0.6034378409385681
+metastep 2378 finished, loss: 0.5907221436500549
+metastep 2379 finished, loss: 0.5817570090293884
+metastep 2380 finished, loss: 0.575745701789856
+metastep 2381 finished, loss: 0.6657571792602539
+metastep 2382 finished, loss: 0.6149417757987976
+metastep 2383 finished, loss: 0.5331128835678101
+metastep 2384 finished, loss: 0.6068521738052368
+metastep 2385 finished, loss: 0.6090337634086609
+metastep 2386 finished, loss: 0.6054761409759521
+metastep 2387 finished, loss: 0.5729677677154541
+metastep 2388 finished, loss: 0.5757405757904053
+metastep 2389 finished, loss: 0.6006564497947693
+metastep 2390 finished, loss: 0.5827325582504272
+metastep 2391 finished, loss: 0.5568976402282715
+metastep 2392 finished, loss: 0.5686150193214417
+metastep 2393 finished, loss: 0.5562944412231445
+metastep 2394 finished, loss: 0.6080819368362427
+metastep 2395 finished, loss: 0.5986136794090271
+metastep 2396 finished, loss: 0.5926221013069153
+metastep 2397 finished, loss: 0.5940515995025635
+metastep 2398 finished, loss: 0.5960818529129028
+metastep 2399 finished, loss: 0.6042332649230957
+metastep 2400 finished, loss: 0.5578129291534424
+metastep 2401 finished, loss: 0.5430607795715332
+metastep 2402 finished, loss: 0.5708739161491394
+metastep 2403 finished, loss: 0.6070858240127563
+metastep 2404 finished, loss: 0.6047418117523193
+metastep 2405 finished, loss: 0.6354755163192749
+metastep 2406 finished, loss: 0.6065017580986023
+metastep 2407 finished, loss: 0.5881174206733704
+metastep 2408 finished, loss: 0.6324930191040039
+metastep 2409 finished, loss: 0.5994783639907837
+metastep 2410 finished, loss: 0.5659319162368774
+metastep 2411 finished, loss: 0.5368038415908813
+metastep 2412 finished, loss: 0.5868040919303894
+metastep 2413 finished, loss: 0.532345712184906
+metastep 2414 finished, loss: 0.6412619352340698
+metastep 2415 finished, loss: 0.5878753662109375
+metastep 2416 finished, loss: 0.507575273513794
+metastep 2417 finished, loss: 0.506579577922821
+metastep 2418 finished, loss: 0.5117789506912231
+metastep 2419 finished, loss: 0.5475853085517883
+metastep 2420 finished, loss: 0.561336874961853
+metastep 2421 finished, loss: 0.5926755666732788
+metastep 2422 finished, loss: 0.6137975454330444
+metastep 2423 finished, loss: 0.5780816674232483
+metastep 2424 finished, loss: 0.5828959345817566
+metastep 2425 finished, loss: 0.6173616647720337
+metastep 2426 finished, loss: 0.5719090104103088
+metastep 2427 finished, loss: 0.5623008012771606
+metastep 2428 finished, loss: 0.5893310904502869
+metastep 2429 finished, loss: 0.6120247840881348
+metastep 2430 finished, loss: 0.5875613689422607
+metastep 2431 finished, loss: 0.5828601717948914
+metastep 2432 finished, loss: 0.5923744440078735
+metastep 2433 finished, loss: 0.585013210773468
+metastep 2434 finished, loss: 0.5887067914009094
+metastep 2435 finished, loss: 0.539876401424408
+metastep 2436 finished, loss: 0.5925623178482056
+metastep 2437 finished, loss: 0.5678524971008301
+metastep 2438 finished, loss: 0.6204737424850464
+metastep 2439 finished, loss: 0.5772393345832825
+metastep 2440 finished, loss: 0.6075436472892761
+metastep 2441 finished, loss: 0.5547963976860046
+metastep 2442 finished, loss: 0.5243988037109375
+metastep 2443 finished, loss: 0.5809950828552246
+metastep 2444 finished, loss: 0.6375386714935303
+metastep 2445 finished, loss: 0.5616291165351868
+metastep 2446 finished, loss: 0.5540269613265991
+metastep 2447 finished, loss: 0.6085418462753296
+metastep 2448 finished, loss: 0.6432068943977356
+metastep 2449 finished, loss: 0.5454393029212952
+metastep 2450 finished, loss: 0.619616687297821
+metastep 2451 finished, loss: 0.5403150320053101
+metastep 2452 finished, loss: 0.566533625125885
+metastep 2453 finished, loss: 0.5525510311126709
+metastep 2454 finished, loss: 0.5437019467353821
+metastep 2455 finished, loss: 0.5322448015213013
+metastep 2456 finished, loss: 0.5803594589233398
+metastep 2457 finished, loss: 0.5873979926109314
+metastep 2458 finished, loss: 0.6021011471748352
+metastep 2459 finished, loss: 0.5279094576835632
+metastep 2460 finished, loss: 0.586956262588501
+metastep 2461 finished, loss: 0.5641456246376038
+metastep 2462 finished, loss: 0.6198819875717163
+metastep 2463 finished, loss: 0.6036641001701355
+metastep 2464 finished, loss: 0.6300922632217407
+metastep 2465 finished, loss: 0.5969573855400085
+metastep 2466 finished, loss: 0.5753435492515564
+metastep 2467 finished, loss: 0.5511813759803772
+metastep 2468 finished, loss: 0.6111246347427368
+metastep 2469 finished, loss: 0.6147235035896301
+metastep 2470 finished, loss: 0.5761953592300415
+metastep 2471 finished, loss: 0.5875738263130188
+metastep 2472 finished, loss: 0.5747007131576538
+metastep 2473 finished, loss: 0.6284204721450806
+metastep 2474 finished, loss: 0.6176540851593018
+metastep 2475 finished, loss: 0.5777972936630249
+metastep 2476 finished, loss: 0.6113747358322144
+metastep 2477 finished, loss: 0.5815934538841248
+metastep 2478 finished, loss: 0.622532844543457
+metastep 2479 finished, loss: 0.610387921333313
+metastep 2480 finished, loss: 0.5226112008094788
+metastep 2481 finished, loss: 0.5984548330307007
+metastep 2482 finished, loss: 0.5613127946853638
+metastep 2483 finished, loss: 0.4799046516418457
+metastep 2484 finished, loss: 0.5752924084663391
+metastep 2485 finished, loss: 0.4749617576599121
+metastep 2486 finished, loss: 0.5329986810684204
+metastep 2487 finished, loss: 0.5414633750915527
+metastep 2488 finished, loss: 0.572515070438385
+metastep 2489 finished, loss: 0.5284895896911621
+metastep 2490 finished, loss: 0.6174558997154236
+metastep 2491 finished, loss: 0.6114726066589355
+metastep 2492 finished, loss: 0.5375397205352783
+metastep 2493 finished, loss: 0.5688357353210449
+metastep 2494 finished, loss: 0.5863140821456909
+metastep 2495 finished, loss: 0.5251084566116333
+metastep 2496 finished, loss: 0.48717594146728516
+metastep 2497 finished, loss: 0.5475301146507263
+metastep 2498 finished, loss: 0.5743151903152466
+metastep 2499 finished, loss: 0.4944365918636322
+metastep 2500 finished, loss: 0.5655397176742554
+metastep 2501 finished, loss: 0.5481807589530945
+metastep 2502 finished, loss: 0.5289679169654846
+metastep 2503 finished, loss: 0.5835448503494263
+metastep 2504 finished, loss: 0.5931015014648438
+metastep 2505 finished, loss: 0.5787258148193359
+metastep 2506 finished, loss: 0.5415197014808655
+metastep 2507 finished, loss: 0.5748080015182495
+metastep 2508 finished, loss: 0.6298781037330627
+metastep 2509 finished, loss: 0.5307554006576538
+metastep 2510 finished, loss: 0.546207070350647
+metastep 2511 finished, loss: 0.6054815053939819
+metastep 2512 finished, loss: 0.5550163984298706
+metastep 2513 finished, loss: 0.4893110394477844
+metastep 2514 finished, loss: 0.5553197860717773
+metastep 2515 finished, loss: 0.5408006906509399
+metastep 2516 finished, loss: 0.5536746978759766
+metastep 2517 finished, loss: 0.5469637513160706
+metastep 2518 finished, loss: 0.5753652453422546
+metastep 2519 finished, loss: 0.5674237608909607
+metastep 2520 finished, loss: 0.5742995738983154
+metastep 2521 finished, loss: 0.5120779275894165
+metastep 2522 finished, loss: 0.5676650404930115
+metastep 2523 finished, loss: 0.507592499256134
+metastep 2524 finished, loss: 0.5588425397872925
+metastep 2525 finished, loss: 0.5248525142669678
+metastep 2526 finished, loss: 0.5909281969070435
+metastep 2527 finished, loss: 0.5825821757316589
+metastep 2528 finished, loss: 0.5514795780181885
+metastep 2529 finished, loss: 0.6056696176528931
+metastep 2530 finished, loss: 0.601225733757019
+metastep 2531 finished, loss: 0.5760733485221863
+metastep 2532 finished, loss: 0.5481763482093811
+metastep 2533 finished, loss: 0.5693732500076294
+metastep 2534 finished, loss: 0.5901029109954834
+metastep 2535 finished, loss: 0.5352928638458252
+metastep 2536 finished, loss: 0.623609185218811
+metastep 2537 finished, loss: 0.5784026980400085
+metastep 2538 finished, loss: 0.4734974503517151
+metastep 2539 finished, loss: 0.5357759594917297
+metastep 2540 finished, loss: 0.5235702991485596
+metastep 2541 finished, loss: 0.552906334400177
+metastep 2542 finished, loss: 0.561849057674408
+metastep 2543 finished, loss: 0.5539961457252502
+metastep 2544 finished, loss: 0.5294604897499084
+metastep 2545 finished, loss: 0.5615733861923218
+metastep 2546 finished, loss: 0.636492908000946
+metastep 2547 finished, loss: 0.5317478775978088
+metastep 2548 finished, loss: 0.5902707576751709
+metastep 2549 finished, loss: 0.5338115692138672
+metastep 2550 finished, loss: 0.5074332356452942
+metastep 2551 finished, loss: 0.5724918246269226
+metastep 2552 finished, loss: 0.5668697357177734
+metastep 2553 finished, loss: 0.5220739841461182
+metastep 2554 finished, loss: 0.5344985127449036
+metastep 2555 finished, loss: 0.5978357791900635
+metastep 2556 finished, loss: 0.5382038950920105
+metastep 2557 finished, loss: 0.5065401196479797
+metastep 2558 finished, loss: 0.5426557660102844
+metastep 2559 finished, loss: 0.5304554104804993
+metastep 2560 finished, loss: 0.6136361956596375
+metastep 2561 finished, loss: 0.5811905264854431
+metastep 2562 finished, loss: 0.5619876980781555
+metastep 2563 finished, loss: 0.5993601083755493
+metastep 2564 finished, loss: 0.609755277633667
+metastep 2565 finished, loss: 0.5620079040527344
+metastep 2566 finished, loss: 0.5408698320388794
+metastep 2567 finished, loss: 0.5526329874992371
+metastep 2568 finished, loss: 0.5996977686882019
+metastep 2569 finished, loss: 0.6231052875518799
+metastep 2570 finished, loss: 0.5181006193161011
+metastep 2571 finished, loss: 0.5893349647521973
+metastep 2572 finished, loss: 0.5451657176017761
+metastep 2573 finished, loss: 0.5869503021240234
+metastep 2574 finished, loss: 0.5804601311683655
+metastep 2575 finished, loss: 0.5692417025566101
+metastep 2576 finished, loss: 0.5203503370285034
+metastep 2577 finished, loss: 0.5317606329917908
+metastep 2578 finished, loss: 0.5908403396606445
+metastep 2579 finished, loss: 0.5650749206542969
+metastep 2580 finished, loss: 0.5679492950439453
+metastep 2581 finished, loss: 0.5491426587104797
+metastep 2582 finished, loss: 0.5322235226631165
+metastep 2583 finished, loss: 0.5345096588134766
+metastep 2584 finished, loss: 0.5728968977928162
+metastep 2585 finished, loss: 0.5346224308013916
+metastep 2586 finished, loss: 0.562309980392456
+metastep 2587 finished, loss: 0.5386028289794922
+metastep 2588 finished, loss: 0.5540108680725098
+metastep 2589 finished, loss: 0.5763535499572754
+metastep 2590 finished, loss: 0.5236904621124268
+metastep 2591 finished, loss: 0.5214158296585083
+metastep 2592 finished, loss: 0.49333491921424866
+metastep 2593 finished, loss: 0.5109457969665527
+metastep 2594 finished, loss: 0.5145914554595947
+metastep 2595 finished, loss: 0.6254900693893433
+metastep 2596 finished, loss: 0.5681431293487549
+metastep 2597 finished, loss: 0.5432111024856567
+metastep 2598 finished, loss: 0.5078351497650146
+metastep 2599 finished, loss: 0.5752105116844177
+metastep 2600 finished, loss: 0.547184944152832
+metastep 2601 finished, loss: 0.537980854511261
+metastep 2602 finished, loss: 0.5318485498428345
+metastep 2603 finished, loss: 0.5274465084075928
+metastep 2604 finished, loss: 0.5412732362747192
+metastep 2605 finished, loss: 0.5865241885185242
+metastep 2606 finished, loss: 0.5426205992698669
+metastep 2607 finished, loss: 0.49995720386505127
+metastep 2608 finished, loss: 0.45707541704177856
+metastep 2609 finished, loss: 0.5918653607368469
+metastep 2610 finished, loss: 0.559752345085144
+metastep 2611 finished, loss: 0.5810450315475464
+metastep 2612 finished, loss: 0.5912061929702759
+metastep 2613 finished, loss: 0.577530026435852
+metastep 2614 finished, loss: 0.5031753778457642
+metastep 2615 finished, loss: 0.5221015214920044
+metastep 2616 finished, loss: 0.5428193807601929
+metastep 2617 finished, loss: 0.5186474323272705
+metastep 2618 finished, loss: 0.5150560140609741
+metastep 2619 finished, loss: 0.5127867460250854
+metastep 2620 finished, loss: 0.552089512348175
+metastep 2621 finished, loss: 0.6116646528244019
+metastep 2622 finished, loss: 0.562963604927063
+metastep 2623 finished, loss: 0.5420635938644409
+metastep 2624 finished, loss: 0.5792621374130249
+metastep 2625 finished, loss: 0.5314935445785522
+metastep 2626 finished, loss: 0.5617070198059082
+metastep 2627 finished, loss: 0.5863375663757324
+metastep 2628 finished, loss: 0.6342394351959229
+metastep 2629 finished, loss: 0.55162513256073
+metastep 2630 finished, loss: 0.5728750228881836
+metastep 2631 finished, loss: 0.6426191329956055
+metastep 2632 finished, loss: 0.638035774230957
+metastep 2633 finished, loss: 0.5944942235946655
+metastep 2634 finished, loss: 0.5532420873641968
+metastep 2635 finished, loss: 0.5681414008140564
+metastep 2636 finished, loss: 0.571573793888092
+metastep 2637 finished, loss: 0.5900339484214783
+metastep 2638 finished, loss: 0.5618157386779785
+metastep 2639 finished, loss: 0.583698034286499
+metastep 2640 finished, loss: 0.5586211681365967
+metastep 2641 finished, loss: 0.5270758867263794
+metastep 2642 finished, loss: 0.5272808074951172
+metastep 2643 finished, loss: 0.5531493425369263
+metastep 2644 finished, loss: 0.5204300880432129
+metastep 2645 finished, loss: 0.6015795469284058
+metastep 2646 finished, loss: 0.5686370134353638
+metastep 2647 finished, loss: 0.6075218319892883
+metastep 2648 finished, loss: 0.5555049180984497
+metastep 2649 finished, loss: 0.5583789944648743
+metastep 2650 finished, loss: 0.5270554423332214
+metastep 2651 finished, loss: 0.5520516633987427
+metastep 2652 finished, loss: 0.5871355533599854
+metastep 2653 finished, loss: 0.566932201385498
+metastep 2654 finished, loss: 0.5492158532142639
+metastep 2655 finished, loss: 0.5742880702018738
+metastep 2656 finished, loss: 0.604286789894104
+metastep 2657 finished, loss: 0.5967381000518799
+metastep 2658 finished, loss: 0.5503360033035278
+metastep 2659 finished, loss: 0.5124607086181641
+metastep 2660 finished, loss: 0.58955979347229
+metastep 2661 finished, loss: 0.5419808626174927
+metastep 2662 finished, loss: 0.5708673000335693
+metastep 2663 finished, loss: 0.6200644373893738
+metastep 2664 finished, loss: 0.6025888919830322
+metastep 2665 finished, loss: 0.5245782136917114
+metastep 2666 finished, loss: 0.5867867469787598
+metastep 2667 finished, loss: 0.5544809103012085
+metastep 2668 finished, loss: 0.611777663230896
+metastep 2669 finished, loss: 0.5371615290641785
+metastep 2670 finished, loss: 0.5213515162467957
+metastep 2671 finished, loss: 0.6052734851837158
+metastep 2672 finished, loss: 0.5450705289840698
+metastep 2673 finished, loss: 0.5404154658317566
+metastep 2674 finished, loss: 0.5159701108932495
+metastep 2675 finished, loss: 0.6068528890609741
+metastep 2676 finished, loss: 0.555933952331543
+metastep 2677 finished, loss: 0.5114685297012329
+metastep 2678 finished, loss: 0.543271541595459
+metastep 2679 finished, loss: 0.5264243483543396
+metastep 2680 finished, loss: 0.5885338187217712
+metastep 2681 finished, loss: 0.5512217879295349
+metastep 2682 finished, loss: 0.6823049187660217
+metastep 2683 finished, loss: 0.5902209877967834
+metastep 2684 finished, loss: 0.5816358327865601
+metastep 2685 finished, loss: 0.6302187442779541
+metastep 2686 finished, loss: 0.5575339198112488
+metastep 2687 finished, loss: 0.5588280558586121
+metastep 2688 finished, loss: 0.5386363863945007
+metastep 2689 finished, loss: 0.5993331670761108
+metastep 2690 finished, loss: 0.6401575803756714
+metastep 2691 finished, loss: 0.5685667395591736
+metastep 2692 finished, loss: 0.5765538811683655
+metastep 2693 finished, loss: 0.5833761096000671
+metastep 2694 finished, loss: 0.5328787565231323
+metastep 2695 finished, loss: 0.5542173981666565
+metastep 2696 finished, loss: 0.5359264016151428
+metastep 2697 finished, loss: 0.5306053757667542
+metastep 2698 finished, loss: 0.5326734781265259
+metastep 2699 finished, loss: 0.5507004261016846
+metastep 2700 finished, loss: 0.5434781312942505
+metastep 2701 finished, loss: 0.523420512676239
+metastep 2702 finished, loss: 0.4784424901008606
+metastep 2703 finished, loss: 0.5023506879806519
+metastep 2704 finished, loss: 0.5299438834190369
+metastep 2705 finished, loss: 0.4904319643974304
+metastep 2706 finished, loss: 0.5538259148597717
+metastep 2707 finished, loss: 0.4910476505756378
+metastep 2708 finished, loss: 0.5359757542610168
+metastep 2709 finished, loss: 0.5539516806602478
+metastep 2710 finished, loss: 0.5876075029373169
+metastep 2711 finished, loss: 0.5148838758468628
+metastep 2712 finished, loss: 0.5077768564224243
+metastep 2713 finished, loss: 0.5203688740730286
+metastep 2714 finished, loss: 0.5144609808921814
+metastep 2715 finished, loss: 0.4952593445777893
+metastep 2716 finished, loss: 0.5822924375534058
+metastep 2717 finished, loss: 0.53368079662323
+metastep 2718 finished, loss: 0.5667757987976074
+metastep 2719 finished, loss: 0.5107477307319641
+metastep 2720 finished, loss: 0.5504573583602905
+metastep 2721 finished, loss: 0.5568886399269104
+metastep 2722 finished, loss: 0.5138890147209167
+metastep 2723 finished, loss: 0.5528553128242493
+metastep 2724 finished, loss: 0.5406184196472168
+metastep 2725 finished, loss: 0.5794501304626465
+metastep 2726 finished, loss: 0.6212520003318787
+metastep 2727 finished, loss: 0.5831215381622314
+metastep 2728 finished, loss: 0.5398432612419128
+metastep 2729 finished, loss: 0.5915557742118835
+metastep 2730 finished, loss: 0.5369513630867004
+metastep 2731 finished, loss: 0.5612888932228088
+metastep 2732 finished, loss: 0.5816246271133423
+metastep 2733 finished, loss: 0.5653368830680847
+metastep 2734 finished, loss: 0.5854560136795044
+metastep 2735 finished, loss: 0.5458990931510925
+metastep 2736 finished, loss: 0.519156813621521
+metastep 2737 finished, loss: 0.5718564987182617
+metastep 2738 finished, loss: 0.5094513297080994
+metastep 2739 finished, loss: 0.6007192134857178
+metastep 2740 finished, loss: 0.5266382098197937
+metastep 2741 finished, loss: 0.5645867586135864
+metastep 2742 finished, loss: 0.5794525742530823
+metastep 2743 finished, loss: 0.5650249123573303
+metastep 2744 finished, loss: 0.4833781123161316
+metastep 2745 finished, loss: 0.558991551399231
+metastep 2746 finished, loss: 0.5365561842918396
+metastep 2747 finished, loss: 0.5177417397499084
+metastep 2748 finished, loss: 0.5616875290870667
+metastep 2749 finished, loss: 0.5180158615112305
+metastep 2750 finished, loss: 0.5508896112442017
+metastep 2751 finished, loss: 0.5395306348800659
+metastep 2752 finished, loss: 0.48511338233947754
+metastep 2753 finished, loss: 0.5953105688095093
+metastep 2754 finished, loss: 0.5605220794677734
+metastep 2755 finished, loss: 0.579024076461792
+metastep 2756 finished, loss: 0.4981435537338257
+metastep 2757 finished, loss: 0.516907274723053
+metastep 2758 finished, loss: 0.5754204392433167
+metastep 2759 finished, loss: 0.5452134609222412
+metastep 2760 finished, loss: 0.5276574492454529
+metastep 2761 finished, loss: 0.5865262150764465
+metastep 2762 finished, loss: 0.5758833885192871
+metastep 2763 finished, loss: 0.5427235960960388
+metastep 2764 finished, loss: 0.49476543068885803
+metastep 2765 finished, loss: 0.5841741561889648
+metastep 2766 finished, loss: 0.5647698640823364
+metastep 2767 finished, loss: 0.522739052772522
+metastep 2768 finished, loss: 0.5931388139724731
+metastep 2769 finished, loss: 0.5117388963699341
+metastep 2770 finished, loss: 0.5291403532028198
+metastep 2771 finished, loss: 0.597542405128479
+metastep 2772 finished, loss: 0.6011627912521362
+metastep 2773 finished, loss: 0.5448360443115234
+metastep 2774 finished, loss: 0.5345221757888794
+metastep 2775 finished, loss: 0.5613150000572205
+metastep 2776 finished, loss: 0.658301591873169
+metastep 2777 finished, loss: 0.58724045753479
+metastep 2778 finished, loss: 0.596869945526123
+metastep 2779 finished, loss: 0.5532181859016418
+metastep 2780 finished, loss: 0.6084638833999634
+metastep 2781 finished, loss: 0.5636767745018005
+metastep 2782 finished, loss: 0.5998412370681763
+metastep 2783 finished, loss: 0.5715274810791016
+metastep 2784 finished, loss: 0.5786187052726746
+metastep 2785 finished, loss: 0.5971503853797913
+metastep 2786 finished, loss: 0.6124882102012634
+metastep 2787 finished, loss: 0.5942508578300476
+metastep 2788 finished, loss: 0.5635798573493958
+metastep 2789 finished, loss: 0.5214143991470337
+metastep 2790 finished, loss: 0.5588829517364502
+metastep 2791 finished, loss: 0.553648829460144
+metastep 2792 finished, loss: 0.6261663436889648
+metastep 2793 finished, loss: 0.5765866637229919
+metastep 2794 finished, loss: 0.5793616771697998
+metastep 2795 finished, loss: 0.571363091468811
+metastep 2796 finished, loss: 0.5912250280380249
+metastep 2797 finished, loss: 0.5699216723442078
+metastep 2798 finished, loss: 0.5730617046356201
+metastep 2799 finished, loss: 0.6204175353050232
+metastep 2800 finished, loss: 0.612761378288269
+metastep 2801 finished, loss: 0.6644455194473267
+metastep 2802 finished, loss: 0.5434688925743103
+metastep 2803 finished, loss: 0.5999183058738708
+metastep 2804 finished, loss: 0.6298986077308655
+metastep 2805 finished, loss: 0.5303361415863037
+metastep 2806 finished, loss: 0.591078519821167
+metastep 2807 finished, loss: 0.5781806111335754
+metastep 2808 finished, loss: 0.5698943138122559
+metastep 2809 finished, loss: 0.5297056436538696
+metastep 2810 finished, loss: 0.5495359301567078
+metastep 2811 finished, loss: 0.6434447169303894
+metastep 2812 finished, loss: 0.5458599328994751
+metastep 2813 finished, loss: 0.5141164064407349
+metastep 2814 finished, loss: 0.5856671929359436
+metastep 2815 finished, loss: 0.607465922832489
+metastep 2816 finished, loss: 0.6221247911453247
+metastep 2817 finished, loss: 0.5700395107269287
+metastep 2818 finished, loss: 0.6043376922607422
+metastep 2819 finished, loss: 0.5904415249824524
+metastep 2820 finished, loss: 0.5880911946296692
+metastep 2821 finished, loss: 0.5601917505264282
+metastep 2822 finished, loss: 0.5587064027786255
+metastep 2823 finished, loss: 0.5609588623046875
+metastep 2824 finished, loss: 0.6102873086929321
+metastep 2825 finished, loss: 0.6219772100448608
+metastep 2826 finished, loss: 0.5289409160614014
+metastep 2827 finished, loss: 0.5071670413017273
+metastep 2828 finished, loss: 0.5425815582275391
+metastep 2829 finished, loss: 0.5661998987197876
+metastep 2830 finished, loss: 0.5532914996147156
+metastep 2831 finished, loss: 0.6017974615097046
+metastep 2832 finished, loss: 0.5980058312416077
+metastep 2833 finished, loss: 0.5873369574546814
+metastep 2834 finished, loss: 0.5650267601013184
+metastep 2835 finished, loss: 0.5218634605407715
+metastep 2836 finished, loss: 0.5754982233047485
+metastep 2837 finished, loss: 0.5648887753486633
+metastep 2838 finished, loss: 0.598257839679718
+metastep 2839 finished, loss: 0.5548273324966431
+metastep 2840 finished, loss: 0.5523465871810913
+metastep 2841 finished, loss: 0.5691049098968506
+metastep 2842 finished, loss: 0.49028468132019043
+metastep 2843 finished, loss: 0.5699835419654846
+metastep 2844 finished, loss: 0.5178809762001038
+metastep 2845 finished, loss: 0.5578506588935852
+metastep 2846 finished, loss: 0.5430831909179688
+metastep 2847 finished, loss: 0.552620530128479
+metastep 2848 finished, loss: 0.6139793992042542
+metastep 2849 finished, loss: 0.6258758902549744
+metastep 2850 finished, loss: 0.6234911680221558
+metastep 2851 finished, loss: 0.5678157210350037
+metastep 2852 finished, loss: 0.6258963346481323
+metastep 2853 finished, loss: 0.5972356796264648
+metastep 2854 finished, loss: 0.6178100109100342
+metastep 2855 finished, loss: 0.5243159532546997
+metastep 2856 finished, loss: 0.6505581140518188
+metastep 2857 finished, loss: 0.6400970816612244
+metastep 2858 finished, loss: 0.5826425552368164
+metastep 2859 finished, loss: 0.6134934425354004
+metastep 2860 finished, loss: 0.5143557786941528
+metastep 2861 finished, loss: 0.611869215965271
+metastep 2862 finished, loss: 0.6240552663803101
+metastep 2863 finished, loss: 0.6081762313842773
+metastep 2864 finished, loss: 0.6158576011657715
+metastep 2865 finished, loss: 0.5623061656951904
+metastep 2866 finished, loss: 0.5637562274932861
+metastep 2867 finished, loss: 0.6539677977561951
+metastep 2868 finished, loss: 0.5943214893341064
+metastep 2869 finished, loss: 0.5595845580101013
+metastep 2870 finished, loss: 0.5654730200767517
+metastep 2871 finished, loss: 0.6018859148025513
+metastep 2872 finished, loss: 0.5492025017738342
+metastep 2873 finished, loss: 0.5985771417617798
+metastep 2874 finished, loss: 0.5942932367324829
+metastep 2875 finished, loss: 0.564580500125885
+metastep 2876 finished, loss: 0.5540755391120911
+metastep 2877 finished, loss: 0.6475669741630554
+metastep 2878 finished, loss: 0.5992770791053772
+metastep 2879 finished, loss: 0.648605227470398
+metastep 2880 finished, loss: 0.5824171900749207
+metastep 2881 finished, loss: 0.5889747738838196
+metastep 2882 finished, loss: 0.589413583278656
+metastep 2883 finished, loss: 0.5380417108535767
+metastep 2884 finished, loss: 0.5955221652984619
+metastep 2885 finished, loss: 0.586426317691803
+metastep 2886 finished, loss: 0.6352904438972473
+metastep 2887 finished, loss: 0.5573950409889221
+metastep 2888 finished, loss: 0.6065545082092285
+metastep 2889 finished, loss: 0.5861120223999023
+metastep 2890 finished, loss: 0.5169360637664795
+metastep 2891 finished, loss: 0.5794463753700256
+metastep 2892 finished, loss: 0.6629526615142822
+metastep 2893 finished, loss: 0.6192944049835205
+metastep 2894 finished, loss: 0.5520098209381104
+metastep 2895 finished, loss: 0.5686121582984924
+metastep 2896 finished, loss: 0.6014351844787598
+metastep 2897 finished, loss: 0.6144130229949951
+metastep 2898 finished, loss: 0.6302058696746826
+metastep 2899 finished, loss: 0.5965544581413269
+metastep 2900 finished, loss: 0.5994895696640015
+metastep 2901 finished, loss: 0.543867826461792
+metastep 2902 finished, loss: 0.6475956439971924
+metastep 2903 finished, loss: 0.5581074953079224
+metastep 2904 finished, loss: 0.5808404088020325
+metastep 2905 finished, loss: 0.6543185114860535
+metastep 2906 finished, loss: 0.5422476530075073
+metastep 2907 finished, loss: 0.5653991103172302
+metastep 2908 finished, loss: 0.6048649549484253
+metastep 2909 finished, loss: 0.5874327421188354
+metastep 2910 finished, loss: 0.6555429697036743
+metastep 2911 finished, loss: 0.594372570514679
+metastep 2912 finished, loss: 0.5529512763023376
+metastep 2913 finished, loss: 0.5918178558349609
+metastep 2914 finished, loss: 0.6504517793655396
+metastep 2915 finished, loss: 0.5972530841827393
+metastep 2916 finished, loss: 0.5998315811157227
+metastep 2917 finished, loss: 0.6113268733024597
+metastep 2918 finished, loss: 0.639465868473053
+metastep 2919 finished, loss: 0.6433882713317871
+metastep 2920 finished, loss: 0.5707738399505615
+metastep 2921 finished, loss: 0.5525890588760376
+metastep 2922 finished, loss: 0.6090908050537109
+metastep 2923 finished, loss: 0.5732753276824951
+metastep 2924 finished, loss: 0.6673383116722107
+metastep 2925 finished, loss: 0.5628365278244019
+metastep 2926 finished, loss: 0.5541291236877441
+metastep 2927 finished, loss: 0.6191316843032837
+metastep 2928 finished, loss: 0.5935256481170654
+metastep 2929 finished, loss: 0.6303199529647827
+metastep 2930 finished, loss: 0.6000462770462036
+metastep 2931 finished, loss: 0.6627919673919678
+metastep 2932 finished, loss: 0.6130906939506531
+metastep 2933 finished, loss: 0.6384574770927429
+metastep 2934 finished, loss: 0.5777021646499634
+metastep 2935 finished, loss: 0.5698297619819641
+metastep 2936 finished, loss: 0.6106866002082825
+metastep 2937 finished, loss: 0.6099000573158264
+metastep 2938 finished, loss: 0.5874943733215332
+metastep 2939 finished, loss: 0.6285041570663452
+metastep 2940 finished, loss: 0.5976337790489197
+metastep 2941 finished, loss: 0.5517523288726807
+metastep 2942 finished, loss: 0.6668556928634644
+metastep 2943 finished, loss: 0.6088221073150635
+metastep 2944 finished, loss: 0.6586576104164124
+metastep 2945 finished, loss: 0.586570143699646
+metastep 2946 finished, loss: 0.5191570520401001
+metastep 2947 finished, loss: 0.562920093536377
+metastep 2948 finished, loss: 0.6070191264152527
+metastep 2949 finished, loss: 0.5388345718383789
+metastep 2950 finished, loss: 0.5761664509773254
+metastep 2951 finished, loss: 0.582947850227356
+metastep 2952 finished, loss: 0.6010668873786926
+metastep 2953 finished, loss: 0.5728660225868225
+metastep 2954 finished, loss: 0.5779860019683838
+metastep 2955 finished, loss: 0.5240963697433472
+metastep 2956 finished, loss: 0.5925619006156921
+metastep 2957 finished, loss: 0.5496624112129211
+metastep 2958 finished, loss: 0.5504000782966614
+metastep 2959 finished, loss: 0.5259256958961487
+metastep 2960 finished, loss: 0.616765558719635
+metastep 2961 finished, loss: 0.5174705982208252
+metastep 2962 finished, loss: 0.5615689754486084
+metastep 2963 finished, loss: 0.5203346014022827
+metastep 2964 finished, loss: 0.5716904401779175
+metastep 2965 finished, loss: 0.5729913115501404
+metastep 2966 finished, loss: 0.5493340492248535
+metastep 2967 finished, loss: 0.5958470702171326
+metastep 2968 finished, loss: 0.5538454651832581
+metastep 2969 finished, loss: 0.539216935634613
+metastep 2970 finished, loss: 0.6084975004196167
+metastep 2971 finished, loss: 0.5454800128936768
+metastep 2972 finished, loss: 0.5719922780990601
+metastep 2973 finished, loss: 0.5730440616607666
+metastep 2974 finished, loss: 0.595731794834137
+metastep 2975 finished, loss: 0.6293349266052246
+metastep 2976 finished, loss: 0.5930614471435547
+metastep 2977 finished, loss: 0.599592387676239
+metastep 2978 finished, loss: 0.5689932107925415
+metastep 2979 finished, loss: 0.5196205973625183
+metastep 2980 finished, loss: 0.5180193185806274
+metastep 2981 finished, loss: 0.513266384601593
+metastep 2982 finished, loss: 0.6018771529197693
+metastep 2983 finished, loss: 0.4756532311439514
+metastep 2984 finished, loss: 0.6312569379806519
+metastep 2985 finished, loss: 0.5881410837173462
+metastep 2986 finished, loss: 0.5525367856025696
+metastep 2987 finished, loss: 0.49585986137390137
+metastep 2988 finished, loss: 0.5550748109817505
+metastep 2989 finished, loss: 0.47935307025909424
+metastep 2990 finished, loss: 0.505907416343689
+metastep 2991 finished, loss: 0.5110675692558289
+metastep 2992 finished, loss: 0.5783102512359619
+metastep 2993 finished, loss: 0.5582113862037659
+metastep 2994 finished, loss: 0.5722073316574097
+metastep 2995 finished, loss: 0.5442413687705994
+metastep 2996 finished, loss: 0.5787577629089355
+metastep 2997 finished, loss: 0.5403067469596863
+metastep 2998 finished, loss: 0.5904251337051392
+metastep 2999 finished, loss: 0.5043112635612488
+Start to train adapter for SUN397
+loss 0.056771114468574524
+loss 0.048011261969804764
+loss 0.042710620909929276
+loss 0.03736076131463051
+loss 0.03525177389383316
+loss 0.03212698549032211
+loss 0.03048616647720337
+loss 0.02983182668685913
+loss 0.02742864564061165
+loss 0.027501054108142853
+loss 0.02561912313103676
+loss 0.025501182302832603
+loss 0.02488386258482933
+loss 0.02422207221388817
+loss 0.024349652230739594
+loss 0.023629147559404373
+loss 0.024383163079619408
+loss 0.02345741167664528
+loss 0.02333368919789791
+loss 0.022829603403806686
+loss 0.022496573626995087
+loss 0.022550085559487343
+loss 0.02122661843895912
+loss 0.022488128393888474
+loss 0.02108611911535263
+loss 0.020621944218873978
+loss 0.02045554295182228
+loss 0.019733475521206856
+loss 0.020375875756144524
+loss 0.01941104419529438
+loss 0.01933811418712139
+loss 0.018951069563627243
+loss 0.020023483783006668
+loss 0.018535729497671127
+loss 0.01846294477581978
+loss 0.018068645149469376
+loss 0.01944969967007637
+loss 0.018679488450288773
+loss 0.018744109198451042
+loss 0.017736349254846573
+loss 0.01818397268652916
+loss 0.018153656274080276
+loss 0.01723385415971279
+loss 0.017022158950567245
+loss 0.018322095274925232
+loss 0.01712062768638134
+loss 0.01745600625872612
+loss 0.016653496772050858
+loss 0.01680966280400753
+loss 0.01685909926891327
+loss 0.016549652442336082
+loss 0.017282456159591675
+loss 0.016105176880955696
+loss 0.016276855021715164
+loss 0.01650746911764145
+loss 0.01602960005402565
+loss 0.016866100952029228
+loss 0.015430166386067867
+loss 0.01622105948626995
+loss 0.01626257784664631
+loss 0.01573648676276207
+loss 0.01566641964018345
+loss 0.016348371282219887
+loss 0.01490188017487526
+loss 0.015270242467522621
+loss 0.014555918984115124
+loss 0.014854508452117443
+loss 0.015484604984521866
+loss 0.01478816568851471
+loss 0.01421754714101553
+loss 0.013901425525546074
+loss 0.014450648799538612
+loss 0.013639885932207108
+loss 0.014308726415038109
+loss 0.013576589524745941
+loss 0.01490655355155468
+loss 0.014202363789081573
+loss 0.014760789461433887
+loss 0.013092854991555214
+loss 0.0145534947514534
+loss 0.013772867619991302
+loss 0.01337557565420866
+loss 0.014072230085730553
+loss 0.013304457068443298
+loss 0.013564824126660824
+loss 0.013334591872990131
+loss 0.014036446809768677
+loss 0.013575260527431965
+loss 0.013633351773023605
+loss 0.013527121394872665
+loss 0.012907378375530243
+loss 0.013927987776696682
+loss 0.012965296395123005
+loss 0.013867530040442944
+loss 0.013172430917620659
+loss 0.01248259749263525
+loss 0.012917596846818924
+loss 0.013381117954850197
+loss 0.012392668053507805
+loss 0.011902499943971634
+loss 0.012445442378520966
+loss 0.012691562995314598
+loss 0.013079266995191574
+loss 0.013021881692111492
+loss 0.01298249326646328
+loss 0.012201057747006416
+loss 0.01283502671867609
+loss 0.01272572111338377
+loss 0.012393265962600708
+loss 0.0133828055113554
+loss 0.011900346726179123
+loss 0.01225622184574604
+loss 0.012010827660560608
+loss 0.01142328605055809
+loss 0.011857300996780396
+loss 0.011931762099266052
+loss 0.012532442808151245
+loss 0.011134980246424675
+loss 0.01201259158551693
+loss 0.011881212703883648
+loss 0.01187979057431221
+loss 0.012062178924679756
+loss 0.012525182217359543
+loss 0.012063315138220787
+loss 0.011416160501539707
+loss 0.011788856238126755
+loss 0.011533841490745544
+loss 0.011766506358981133
+loss 0.011570814996957779
+loss 0.012010490521788597
+loss 0.011345162987709045
+loss 0.011543232016265392
+loss 0.011641712859272957
+loss 0.011227823793888092
+loss 0.011392684653401375
+loss 0.011662598699331284
+loss 0.011874362826347351
+loss 0.011960293166339397
+loss 0.011141646653413773
+loss 0.011525207199156284
+loss 0.011870991438627243
+loss 0.010833203792572021
+loss 0.011062764562666416
+loss 0.011589014902710915
+loss 0.010522843338549137
+loss 0.011066929437220097
+loss 0.010248133912682533
+loss 0.011431514285504818
+loss 0.010754885151982307
+loss 0.010719938203692436
+loss 0.01172069925814867
+loss 0.010548297315835953
+loss 0.01059550978243351
+loss 0.011081557720899582
+loss 0.010192591696977615
+loss 0.010662262327969074
+losses 2.560333709232509
+SUN397:73.66621410971992%
+Start to train adapter for Cars
+loss 0.06036840006709099
+loss 0.051336850970983505
+loss 0.04216073080897331
+loss 0.03833310306072235
+loss 0.03313751891255379
+loss 0.031029513105750084
+loss 0.029675403609871864
+loss 0.028199318796396255
+loss 0.027816064655780792
+loss 0.026374295353889465
+loss 0.026895666494965553
+loss 0.025376655161380768
+loss 0.02469317987561226
+loss 0.024422623217105865
+loss 0.024090714752674103
+loss 0.023787204176187515
+loss 0.022634802386164665
+loss 0.023000866174697876
+loss 0.023002728819847107
+loss 0.021748865023255348
+loss 0.02171351946890354
+loss 0.021511681377887726
+loss 0.020550644025206566
+loss 0.020335828885436058
+loss 0.020109090954065323
+loss 0.020016375929117203
+loss 0.018684370443224907
+loss 0.019374078139662743
+loss 0.0195220485329628
+loss 0.01899632439017296
+loss 0.017255790531635284
+loss 0.01784420572221279
+loss 0.017851434648036957
+loss 0.01706647500395775
+loss 0.017745524644851685
+loss 0.017624810338020325
+loss 0.016990654170513153
+loss 0.01669774204492569
+loss 0.016402600333094597
+loss 0.015786724165081978
+loss 0.016483966261148453
+loss 0.015626411885023117
+loss 0.01573517546057701
+loss 0.015706032514572144
+loss 0.015374920330941677
+loss 0.015272796154022217
+loss 0.015219369903206825
+loss 0.014936759136617184
+loss 0.014943410642445087
+loss 0.014393260702490807
+loss 0.01400258019566536
+loss 0.013588113710284233
+loss 0.013888917863368988
+loss 0.013326981104910374
+loss 0.01396146323531866
+loss 0.013954807072877884
+loss 0.01340881921350956
+loss 0.013131086714565754
+loss 0.012927326373755932
+loss 0.0126886535435915
+loss 0.01298503391444683
+loss 0.012790340930223465
+loss 0.01203835941851139
+losses 1.306549015454948
+Cars:71.04837706752892%
+Start to train adapter for RESISC45
+loss 0.09454023838043213
+loss 0.08183827996253967
+loss 0.06551419198513031
+loss 0.05434736981987953
+loss 0.054983556270599365
+loss 0.04860886186361313
+loss 0.045612528920173645
+loss 0.043439675122499466
+loss 0.04247315227985382
+loss 0.04098536819219589
+loss 0.03752908855676651
+loss 0.03592925891280174
+loss 0.0380823127925396
+loss 0.036717869341373444
+loss 0.03306137025356293
+loss 0.03260577470064163
+loss 0.030033277347683907
+loss 0.031118877232074738
+loss 0.028908278793096542
+loss 0.02809176966547966
+loss 0.02727809175848961
+loss 0.028591185808181763
+loss 0.027169816195964813
+loss 0.027172934263944626
+loss 0.02723647467792034
+loss 0.02639930509030819
+loss 0.023983661085367203
+loss 0.02330811694264412
+loss 0.02341848611831665
+loss 0.023133710026741028
+loss 0.023138979449868202
+loss 0.022102277725934982
+loss 0.021283430978655815
+loss 0.020643992349505424
+loss 0.0211157388985157
+loss 0.019987914711236954
+loss 0.019557517021894455
+loss 0.019935134798288345
+loss 0.01937379501760006
+loss 0.019574977457523346
+loss 0.01792120933532715
+loss 0.017382752150297165
+loss 0.017822835594415665
+loss 0.017674434930086136
+loss 0.017941584810614586
+loss 0.01715795323252678
+loss 0.015859123319387436
+loss 0.01598702371120453
+loss 0.01592111773788929
+loss 0.014556504786014557
+losses 1.5370511803776026
+RESISC45:92.85714285714286%
+Start to train adapter for EuroSAT
+loss 0.11482854932546616
+loss 0.08400342613458633
+loss 0.05603031814098358
+loss 0.046591706573963165
+loss 0.04179501533508301
+loss 0.03545916825532913
+loss 0.02925378829240799
+loss 0.027624832466244698
+loss 0.02450280264019966
+loss 0.02496420219540596
+loss 0.020375818014144897
+loss 0.018485745415091515
+loss 0.017496107146143913
+loss 0.016473207622766495
+loss 0.016249896958470345
+loss 0.015027789399027824
+loss 0.015693316236138344
+loss 0.013913594186306
+loss 0.012650838121771812
+loss 0.013415167108178139
+loss 0.011376732029020786
+loss 0.010203490033745766
+losses 0.6664155116304755
+EuroSAT:99.4074074074074%
+Start to train adapter for SVHN
+loss 0.06360756605863571
+loss 0.05529475957155228
+loss 0.034796956926584244
+loss 0.027764756232500076
+loss 0.02918795496225357
+loss 0.026682380586862564
+loss 0.018360674381256104
+loss 0.019760336726903915
+loss 0.019976424053311348
+loss 0.015362342819571495
+loss 0.01594129391014576
+loss 0.015178030356764793
+loss 0.013289366848766804
+loss 0.013241502456367016
+loss 0.01079926174134016
+loss 0.010242131538689137
+loss 0.01013844646513462
+loss 0.01080329529941082
+loss 0.01081725675612688
+loss 0.00884596724063158
+loss 0.009099364280700684
+loss 0.011979627422988415
+loss 0.006864595226943493
+loss 0.009043712168931961
+loss 0.008848081342875957
+loss 0.007428170647472143
+loss 0.009856659919023514
+loss 0.007132581435143948
+loss 0.008399894461035728
+loss 0.007048562169075012
+loss 0.008185222744941711
+loss 0.00740540586411953
+loss 0.005999633576720953
+loss 0.006343502085655928
+loss 0.006920935586094856
+loss 0.007124751806259155
+loss 0.00637464877218008
+loss 0.008374564349651337
+loss 0.007775299251079559
+loss 0.009008917026221752
+loss 0.007015027105808258
+loss 0.006304261274635792
+loss 0.006256944965571165
+loss 0.005969577003270388
+loss 0.005826138891279697
+loss 0.005831683520227671
+loss 0.006334442645311356
+loss 0.0057455627247691154
+loss 0.00606128154322505
+loss 0.006187078543007374
+loss 0.006400889251381159
+loss 0.004089295864105225
+loss 0.005124849732965231
+loss 0.00573898758739233
+loss 0.006113802082836628
+loss 0.006999735254794359
+loss 0.004985187202692032
+loss 0.0056691886857151985
+loss 0.005871310364454985
+loss 0.0049543920904397964
+loss 0.004919698461890221
+loss 0.005818772129714489
+loss 0.0061241500079631805
+loss 0.004941019229590893
+loss 0.0056893955916166306
+loss 0.0056823608465492725
+loss 0.005741252098232508
+loss 0.004810454323887825
+loss 0.0051309410482645035
+loss 0.004436998628079891
+loss 0.005961807910352945
+loss 0.004641235340386629
+loss 0.005503836087882519
+loss 0.005591714289039373
+loss 0.005782148335129023
+loss 0.004567732568830252
+loss 0.0050109513103961945
+loss 0.005161081440746784
+loss 0.005259501747786999
+loss 0.004810497164726257
+loss 0.004683436825871468
+loss 0.004931536503136158
+loss 0.005411768332123756
+loss 0.004769820719957352
+loss 0.006232865154743195
+loss 0.004728284664452076
+loss 0.00500937644392252
+loss 0.005299663636833429
+loss 0.005478299222886562
+loss 0.005202778615057468
+loss 0.0040055736899375916
+loss 0.003927948884665966
+loss 0.005903840065002441
+loss 0.004534509964287281
+loss 0.004577094689011574
+loss 0.00545125687494874
+loss 0.0046028392389416695
+loss 0.003921571187674999
+loss 0.0053140162490308285
+loss 0.004359092563390732
+loss 0.004858654923737049
+loss 0.005144049413502216
+loss 0.0046087754890322685
+loss 0.0046417382545769215
+loss 0.004521012306213379
+loss 0.003971895202994347
+loss 0.004481224343180656
+loss 0.005915012676268816
+loss 0.007252918556332588
+loss 0.005195095669478178
+loss 0.004622084088623524
+loss 0.0035602760035544634
+loss 0.004079682752490044
+loss 0.00495140440762043
+loss 0.0036643443163484335
+loss 0.004727278836071491
+loss 0.004030290059745312
+loss 0.003591874847188592
+loss 0.004357323981821537
+loss 0.004465267527848482
+loss 0.004393664188683033
+loss 0.005189880728721619
+loss 0.005041421391069889
+loss 0.004287715069949627
+loss 0.004121867939829826
+loss 0.0047430372796952724
+loss 0.004271944053471088
+loss 0.0043277195654809475
+loss 0.00473793875426054
+loss 0.0038618948310613632
+loss 0.0038077200297266245
+loss 0.00379869993776083
+loss 0.004254738334566355
+loss 0.005075459368526936
+loss 0.003823158796876669
+loss 0.004259834066033363
+loss 0.004309778101742268
+loss 0.004608660936355591
+loss 0.003935344982892275
+loss 0.0037315450608730316
+loss 0.0038234111852943897
+loss 0.004417083691805601
+loss 0.003992094192653894
+loss 0.0039246887899935246
+loss 0.0037465724162757397
+loss 0.003940253984183073
+loss 0.004854490049183369
+loss 0.0035377766471356153
+loss 0.0038851185236126184
+loss 0.003077229717746377
+loss 0.00444380659610033
+loss 0.005219384096562862
+loss 0.004008193966001272
+loss 0.004056180361658335
+loss 0.0038079284131526947
+loss 0.004399900324642658
+loss 0.004436586517840624
+loss 0.004431604873389006
+loss 0.004151951055973768
+loss 0.004146750085055828
+loss 0.004533780738711357
+loss 0.0032287531066685915
+loss 0.004708943888545036
+loss 0.005276392214000225
+loss 0.0036994237452745438
+loss 0.00448952941223979
+loss 0.004419728182256222
+loss 0.0035375964362174273
+loss 0.00395025173202157
+loss 0.004521271679550409
+loss 0.004526806529611349
+loss 0.004606479313224554
+loss 0.004817422013729811
+loss 0.0032046164851635695
+loss 0.006358680780977011
+loss 0.004075153730809689
+loss 0.004726916551589966
+loss 0.0032681117299944162
+loss 0.005536632612347603
+loss 0.006451069377362728
+loss 0.0046039726585149765
+loss 0.0033343748655170202
+loss 0.004770495928823948
+loss 0.004598735366016626
+loss 0.003931162413209677
+loss 0.00390368839725852
+loss 0.004386497661471367
+loss 0.0040587252005934715
+loss 0.004050834570080042
+loss 0.003609022591263056
+loss 0.003289562650024891
+loss 0.004808502271771431
+loss 0.0043524038046598434
+loss 0.003876726608723402
+loss 0.004156854934990406
+loss 0.004265075083822012
+loss 0.003507707267999649
+loss 0.0037930021062493324
+loss 0.004089644644409418
+loss 0.0044286223128438
+loss 0.0037827342748641968
+loss 0.0040862541645765305
+loss 0.003575112670660019
+loss 0.00239965645596385
+losses 1.3578357552178204
+SVHN:97.36094038106945%
+Start to train adapter for GTSRB
+loss 0.12020964920520782
+loss 0.11137687414884567
+loss 0.09766384959220886
+loss 0.08663845807313919
+loss 0.07847338169813156
+loss 0.07249803841114044
+loss 0.06801116466522217
+loss 0.06573641300201416
+loss 0.06546720862388611
+loss 0.06106346473097801
+loss 0.059951893985271454
+loss 0.055309928953647614
+loss 0.05082189664244652
+loss 0.05435672402381897
+loss 0.04978853464126587
+loss 0.04832743853330612
+loss 0.04605822265148163
+loss 0.04403097927570343
+loss 0.042842477560043335
+loss 0.045422621071338654
+loss 0.04419245198369026
+loss 0.03930823504924774
+loss 0.043438173830509186
+loss 0.03902588039636612
+loss 0.03600496053695679
+loss 0.03372915834188461
+loss 0.03510810807347298
+loss 0.035721082240343094
+loss 0.034803617745637894
+loss 0.03193216025829315
+loss 0.03401990979909897
+loss 0.02848523110151291
+loss 0.03241509944200516
+loss 0.02836674451828003
+loss 0.02705109864473343
+loss 0.024861879646778107
+loss 0.027494940906763077
+loss 0.026021936908364296
+loss 0.023417949676513672
+loss 0.023664604872465134
+loss 0.025902189314365387
+loss 0.022087249904870987
+loss 0.01989615336060524
+loss 0.021546106785535812
+loss 0.022249098867177963
+loss 0.020786888897418976
+loss 0.02186099998652935
+loss 0.02110777050256729
+loss 0.019639108330011368
+loss 0.02057722955942154
+loss 0.01890242099761963
+loss 0.018284503370523453
+loss 0.019022595137357712
+loss 0.017574990168213844
+loss 0.016959991306066513
+loss 0.01779451034963131
+loss 0.016600817441940308
+loss 0.018015751615166664
+loss 0.016327284276485443
+loss 0.015116965398192406
+loss 0.014923399314284325
+loss 0.013598822057247162
+loss 0.014018663205206394
+loss 0.015374187380075455
+loss 0.013598496094346046
+loss 0.013700279407203197
+loss 0.013624544255435467
+loss 0.012733975425362587
+loss 0.01362996269017458
+loss 0.01154547929763794
+loss 0.013689893297851086
+loss 0.011582409963011742
+loss 0.013040576130151749
+loss 0.012257508002221584
+loss 0.011107554659247398
+loss 0.010960090905427933
+loss 0.00934735219925642
+loss 0.009601011872291565
+loss 0.01142677292227745
+loss 0.011495042592287064
+loss 0.009840554557740688
+loss 0.0090203071013093
+loss 0.008680442348122597
+loss 0.009391484782099724
+loss 0.007859412580728531
+loss 0.008237447589635849
+loss 0.010108220390975475
+loss 0.009205825626850128
+loss 0.009745405055582523
+loss 0.008441004902124405
+loss 0.008272415027022362
+loss 0.008740565739572048
+loss 0.00802117120474577
+loss 0.008824477903544903
+loss 0.008904874324798584
+loss 0.007942037656903267
+loss 0.0085655078291893
+loss 0.007290449924767017
+loss 0.007261347025632858
+losses 2.778974042274058
+GTSRB:98.40063341250989%
+Start to train adapter for MNIST
+loss 0.06252022832632065
+loss 0.04786348342895508
+loss 0.03755960986018181
+loss 0.0329202339053154
+loss 0.031131945550441742
+loss 0.02611374482512474
+loss 0.021821876987814903
+loss 0.019289981573820114
+loss 0.017859265208244324
+loss 0.019850976765155792
+loss 0.014963033609092236
+loss 0.015744391828775406
+loss 0.01255835685878992
+loss 0.01182459108531475
+loss 0.012297078035771847
+loss 0.010055388323962688
+loss 0.008626722730696201
+loss 0.007145796902477741
+loss 0.007933832705020905
+loss 0.008108492940664291
+loss 0.006856719963252544
+loss 0.006710155867040157
+loss 0.007043063174933195
+loss 0.006531238555908203
+loss 0.006207138299942017
+loss 0.005315172486007214
+loss 0.005307099781930447
+loss 0.005916929803788662
+loss 0.0062181041575968266
+loss 0.004805507138371468
+loss 0.004785745870321989
+loss 0.005825532600283623
+loss 0.005124179180711508
+loss 0.00372959952801466
+loss 0.003674695733934641
+loss 0.0038614924997091293
+loss 0.0044336020946502686
+loss 0.003572652814909816
+loss 0.0029655550606548786
+loss 0.0035714157857000828
+loss 0.0033395765349268913
+loss 0.004563929047435522
+loss 0.002697158604860306
+loss 0.0031058015301823616
+loss 0.0025288029573857784
+loss 0.0026367513928562403
+loss 0.003944294061511755
+loss 0.002789610531181097
+loss 0.004242334980517626
+loss 0.0026546232402324677
+loss 0.002470947802066803
+loss 0.003537752665579319
+loss 0.0027841043192893267
+loss 0.003329069120809436
+loss 0.0039011575281620026
+loss 0.002681994577869773
+loss 0.0026640002615749836
+loss 0.0035863020457327366
+loss 0.0030732834711670876
+loss 0.002731831045821309
+loss 0.0031475257128477097
+loss 0.002484347205609083
+loss 0.0030356007628142834
+loss 0.002847136929631233
+loss 0.0027081938460469246
+loss 0.002585718408226967
+loss 0.002098522149026394
+loss 0.0029907135758548975
+loss 0.002066866960376501
+loss 0.0033194038551300764
+loss 0.003069938626140356
+loss 0.0023176725953817368
+loss 0.0024931624066084623
+loss 0.0021127802319824696
+loss 0.00209129904396832
+loss 0.002230197424069047
+loss 0.0025795474648475647
+loss 0.001774293719790876
+loss 0.0015691517619416118
+losses 0.6394300302490592
+MNIST:99.47%
+Start to train adapter for DTD
+loss 0.08698830008506775
+loss 0.07746405899524689
+loss 0.06662798672914505
+loss 0.059379942715168
+loss 0.053387515246868134
+loss 0.04784921556711197
+loss 0.04898607358336449
+loss 0.04455128684639931
+loss 0.042526572942733765
+loss 0.039318352937698364
+loss 0.03910725563764572
+loss 0.037996724247932434
+loss 0.03958386555314064
+loss 0.03731445223093033
+loss 0.03432267904281616
+losses 0.755404282361269
+DTD:64.36170212765957%
+Avg ACC:87.07155217037976%
+Final acc list: [73.66621410971992, 71.04837706752892, 92.85714285714286, 99.4074074074074, 97.36094038106945, 98.40063341250989, 99.47, 64.36170212765957]
+Total time cost: 1856.7996578216553 seconds.
+********** Run ends. **********
