@@ -1,6 +1,5 @@
 #!/bin/bash
 # run_merge.sh
-# Bash脚本，用于多次运行 merge_gpt_glue.py 并方便修改超参数
 
 python main_emr_merging.py --batch_size 128 --meta_batch_size 8 --meta_batch_size 4 --epoch 3000 --inner_steps 1 --metalr 1 --adalr 0.1 --gpu 2
 python main_emr_merging.py --batch_size 128 --meta_batch_size 8 --meta_batch_size 4 --epoch 3000 --inner_steps 1 --metalr 0.1 --adalr 0.1 --gpu 2
