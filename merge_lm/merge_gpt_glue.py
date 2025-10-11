@@ -1,5 +1,5 @@
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "1,2,3"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0,1,2,3"
 
 
 import datasets.arrow_dataset
@@ -46,94 +46,6 @@ from transformers import (
     default_data_collator,
     AutoConfig
 )
-
-
-
-def get_emr_merge_performance(args: argparse.Namespace, models_to_merge: list, trainers: list,
-                          tokenizer: transformers.AutoTokenizer, logger):
-    logger.info(f"configuration is {args}")
-    merging_method = MergingMethod(merging_method_name='emr_merging')
-
-    merged_model = GPT2ForSequenceClassification.from_pretrained(pretrained_model_name_or_path=args.ckpt_path+'/gpt2').to(args.device)
-    pretrained_model = copy.deepcopy(merged_model)
-    pretrained_model.to('cpu')
-    pretrained_param_dict = {param_name: param_value for param_name, param_value in
-                             pretrained_model.named_parameters()}
-    
-    ## view model parameters
-    # print("Model parameters:")
-    # for key in pretrained_param_dict.keys():
-    #     print(key,pretrained_param_dict[key].shape)
-    # sys.exit()
-
-    # set random seed to guarantee reproducibility
-    set_random_seed(seed=0)
-    # exclude parameter whose name matches "classifier"
-    Vector_unified, masks, rescales = merging_method.get_emr_merged_model(merged_model=merged_model,
-                                                   models_to_merge=models_to_merge,
-                                                   exclude_param_names_regex=[".*score.*"],
-                                                   models_use_deepcopy=True)
-
-    for idx, (dataset_name, model_to_merge) in enumerate(zip(args.dataset_names, models_to_merge)):
-        # merged_model.config =
-        merged_model.config = AutoConfig.from_pretrained(
-            pretrained_model_name_or_path=args.ckpt_path+f"/gpt2_{dataset_name}") # load the config
-        task_vector_recon = {}
-        for n in Vector_unified:
-            task_vector_recon[n] = Vector_unified[n] * masks[n][idx] * rescales[idx]
-        with torch.no_grad():
-            merged_params = {}
-            for param_name in task_vector_recon:
-                merged_params[param_name] = pretrained_param_dict[param_name] + task_vector_recon[param_name]
-        for param_name, param_value in merged_model.named_parameters():
-            if param_name in merged_params:
-                param_value.data.copy_(merged_params[param_name])
-        merged_model.score = model_to_merge.score
-        merged_model.to(args.device)
-        glue = TokenizedGLUE(tokenizer)
-        ds = glue.load_dataset(dataset_name)
-        # print(type(ds))
-        # print(ds)
-        # print(ds["train"][0])   # 训练集第一条样本
-        # print(ds["validation"][0])
-        # print(ds["test"][0])
-        # sys.exit()
-
-        try:
-            ds_val = ds['validation']
-        except:
-            ds_val = ds['validation_mismatched']
-        with torch.no_grad():
-            accuracy = Accuracy("multiclass", num_classes=num_labels[
-                dataset_name])  # len(ds['validation'].unique('label')))#, num_classes=num_labels[dataset_name])
-            loader = DataLoader(
-                ds_val,
-                collate_fn=default_data_collator,
-                batch_size=args.batch_size,
-                num_workers=1,
-                shuffle=True,
-            )
-            for batch in (
-                    pbar := tqdm(
-                        loader, desc="Evaluating", leave=False, dynamic_ncols=True
-                    )
-            ):
-                input_ids = batch["input_ids"].to(args.device)
-                attention_mask = batch["attention_mask"].to(args.device)
-                labels = batch["labels"].to(args.device)
-                # print(input_ids.shape)
-                # print(attention_mask.shape)
-                # print(labels.shape)
-                # sys.exit()
-
-                # outputs = merged_model(input_ids, attention_mask=attention_mask, output_hidden_states=True)
-                outputs = merged_model(input_ids, attention_mask=attention_mask)
-                logits = outputs.logits
-                acc = accuracy(logits.detach().cpu(), labels.detach().cpu())
-                pbar.set_postfix({"accuracy": acc.item()})
-
-            acc = accuracy.compute().item()
-            logger.info(f"acc on {dataset_name}: {acc}")
 
 def mrpc_tokenize_function(examples, tokenizer):
     inputs = tokenizer(
@@ -403,55 +315,6 @@ def setup_logger(args):
         logger.info(f"configuration is {args}")
     return logger, run_start_time, readable
 
-def train_adapters(model, train_dataloader, optimizer, scheduler, device, epochs=3):
-    best_f1 = 0.0
-    
-    for epoch in range(epochs):
-        print(f"======== Epoch {epoch+1} / {epochs} ========")
-        model.train()
-        total_loss = 0
-        
-        # 训练循环
-        progress_bar = tqdm(train_dataloader, desc="Training", position=0, leave=True)
-        for batch in progress_bar:
-            # 将数据移到GPU
-            batch = {k: v.to(device) for k, v in batch.items()}
-            
-            # 清零梯度
-            optimizer.zero_grad()
-            
-            # 前向传播
-            outputs = model(
-                input_ids=batch['input_ids'],
-                attention_mask=batch['attention_mask'],
-                labels=batch['labels']
-            )
-            
-            loss = outputs.loss
-            total_loss += loss.item()
-            
-            # 反向传播
-            loss.backward()
-            
-            # 梯度裁剪，防止梯度爆炸
-            torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
-            
-            # 参数更新
-            optimizer.step()
-            scheduler.step()
-            
-            # 更新进度条
-            progress_bar.set_postfix({"loss": loss.item()})
-        
-        # 计算平均训练损失
-        avg_train_loss = total_loss / len(train_dataloader)
-        print(f"Average training loss: {avg_train_loss:.4f}")
-        
-        # 保存最佳模型
-        if val_metrics['f1'] > best_f1:
-            best_f1 = val_metrics['f1']
-            torch.save(model.state_dict(), "best_weibo_sentiment_model.pth")
-            print("Saved best model!")
 
 def evaluate(args, adamerging_mtl_model, tokenizer, logger):
     for idx, dataset_name in enumerate(args.dataset_names):
@@ -522,7 +385,7 @@ if __name__ == "__main__":
     parser.add_argument('--epochs', type=int, default=200, help="number of epochs")
     parser.add_argument('--inner_steps', type=int, default=1, help="number of inner steps")
     parser.add_argument('--metalr', type=float, default=1e-2, help="learning rate for meta optimization")
-    parser.add_argument('--adalr', type=float, default=1e-2, help="learning rate for adapter optimization")
+    parser.add_argument('--adalr', type=float, default=1e-1, help="learning rate for adapter optimization")
     parser.add_argument('--final_epochs', type=int, default=3, help="number of epochs to train adapters at the end")
 
     try:
@@ -540,7 +403,7 @@ if __name__ == "__main__":
     # np.random.seed(args.seed)
     # random.seed(args.seed)
 
-    local_rank = int(os.environ["LOCAL_RANK"])   # torchrun 会传入
+    local_rank = int(os.environ["LOCAL_RANK"]) 
     dist.init_process_group(backend="nccl")
     torch.cuda.set_device(local_rank)
     args.device = torch.device("cuda", local_rank)
@@ -623,8 +486,8 @@ if __name__ == "__main__":
     logger, run_start_time, readable = setup_logger(args)
     
     
-    evaluate(args, adamerging_mtl_model, tokenizer, logger)
-    sys.exit(0)
+    # evaluate(args, adamerging_mtl_model, tokenizer, logger)
+    # sys.exit(0)
 
 
 
@@ -914,5 +777,3 @@ if __name__ == "__main__":
         logger.info(f"Final lambdas: {adamerging_mtl_model.module.lambdas()}")
         logger.info(f"Final lambdas_raw: {adamerging_mtl_model.module.lambdas_raw}")
     sys.exit()
-
-    # performance = get_emr_merge_performance(args, models, loaders, tokenizer, logger)
