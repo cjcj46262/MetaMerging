@@ -1,4 +1,4 @@
-Checkpoints can be downloaded from [task_vectors_checkpoints](https://drive.google.com/drive/folders/1u_Tva6x0p6oxu5Eo0ZZsf-520Cc_3MKw).
+Checkpoints can be downloaded from [task_vectors_checkpoints](https://drive.google.com/drive/folders/1u_Tva6x0p6oxu5Eo0ZZsf-520Cc_3MKw), whihc is openly provided in [TaskArithmetic](https://github.com/mlfoundations/task_vectors).
 
 Place checkpoints here as follows:
 

@@ -9,10 +9,21 @@ We use Python 3.10.18, Pytorch 2.4.1, cuda 12.4. For python packages, please see
 
 
 ## Merge ViT models
+Go to the folder:
+```
+cd merge-vit/
+```
 
+Download the checkpoints of pretrained and finetuned ViT models following the guide in `./merge_vit/checkpoints/README.md`.
 
-python main_emr_merging.py --batch_size 128 --meta_batch_size 8 --meta_batch_size 4 --epoch 3000 --inner_steps 1 --metalr 0.01 --adalr 0.1 --gpu 2
+Download the vision classification datasets following the guide in `./merge_vit/data/README.md`.
 
+Go to line 194 in `main_meta_merging.py` and set `args.home` to your path where both `checkpoints/` and `data/` are stored.
+
+Use the following command for merging ViT models and test in multiple tasks.
+```
+python main_meta_merging.py --batch_size 128 --meta_batch_size 8 --meta_batch_size 4 --epoch 3000 --inner_steps 1 --metalr 0.01 --adalr 0.1 --gpu 2
+```
 
 
 ## Merge GPT-2 models
@@ -34,3 +45,7 @@ Use the following command for running the code in parallel on 4x RTX 4090 GPUs.
 torchrun --nproc_per_node=4 merge_gpt_glue.py --batch_size 8 --epoch 300 --inner_steps 1 --metalr 0.01 --adalr 0.1 
 ```
 The GLUE datasets will be automatically downloaded during the first run.
+
+## Diagram
+
+![overall framework](./figures/MetaMerge.png)

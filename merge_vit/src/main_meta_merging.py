@@ -181,16 +181,8 @@ def new_forward(self, x, attn_mask=None):
 
 def add_adapters_to_vit(vit_model, bottleneck_size=64):
     for i, block in enumerate(vit_model.transformer.resblocks):
-        hidden_size = block.mlp[0].in_features  # 获取embedding维度
+        hidden_size = block.mlp[0].in_features  
         block.adapter = Adapter(hidden_size, bottleneck_size)
-        
-        # # wrap forward
-        # old_forward = block.forward
-        # def new_forward(x, old_forward=old_forward, adapter=block.adapter, attn_mask=None, ):
-        #     x = old_forward(x, attn_mask)
-        #     x = adapter(x)
-        #     return x
-        # block.forward = new_forward.__get__(block, block.__class__)  # 绑定方法
 
         block.old_forward = block.forward
         block.forward = types.MethodType(new_forward, block)
@@ -199,7 +191,7 @@ exam_datasets = ['SUN397', 'Cars', 'RESISC45', 'EuroSAT', 'SVHN', 'GTSRB', 'MNIS
 model = 'ViT-B-32'
 args = parse_arguments()
 args.device = torch.device(f"cuda:{args.gpu}" if torch.cuda.is_available() else "cpu")
-args.home = '/HDDDATA/data_cj/merge_vit/src' # type your home path here
+args.home = '/HDDDATA/data_cj/merge_vit/src' # replace with your path of checkpoints and datasets
 args.data_location = args.home + '/data'
 args.model = model
 args.save = args.home + '/checkpoints/' + model
