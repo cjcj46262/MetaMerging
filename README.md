@@ -5,7 +5,7 @@ Code of Paper: "Learn to Merge: Meta-Learning for Adaptive Multi-Task Model Merg
 
 ## Dependency
 
-We use Python 3.10.18, Pytorch 2.4.1, cuda 12.4. For python packages, please see requirement.txt.
+We use Python 3.10.18, Pytorch 2.4.1, cuda 12.4, transformers 4.51.3, datasets 4.0.0. For more python packages, please see requirement.txt.
 
 
 ## Merge ViT models
