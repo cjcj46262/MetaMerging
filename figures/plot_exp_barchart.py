@@ -53,7 +53,7 @@ for i in range(len(methods)):
            bottom=w_o_adapter[i],
            color=(0, 0, 0, 0),       # 底色透明
            edgecolor=colors[i],   # 斜线颜色
-           hatch='///////',
+           hatch='/////',
            linewidth=1.3)
 
 # X/Y 轴美化
@@ -75,12 +75,12 @@ ax.add_artist(legend1)  # 保留第一个图例
 legend2 = ax.legend(
     handles=[
         mpatches.Patch(color='grey', label='w/o adapter'),
-        mpatches.Patch(facecolor='white', edgecolor='grey', hatch='///////', label='Increment (w/ adapter)')
+        mpatches.Patch(facecolor='white', edgecolor='grey', hatch='/////', label='Increment (w/ adapter)')
     ],
     loc='upper left', fontsize=14
 )
 # --------------------
 
 plt.tight_layout()
-plt.savefig("./figures/exp_bar1.pdf", bbox_inches='tight', pad_inches=0)
+plt.savefig("exp_bar1.pdf", bbox_inches='tight', pad_inches=0)
 plt.show()
