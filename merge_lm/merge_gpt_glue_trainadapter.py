@@ -436,7 +436,7 @@ if __name__ == "__main__":
                         help="name of the method to merge models",
                         choices=["emr_merging"])
     parser.add_argument("--gpu", type=int, default=2, help="number of gpu to use")
-    parser.add_argument('--ckpt_path', type=str, default='/HDDDATA/data_cj/ckpts/gpt2',help="ckpt path")
+    parser.add_argument('--ckpt_path', type=str, default='/HDDDATA/data/ckpts/gpt2',help="ckpt path")
 
     parser.add_argument('--epochs', type=int, default=2, help="number of epochs")
 

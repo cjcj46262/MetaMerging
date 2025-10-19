@@ -191,7 +191,7 @@ exam_datasets = ['SUN397', 'Cars', 'RESISC45', 'EuroSAT', 'SVHN', 'GTSRB', 'MNIS
 model = 'ViT-B-32'
 args = parse_arguments()
 args.device = torch.device(f"cuda:{args.gpu}" if torch.cuda.is_available() else "cpu")
-args.home = '/HDDDATA/data_cj/merge_vit/src' # replace with your path of checkpoints and datasets
+args.home = '/HDDDATA/data/merge_vit/src' # replace with your path of checkpoints and datasets
 args.data_location = args.home + '/data'
 args.model = model
 args.save = args.home + '/checkpoints/' + model
@@ -261,9 +261,6 @@ paramslist_adapters += [tuple(v.detach().clone().requires_grad_().to(args.device
 #     )
 #     models_ddp.append(ftmodel)
 adamerging_mtl_model = AdaMerging(paramslist, model, names_others, models, adapter_use=True, paramslist_adapters=paramslist_adapters, names_adapters=names_adapters)
-# adamerging_mtl_model.paramslist_adapters = torch.load("/home/cj/EMR_Merging/merge_vit/src/cache/2025_09_17_02_01_41_1_0.01_0.1_3000/adapters.pt", map_location=args.device)
-# adamerging_mtl_model.lambdas_raw = torch.load("/home/cj/EMR_Merging/merge_vit/src/cache/2025_09_17_02_01_41_1_0.01_0.1_3000/lambdas_raw.pt")
-# adamerging_mtl_model.lambdas_raw = torch.load("./cache/bf9.9/lambdas_raw.pt")
 adamerging_mtl_model = adamerging_mtl_model.to(args.device)
 run_start_time = time.time()
 

@@ -380,7 +380,7 @@ if __name__ == "__main__":
                         help="name of the method to merge models",
                         choices=["emr_merging"])
     parser.add_argument("--gpu", type=int, default=2, help="number of gpu to use")
-    parser.add_argument('--ckpt_path', type=str, default='/HDDDATA/data_cj/ckpts/gpt2',help="ckpt path")
+    parser.add_argument('--ckpt_path', type=str, default='/HDDDATA/data/ckpts/gpt2',help="ckpt path")
 
     parser.add_argument('--epochs', type=int, default=200, help="number of epochs")
     parser.add_argument('--inner_steps', type=int, default=1, help="number of inner steps")
@@ -467,9 +467,6 @@ if __name__ == "__main__":
         )
         models_ddp.append(ftmodel)
     adamerging_mtl_model = AdaMerging(paramslist, model, names_others, models_ddp, adapter_use=True, paramslist_adapters=paramslist_adapters, names_adapters=names_adapters)
-    # adamerging_mtl_model.paramslist_adapters = torch.load("/home/cj/EMR_Merging/merge_lm/cache/2025_09_12_02_50_35/adapters.pt", map_location=args.device)
-    # adamerging_mtl_model.lambdas_raw = torch.load("/home/cj/EMR_Merging/merge_lm/cache/2025_09_12_02_50_35/lambdas_raw.pt")
-    # adamerging_mtl_model.lambdas_raw = torch.load("./cache/bf9.9/lambdas_raw.pt")
     adamerging_mtl_model = adamerging_mtl_model.to(args.device)
     adamerging_mtl_model = torch.nn.parallel.DistributedDataParallel(
         adamerging_mtl_model,
