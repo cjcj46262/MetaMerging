@@ -22,7 +22,7 @@ Go to line 194 in `main_meta_merging.py` and set `args.home` to your path where 
 
 Use the following command for merging ViT models and test in multiple tasks.
 ```
-python main_meta_merging.py --batch_size 128 --meta_batch_size 8 --meta_batch_size 4 --epoch 3000 --inner_steps 1 --metalr 0.01 --adalr 0.1 --gpu 2
+python main_meta_merging.py --batch_size 128 --meta_batch_size 8 --meta_batch_size_test 4 --epoch 3000 --inner_steps 1 --metalr 0.01 --adalr 0.1 --gpu 2
 ```
 
 
