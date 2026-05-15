@@ -1,6 +1,6 @@
 # MetaMerging
 
-Code of Paper: "Learn to Merge: Meta-Learning for Adaptive Multi-Task Model Merging"
+Code of Paper: "Learn to Merge: Meta-Learning for Adaptive Multi-Task Model Merging".  ICML 2026
 
 
 ## Dependency
