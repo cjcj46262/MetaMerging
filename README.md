@@ -1,4 +1,4 @@
-# MetaMerging [ICML 2026]
+# MetaMerging <sub>[ICML 2026]</sub>
 
 Code of Paper: "Learn to Merge: Meta-Learning for Adaptive Multi-Task Model Merging".
 
